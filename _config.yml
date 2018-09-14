@@ -9,7 +9,7 @@ description:        "this is a page for Konrad Kording lab, we are comptational 
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                LemasLabGroup.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
