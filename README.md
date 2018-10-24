@@ -1,7 +1,7 @@
-# Kording lab (Bayesian Behavior Lab) page
+# Lemas Lab Group 
 
 
-This is repository for [Lemas Lab Group](https://lemas-lab-group.github.io/). We use Jekyll to run our Github page. Feel free to fork and make your own page or submit a pull-request!
+This is the repository for the [Lemas Lab Group](https://lemas-lab-group.github.io/). We use Jekyll to run our Github page. Feel free to fork and make your own page or submit a pull-request!
 
 ## Add posts
 
@@ -26,7 +26,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [Lemas Lab Group](https://lemas-lab-group.github.io/)!
 
 
 ## Add yourself
