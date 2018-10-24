@@ -12,8 +12,8 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2018
 
 _Taq1a polymorphism (rs1800497) is associated with obesity-related outcomes and dietary intake in a multi-ethnic sample of children_<br>
-Cardel MI\, Lemas DJ\, Lee AM\, Miller DR\, Huo T\, Klimentidis Y\, Fernandez JR<br>
-Pediatric Obesity, 2018, PMID:30253082 ([Article](https://www.ncbi.nlm.nih.gov/pubmed/30253082))
+Cardel MI, Lemas DJ, Lee AM, Miller DR, Huo T, Klimentidis Y, Fernandez JR<br>
+Pediatric Obesity, 2018, PMID: 30253082 ([Article](https://www.ncbi.nlm.nih.gov/pubmed/30253082))
 
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
