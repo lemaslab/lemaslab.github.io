@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-My group is interested in molecular epidemiology and the application of clinical research and informatics to understand the fetal origins of pediatric obesity. Most of the active projects in the lab are related to human milk metabolomics, analysis of electronic health records and the infant microbiome. 
+My group works at the intersection of clinical research, molecular biology and informatics to understand the fetal origins of pediatric obesity. Most of the active projects in the lab are related to human milk metabolomics, analysis of electronic health records and the infant microbiome. 
 
 ### Research
 Making sense of BIG DATA is difficult and requires a dynamic and adaptive analytics. 
@@ -23,4 +23,4 @@ We are an interdisciplinary group that span statistics, molecular biology, and m
 For PDFs of our work, visit our [publications page](https://lemas-lab-group.github.io/publication/). Feel free to [issue on Github](https://lemas-lab-group.github.io//issues) if links don't work or are obsolete.
 
 
-
+works
