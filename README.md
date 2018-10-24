@@ -1,19 +1,7 @@
 # Kording lab (Bayesian Behavior Lab) page
 
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
-
-
-## Run the page locally
-
-To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
-
-```bash
-sudo gem install jekyll
-sudo gem install rouge
-jekyll serve
-```
-
+This is repository for [Lemas Lab Group](https://lemas-lab-group.github.io/). We use Jekyll to run our Github page. Feel free to fork and make your own page or submit a pull-request!
 
 ## Add posts
 

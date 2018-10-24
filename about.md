@@ -4,20 +4,18 @@ permalink: /about/
 ---
 
 ### About us
-My group is interested in understanding the fetal origins of pediatric obesity. Most of the active projects in the lab are related to human milk metabolomics, analysis of electronic health records and the infant microbiome. 
+My group is interested in molecular epidemiology and the application of clinical research and informatics to understand the fetal origins of pediatric obesity. Most of the active projects in the lab are related to human milk metabolomics, analysis of electronic health records and the infant microbiome. 
 
 ### Research
-Making sense of data is possibly the biggest problem in Neuroscience and beyond. We build algorithms to analyze data. We also use theory as well as computational and [neural modeling](https://en.wikipedia.org/wiki/Computational_neuroscience) to understand how information is processed in the nervous system, explaining data obtained in collaboration with [electrophysiologists](https://en.wikipedia.org/wiki/Electrophysiology) and in [psychophysical](https://en.wikipedia.org/wiki/Psychophysics) experiments. Lastly, we constrain and develop new technologies aimed at obtaining data about brains.
-
+Making sense of BIG DATA is difficult and requires a dynamic and adaptive analytics. 
 
 Our conceptual work addresses information processing in the nervous system from two angles: (1) By analyzing and explaining electrophysiological data, we study what neurons do. (2) By analyzing and explaining human behavior, we study what all these neurons do together. Much of our work looks at these questions from a normative or causal viewpoint, asking what problems the nervous system should be solving. This often means taking a Bayesian approach. Bayesian decision theory is the systematic way of calculating how the nervous system may make good decisions in the presence of uncertainty. Causal inference from observational data promises to be a key enabler for progress in science.
 
-We've pursued projects that involve handshake greetings, human movement, [cell-phone related parkinson's research](http://journal.frontiersin.org/article/10.3389/fneur.2012.00158/abstract), competitions at [Kaggle](https://www.kaggle.com/), [meta-science analysis](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), data sharing initiatives, and [recording from all neurons in a mouse](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002291).
 
 
 ### Lab Members
 
-Our research group is remarkably interdisciplinary. Our interests span statistics, physics, biology, applied mathematics, molecular biology, metascience, cognitive science, and many other disciplines. Visit our [people page](http://kordinglab.com/people/) to see more information on each person who works in the lab (publications, contact information, photos).
+We are an interdisciplinary group that span statistics, molecular biology, and many other disciplines. Visit our [people page](https://lemas-lab-group.github.io//people/) to see more information on each person who works in the lab (publications, contact information, photos).
 
 
 ### Publications
@@ -27,9 +25,9 @@ For PDFs of our work, visit our [publications page](http://kordinglab.com/public
 
 ### Collaborators
 
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
+Here are people we collaborate with. **note:** This list is in no way complete. If you've collaborated with us and want a link here, let us know!
 
-**University of Pennsylvania:**
+**University of Florida:**
 - [David Issadore - Dept of Bioengineering](http://cnt.upenn.edu/david-issadore)
 - [Jay Gottfried - Dept of Neurology](http://labs.feinberg.northwestern.edu/gottfried/)
 - [Raquel and Ruben Gur - Dept of Neuropsychiatry](http://www.med.upenn.edu/bbl/faculty-regur.html)
