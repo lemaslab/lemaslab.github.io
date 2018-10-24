@@ -5,15 +5,15 @@ permalink: /publication/
 
 For those interested in numbers, see Dominick's [google scholar citations profile](https://scholar.google.com/citations?user=gxXbEZgAAAAJ&hl=en).
 
-We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
+We try to include links for all of our papers. Some of the links open PDFs, others direct you to the NCBI where the publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
 
 ### 2018
 
-_The Roles of Supervised Machine Learning in Systems Neuroscience_<br>
-Joshua I. Glaser\*, Ari S. Benjamin\*, Roozbeh Farhoodi\*, Konrad P. Kording<br>
-arXiv, 2018 ([Article](https://arxiv.org/abs/1805.08239))
+_Taq1a polymorphism (rs1800497) is associated with obesity-related outcomes and dietary intake in a multi-ethnic sample of children_<br>
+Cardel MI\, Lemas DJ\, Lee AM\, Miller DR\, Huo T\, Klimentidis Y\, Fernandez JR<br>
+Pediatric Obesity, 2018, PMID:30253082 ([Article](https://www.ncbi.nlm.nih.gov/pubmed/30253082))
 
 _Population coding of conditional probability distributions in dorsal premotor cortex_<br>
 Joshua I. Glaser, Matthew G. Perich, Pavan Ramkumar, Lee E. Miller, Konrad P. Kording<br>
