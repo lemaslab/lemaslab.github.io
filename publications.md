@@ -234,18 +234,18 @@ Frontiers in Neuroscience ([Abstract](http://journal.frontiersin.org/article/10.
 ### 2013
 
 _Evidence for novel genetic loci associated with metabolic traits in Yup’ik people_<br>
-Aslibekyan S, Vaughn LK, Wiener HW, Lemas DJ, Klimentidis YC, Havel PJ, Stanhope KL, O’Brien DM, Boyer BB, Tiwari HK <br>
+Aslibekyan S, Vaughn LK, Wiener HW, **Lemas DJ**, Klimentidis YC, Havel PJ, Stanhope KL, O’Brien DM, Boyer BB, Tiwari HK <br>
 American Journal for Human Biology.  2013. 25(5):673-680. PMID: 23907821 ([Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/23907821))
 
 _Obesity polymorphisms identified in genome-wide association studies interact with n-3 polyunsaturated fatty acids and modify genetic associations with adiposity phenotypes in Yup’ik people_<br>
-Lemas DJ, Klimentidis YC, Wiener HW, O’Brien DM, Hopkins S, Allison DB, Fernandez JR,  Tiwari HK, Boyer BB.
+**Lemas DJ**, Klimentidis YC, Wiener HW, O’Brien DM, Hopkins S, Allison DB, Fernandez JR,  Tiwari HK, Boyer BB.
 Genes & Nutrition. 2013. 8(5):495-505. PMID: 23526194([Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/23526194))
 <hr>
 
 ### 2012
 
 _Genetic polymorphisms in carnitine palmitoyltransferase 1A gene are associated with variation in body composition and fasting lipid traits in Yup’ik Eskimos_<br>
-Lemas DJ, Wiener HW, O’Brien DM, Hopkins S, Stanhope KL, Havel PJ, et al. <br>
+**Lemas DJ**, Wiener HW, O’Brien DM, Hopkins S, Stanhope KL, Havel PJ, et al. <br>
 Journal of Lipid Research. 2012. 53(1):175–184. PMID: 22045927  ([Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/22045927))
 
 
