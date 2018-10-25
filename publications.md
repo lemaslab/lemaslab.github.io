@@ -233,124 +233,21 @@ Frontiers in Neuroscience ([Abstract](http://journal.frontiersin.org/article/10.
 
 ### 2013
 
-_Motor learning of novel dynamics is not represented in a single global coordinate system: evaluation of mixed coordinate representations and local learning_<br>
-Max Berniker, David W Franklin, J. Randall Flanagan, Daniel M. Wolpert, & Konrad Kording<br>
-Journal of Neurophysiology ([PrePrint](http://jn.physiology.org/content/early/2013/12/13/jn.00493.2013.abstract))
+_Evidence for novel genetic loci associated with metabolic traits in Yup’ik people_<br>
+Aslibekyan S, Vaughn LK, Wiener HW, Lemas DJ, Klimentidis YC, Havel PJ, Stanhope KL, O’Brien DM, Boyer BB, Tiwari HK <br>
+American Journal for Human Biology.  2013. 25(5):673-680. PMID: 23907821 ([Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/23907821))
 
-_The Database for Reaching Experiments and Models_<br>
-Ben Walker, Konrad Kording
-PLOS One 8(11): e78747. doi:10.1371/journal.pone.0078747 ([Paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078747), [Database](http://crcns.org/data-sets/movements/dream))
-
-_Hand, belt, pocket or bag: Practical activity tracking with mobile phones_<br>
-Stephen A. Antos, Mark V. Albert, Konrad P. Kording<br>
-Journal of Neuroscience Methods ([PDF](http://klab.smpp.northwestern.edu/wiki/images/6/69/Antos_%282013%29_Hand_belt_pocket_or_bag.pdf))
-
-_Statistical Analysis of Molecular Signal Recording_<br>
-Joshua I. Glaser, Bradley M. Zamft, Adam H. Marblestone, Jeffrey R. Moffitt, Keith Tyo, Edward S. Boyden, George Church, Konrad P. Kording
-PLoS Comput Biol 9(7): e1003145. doi:10.1371/journal.pcbi.1003145 ([Abstract](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003145#abstract0), [PDF](http://www.ploscompbiol.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003145&representation=PDF))
-
-_Monitoring Functional Capability of Individuals with Lower Limb Amputations Using Mobile Phones_<br>
-Albert MV, McCarthy C, Valentin J, Herrmann M, Kording K, Jayaraman J (2013)
-PLoS ONE 8(6): e65340. doi:10.1371/journal.pone.0065340<br> [link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065340)
-
-_Wii Fit Balance Board Playing Improves Balance and Gait in Parkinson Disease_<br>
-Priya V Mhatre, Iris Vilares, Stacy M Stibb, Mark V Albert, PT Laura Pickering, Christina M Marciniak, Konrad Kording, Santiago Toledo
-PM&R [article](http://klab.smpp.northwestern.edu/wiki/images/a/ae/1-s2.0-S1934148213003109-main_PMNR.pdf)
-
-_Physical Principles for Scalable Neural Recording_<br>
-Adam H. Marblestone, Bradley M. Zamft, Yael G. Maguire, Mikhail G. Shapiro, Thaddeus R. Cybulski, Joshua I. Glaser, P. Benjamin Stranges, Reza Kalhor, David A. Dalrymple, Dongjin Seo, Elad Alon, Michel M. Maharbiz, Jose M. Carmena, Jan M. Rabaey, Edward S. Boyden, George M. Church, Konrad P. Kording<br>
-Frontiers in Computational Neuroscience. 7:137. doi: 10.3389/fncom.2013.00137 [paper](http://journal.frontiersin.org/article/10.3389/fncom.2013.00137/abstract)
-
-_Generalization of unconstrained reaching with hand weight changes_<br>
-Yan, X., Wang, Q., Lu, Z., Stevenson, IH., Kording, K. & Wei K.\*<br>
-Journal of Neurophysiology 109(1): 137-146. [pdf](http://klab.smpp.northwestern.edu/wiki/images/f/fb/J_Neurophysiol-2013-Yan-137-46_generalize.pdf)
-
-_An examination of the generalizability of motor costs_<br>
-M. Berniker, M. O'Brien, K. Kording & A. Ahmed<br>
-PLoS ONE 8(1), January, 2013 ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0053759#abstract0), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pone.0053759&representation=PDF)).
-
-_Credit Assignment during Movement Reinforcement Learning_<br>
-G Dam, KP Kording, K Wei<br>
-PLOS ONE 8(2): e55352. doi:10.1371/journal.pone.0055352 ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055352), [PDF](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0055352))
-
+_Obesity polymorphisms identified in genome-wide association studies interact with n-3 polyunsaturated fatty acids and modify genetic associations with adiposity phenotypes in Yup’ik people_<br>
+Lemas DJ, Klimentidis YC, Wiener HW, O’Brien DM, Hopkins S, Allison DB, Fernandez JR,  Tiwari HK, Boyer BB.
+Genes & Nutrition. 2013. 8(5):495-505. PMID: 23526194([Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/23526194))
 <hr>
 
 ### 2012
 
-_Saccadic gain adaptation is predicted by the statistics of natural fluctuations in oculomotor function_<br>
-Albert MV, Catz N, Thier P, and Kording KP <br>
-Frontiers in Computational Neuroscience ([Abstract](http://www.frontiersin.org/computational_neuroscience/10.3389/fncom.2012.00096/abstract))
+_Genetic polymorphisms in carnitine palmitoyltransferase 1A gene are associated with variation in body composition and fasting lipid traits in Yup’ik Eskimos_<br>
+Lemas DJ, Wiener HW, O’Brien DM, Hopkins S, Stanhope KL, Havel PJ, et al. <br>
+Journal of Lipid Research. 2012. 53(1):175–184. PMID: 22045927  ([Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/22045927))
 
-
-_Using mobile phones for activity recognition in Parkinson's patients_<br>
-Albert MV, Toledo S, Shapiro M, and Kording KP <br>
-Frontiers in Neurology ([Abstract](http://www.frontiersin.org/movement_disorders/10.3389/fneur.2012.00158/abstract))
-
-
-_Functional Connectivity and Tuning Curves in Populations of Simultaneously Recorded Neurons_<br>
-Stevenson IH, London BM, Oby ER, Sachs NA, Reimer J, et al. <br>
-PLoS Computational Biology ([Article](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002775))
-
-
-_Motion games improve balance control in stroke survivors: a preliminary study based on the principle of constraint-induced movement therapy_<br>
-Q Ding, IH Stevenson, N Wang, W Li, Y Sun, Q Wang, K Kording, K Wei <br>
-Displays, ([PDF](http://klab.smpp.northwestern.edu/wiki/images/7/79/Motion_Games_Kunlin.pdf))
-
-
-_Generalization of unconstrained reaching with hand weight changes_<br>
-Yan X, Wang Q, Lu Z, Stevenson IH, Kording KP, Wei K <br>
-J. Neurophys, ([PDF](http://jn.physiology.org/content/early/2012/10/05/jn.00498.2012.full.pdf))
-
-
-_Advanced User Interfaces for Upper Limb FES_<br>
-Corbett E, Ethier C, Oby ER, Kording K, Perreault E J, Miller LE <br>
-Book chapter in "Introduction to neural engineering for motor rehabilitation"
-eds. Farina, D,  Jensen, W,  Akay, M., in press ([PDF](http://onlinelibrary.wiley.com/doi/10.1002/9781118628522.ch19/summary))
-
-
-_What silly postures tell us about the brain_<br>
-Sober SJ and Koerding KP <br>
-Frontiers in Neuroscience ([Article](http://www.frontiersin.org/Neuroscience/10.3389/fnins.2012.00154/full paper))
-
-
-_Future impact: Predicting scientific success_<br>
-D. E. Acuna, S. Allesina, K. P. Kording <br>
-Nature ([Nature website](http://www.nature.com/nature/journal/v489/n7415/full/489201a.html), [PDF](http://www.nature.com/nature/journal/v489/n7415/pdf/489201a.pdf), [Online h-index calculator](http://klab.smpp.northwestern.edu/h-index.html Online h-index calculator))
-
-
-_Temporal Integration of Olfactory Perceptual Evidence in Human Orbitofrontal Cortex_<br>
-Nicholas E. Bowman, Konrad P. Kording, Jay A. Gottfried <br>
-Neuron, Volume 75, Issue 5, 916-927 ([Abstract](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441053/), [PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3441053/pdf/nihms395813.pdf))
-
-
-_Measuring Cation Dependent DNA Polymerase Fidelity Landscapes by Deep Sequencing_<br>
-Zamft B, Marblestone A, Kording K, Schmidt D, Martin-Alarcon D, TyoK, Boyden E, Church GM <br>
-PLoS ONE ([PDF](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0043876), [Supplementary data](http://goo.gl/As7XU))
-
-
-_Generalization of stochastic visuomotor rotations_<br>
-Fernandes HL, Stevenson IH, Kording KP <br>
-PLoS ONE ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0043016), [PDF](http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0043016&representation=PDF))
-
-
-_Differential Representations of Prior and Likelihood Uncertainty in the Human Brain_<br>
-Vilares I, Howard JD, Fernandes HL, Gottfried JA, Kording KP <br>
-Current Biology ([Abstract](http://www.cell.com/current-biology/abstract/S0960-9822(12)00801-9), [PDF](http://ac.els-cdn.com/S0960982212008019/1-s2.0-S0960982212008019-main.pdf?_tid=f7636e20-d0f9-11e5-8a50-00000aab0f6c&acdnat=1455220952_61d8cb51d451e942c94641e7ffc9665d))
-
-
-_Fall classification by machine learning using mobile phones_<br>
-Albert MV, Kording KP, Herrmann M, Jayaraman A <br>
-PLoS ONE ([Abstract](http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0036556), PDF)
-
-
-_Towards Perceiving Robots as Humans – Three handshake models face the Turing-like Handshake Test_<br>
-Avraham G, Nisky I, Fernandes HL, Acuna DE, Kording KP, Loeb GE, Karniel A <br>
-IEEE Transactions on Haptics ([Abstract](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6185551))
-
-
-_Decoding with limited neural data: a mixture of time-warped trajectory models for directional reaches_<br>
-Corbett EA, Perreault EJ and Kording KP <br>
-Journal of Neural Engineering, ([Abstract](http://www.ncbi.nlm.nih.gov/pubmed/22488128), [PDF](http://www.smpp.northwestern.edu/research/neuromuscular/pubs/2012%20J%20Neural%20Eng%20-%20Decoding%20limited%20neural%20data.pdf))
 
 <hr>
 
