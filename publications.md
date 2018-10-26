@@ -36,102 +36,70 @@ Benjamin James Lansdell, Konrad P. Kording<br>
 bioRxiv, 2018 ([Article](https://www.biorxiv.org/content/early/2018/01/25/253351))
 
 ### 2017
-_The Roles of Machine Learning in Biomedical Science_<br>
-Konrad P. Kording, Ari Benjamin, Roozbeh Farhoodi and Joshua Glaser<br>
-National Academy of Engineering, winter 2017,([Article](https://www.nae.edu/Publications/Bridge/176887/176976.aspx))
 
-_A cryptography-based approach for movement decoding_<br>
-Eva L. Dyer, Mohammad Gheshlaghi Azar, Matthew G. Perich, Hugo L. Fernandes, Stephanie Naufel, Lee E. Miller, Konrad P. Körding<br> Nature Biomedical Engineering 1, 967–976, 2017 ([Article](https://www.nature.com/articles/s41551-017-0169-7#Ack1)) ([Code](http://kordinglab.com/DAD/))
+_Personalizing the microbiota of donor human milk with mother’s own milk_<br>
+Cacho NT, Harrison N, Parker L, Padgett KA, Lemas DJ, Marcial G, Li N, Carr L, Neu J, Lorca GL<br>
+Frontiers in Microbiology. 2017. 8:1470. [PMID: 28824595](https://www.ncbi.nlm.nih.gov/pubmed/28824595)
 
-_Quantifying Mesoscale Neuroanatomy Using X-Ray Microtomography_<br>
-Eva L. Dyer, William Gray Roncal, Judy A. Prasad, Hugo L. Fernandes, Doga Gürsoy, Vincent De Andrade, Kamel Fezzaa, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding and Narayanan Kasthuri<br>
-eNeuro 25 September, 2017 ([Article](https://doi.org/10.1523/ENEURO.0195-17.2017)) ([Code](https://nerdslab.github.io/xbrain/))
+_What are optimal cesarean section rates in the U.S. and how do we get there? A review of evidence-based recommendations and interventions_<br>
+Montoya-Williams D, Lemas DJ, Spirdya L, Patel K, Neu J, Carson TL <br>
+Journal of Women’s Health. 2017. 26(12): 1285-1291. [PMID: 28825512](https://www.ncbi.nlm.nih.gov/pubmed/28825512)
 
-_Machine learning for neural decoding_<br>
-Joshua I. Glaser, Raeed H. Chowdhury, Matthew G. Perich, Lee E. Miller, Konrad P. Kording<br>
-arXiv, 2017 ([Article](https://arxiv.org/pdf/1708.00909.pdf)) ([Code](https://github.com/KordingLab/Neural_Decoding))
+_Reply to M Gotteland and F Magne_<br>
+Friedman JE, Young BE, Lemas DJ, Barbour LA, Frank DN, Santorico SA <br>
+American Journal of Clinical Nutrition. 2017. 105(1):234-236. [PMID: 28049665](https://www.ncbi.nlm.nih.gov/pubmed/28049665)
 
-_How Does Mixed Reality Affect Quiet Stance?_<br>
-Gaiqing Kong, Kunlin Wei, Konrad Paul Kording<br>
-bioRxiv 2017 ([Article](https://www.biorxiv.org/content/early/2017/05/02/129239))
-
-_Credit assignment between body and object probed by an object transportation task_<br>
-Gaiqing Kong, Zhihao Zhou, Qining Wang, Konrad Kording & Kunlin Wei<br>
-Scientific Reports, 2017 ([Article](https://www.nature.com/articles/s41598-017-13889-w))
-
-_The integration of probabilistic information during sensorimotor estimation is unimpaired in children with Cerebral Palsy_<br>
-Claire Chambers, Taegh Sokhey, Deborah Gaebler-Spira, Konrad P. Kording<br>
-PLoS ONE, 2017 ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0188741))
+_Early infant adiposity deposition is positively associated with human milk omega-6 to omega-3 fatty acid ratio independent of maternal BMI_<br>
+Rudolph MC, Young BE, Lemas DJ, Palmer CE, Hernandez T, Barbour LA, Friedman JE, Krebs NS, MacLean PS <br>
+International Journal of Obesity. 2017. 41(4):510-517. [PMID: 27876761](https://www.ncbi.nlm.nih.gov/pubmed/27876761)
 
 <hr>
 
 ### 2016
 
-_Ten simple rules for structuring papers_<br>
-Konrad P Kording, Brett Mensh<br>
-bioRxiv 2016 ([Article](http://biorxiv.org/content/early/2016/11/28/088278))
+_Linkage and association analysis of circulating vitamin D and parathyroid hormone identifies novel loci in Alaska Native Yup'ik people_ <br>
+Aslibekyan S, Vaughan LK, Wiener HW, Hidalgo BA, Lemas DJ, O’Brien DM, Hopkins SE, Stanhope KL, Havel PJ, Thummel KE, Boyer BB, Tiwari HK <br>
+Genes & Nutrition. 2016. 11:23 [PMID: 27579147](https://www.ncbi.nlm.nih.gov/pubmed/27579147)
 
-_Science Concierge: A Fast Content-Based Recommendation System for Scientific Publications_<br>
-Titipat Achakulvisut, Daniel E. Acuna, Tulakan Ruangrong, Konrad Kording<br>
-PLoS ONE, 2016 ([Article](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158423), [Github](https://github.com/titipata/science_concierge))
+_Polymorphisms in stearoyl CoA desaturase and sterol regulatory element binding protein interact with n-3 polyunsaturated fatty acid intake and modify genetic associations with obesity-related anthropometric and metabolic phenotypes in Yup’ik people_ <br>
+Lemas DJ, Klimentidis YC, Aslibekyan  S, Wiener HW, O’Brien DM, Hopkins SE, Stanhope KL, Havel PJ, Allison DB, Fernandez JR, Tiwari HK, Boyer BB <br>
+Molecular Nutrition and Food Research. 2016. 60(12):2642-2653. [PMID: 27467133](https://www.ncbi.nlm.nih.gov/pubmed/27467133)
 
-_A cryptography-based approach for movement decoding_<br>
-Eva L Dyer, Mohammad G Azar, Hugo L Fernandes, Matthew Perich, Stephanie Naufel, Lee Miller, Konrad Körding<br>
-bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/10/14/080861))
+_Exploring the contribution of maternal antibiotics and breastfeeding to the development of the infant microbiome and pediatric obesity_<br>
+Lemas DJ, Yee Shanique, Cacho N, Miller D, Cardel M, Gurka M, Janicke D, Shenkman E <br>
+Seminars in Fetal and Neonatal Medicine. 2016. 21(6):406-409. [PMID: 27424917](https://www.ncbi.nlm.nih.gov/pubmed/27424917)
 
-_Could a neuroscientist understand a microprocessor?_<br>
-Eric Jonas, Konrad Kording<br>
-bioRxiv, 2016 ([Article](http://biorxiv.org/content/early/2016/05/26/055624))
+_Alterations in in human milk leptin and insulin are associated with early changes in the infant intestinal microbiome_<br>
+Lemas DJ, Young BE, Baker PR, Tomczik A, Soderborg T, Hernandez T, De la Houssaye B, Robertson CE, Rudolph M, Ir D, Patinkin Z, Krebs NJ, Santorico SA, Weir T, Barbour LA, Frank DN, Friedman JE <br>
+American Journal of Clinical Nutrition. 2016. 103(3):1291-1300. [PMID 27140533](https://www.ncbi.nlm.nih.gov/pubmed/27140533)
 
-_Uncertainty leads to persistent representations of alternative movements in PMd_ <br>
-Brian M. Dekleva, Pavan Ramkumar, Paul A. Wanda, Konrad P. Körding, Lee E. Miller <br>
-eLife, In Press.
-
-_Feature-based attention and spatial selection in frontal eye fields during natural scene search_ <br>
-Pavan Ramkumar\*, Pat N. Lawlor\*, Joshua I. Glaser, Daniel K. Wood, Mark A. Segraves, Konrad P. Körding <br>
-Journal of Neurophysiology, In Press.
-
-_The role of expected reward in frontal eye field during natural scene search_ <br>
-Joshua I Glaser\*, Daniel K Wood\*, Patrick N Lawlor, Pavan Ramkumar, Konrad P. Kording, Mark A. Segraves <br>
-Journal of Neurophysiology, In Press.
-
-_Chunking as the result of an efficiency–computation tradeoff_ <br>
-Pavan Ramkumar, Daniel E. Acuna, Max Berniker, Scott T. Grafton, Robert S. Turner, Konrad P. Körding <br>
-Nature Communications, In Press
-
-_Adaptive Neuron-to-Muscle Decoder Training for FES Neuroprostheses_ <br>
-C Ethier, DE Acuna, S Solla, L Miller <br>
-Journal of Neural Engineering, In Press
-
-_Quantifying mesoscale neuroanatomy using X-ray microtomography_<br>
-Eva L Dyer, William Gray Roncal, Hugo L. Fernandes, Doga Gürsoy, Xianghui Xiao, Joshua T. Vogelstein, Chris Jacobsen, Konrad P. Körding, Narayanan Kasthuri <br>
-arXiv ([Article](http://arxiv.org/abs/1604.03629), [Web](http://docs.neurodata.io/xbrain))
-
-_Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes_<br>
-Mohammad Gheshlaghi Azar, Eva L Dyer, Konrad P Körding <br>
-Proc. of the Conference on Uncertainty in Artificial Intelligence (UAI) Proceedings, June 2016
-([Article](http://arxiv.org/abs/1602.02191))
-
-_The Development and Analysis of Integrated Neuroscience Data_<br>
-Joshua I Glaser and Konrad P Körding <br>
-Frontiers in Computational Neuroscience | Perspective Article ([Article](http://journal.frontiersin.org/article/10.3389/fncom.2016.00011/full?field=&journalName=Frontiers_in_Computational_Neuroscience&id=171004&utm_content=buffer21f1c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer))
+_Intrinsic disorder and multiple phosphorylations constrain the evolution of the flightin N-terminal region_<br>
+Lemas DJ, Lekkas P, Ballif BA, Vigoreaux JO <br>
+Journal of Proteomics. 2016. 135:191-200. [PMID 26691840](https://www.ncbi.nlm.nih.gov/pubmed/26691840)
 
 <hr>
 
 ### 2015
+_Higher Intake of PUFAs Is Associated with Lower Total and Visceral Adiposity and Higher Lean Mass in a Racially Diverse Sample of Children_<br>
+Cardel M, Lemas DJ, Jackson KH, Friedman JE, Fernandez JR <br>
+Journal of Nutrition. 2015. 145(9):2146-2152. [PMID: 26269238](https://www.ncbi.nlm.nih.gov/pubmed/26269238)
 
-_Neural coordination during reach-to-grasp_<br>
-M Vaidya, K Körding, M Saleh, K Takahashi, NG Hatsopoulos <br>
-Journal of Neurophysiology ([Abstract](http://jn.physiology.org/content/early/2015/07/27/jn.00349.2015))
+_Associations of maternal weight status prior and during pregnancy with neonatal cardio-metabolic markers at birth: The Healthy Start Study_<br>
+Lemas DJ, Brinton JT, Shapiro, ALB, Friedman JE, Glueck DH, Dabelea D <br>
+International Journal of Obesity. 2015. 39(10)1437-1442. [PMID: 26055075](https://www.ncbi.nlm.nih.gov/pubmed/26055075)
+
+_Linkage and association analysis of obesity traits reveals novel loci and interactions with dietary n-3 fatty acids in an Alaska Native (Yup'ik) population_<br>
+Vaughn LK, Wiener HW, Aslibekyan S, Allison DB, Havel PJ, Stanhope KL, O'Brien DM, Hopkins SE, Lemas DJ, Boyer BB, Tiwari HK <br>
+Metabolism. 2015. 64(6):689-697. [PMID: 25772781](https://www.ncbi.nlm.nih.gov/pubmed/25772781)
 
 
 <hr>
 
 ### 2014
 
-_Conceptualizing Cancer Drugs as Classifiers_<br>
-Patrick Lawlor, Tomer Kalisky, Robert Rosner, Marsha Rich Rosner, Konrad Paul Kording<br>
-PLOS ONE ([Abstract](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0106444), [PDF](http://klab.smpp.northwestern.edu/wiki/images/8/8f/Journal.pone.0106444.pdf))
+_CDKAL1 and HHEX are associated with type-2 diabetes-related traits among Yup'ik people_<br>
+Klimentidis YC, Lemas DJ, Wiener HW, O’Brien DM, Hopkins S, Allison DB, Fernandez JR,  Tiwari HK, Boyer BB <br>
+Journal of Diabetes. 2014. 6(3):251-259. [PMID: 24112421](https://www.ncbi.nlm.nih.gov/pubmed/24112421)
 
 _
 <hr>
