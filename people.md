@@ -15,8 +15,6 @@ permalink: /people/
 <h3>Principal Investigator</h3>
  {% elsif item == 'gradstudent' %}
 <h3>Graduate Students</h3>
- {% elsif item == 'visiting' %}
-<h3>Visiting Scholars</h3>
  {% elsif item == 'others' %}
 <h3>Honorary Members</h3>
  {% elsif item == 'alumni' %}
