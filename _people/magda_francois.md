@@ -12,8 +12,6 @@ joined: 2017
 
 <i class="fa fa-envelope-o"></i>  `j-glaser@u.northwestern.edu`<br>
 
-[<i class="fa fa-google"></i> Google Scholar Profile](https://scholar.google.com/citations?user=tbfWCDgAAAAJ&hl=en)
-
 
 <hr>
 
@@ -34,5 +32,4 @@ joined: 2017
 
 <hr>
 
-### Publications
 

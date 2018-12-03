@@ -1,9 +1,9 @@
 ---
-name: Steve Antos
+name: Luran Manfio
 position: student
 avatar: steve.jpg
 twitter:
-joined: 2012
+joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -11,11 +11,6 @@ joined: 2012
 ### Contact
 
 Email: `santos@u.northwestern.edu`<br>
-Phone: (585) 406-6223<br>
-
-Rehabilitation Institute of Chicago<br>
-345 East Superior St, Chicago, IL<br>
-Room: 1483
 
 ### About
 
