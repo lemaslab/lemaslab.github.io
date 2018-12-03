@@ -1,16 +1,15 @@
 ---
-name: Konrad Kording
+name: Dominick Lemas
 position: pi
-avatar: konrad_profile_3.jpg
-twitter: KordingLab
+avatar: lemas_uf_headshot.jpg
+twitter: LemasLab
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-- _Penn Integrated Knowledge Professor, University of Pennsylvania_<br>
-- _Science coach. Collaborator. Transdisciplinary optimist._
+- _Assistant Professor, University of Florida_<br>
 
-<i class="fa fa-envelope-o"></i> `kording@upenn.edu`
+<i class="fa fa-envelope-o"></i> `djlemas@ufl.edu`
 
 **Office**<br>
 106 Hayden Hall, 240 S 33rd St,<br>
