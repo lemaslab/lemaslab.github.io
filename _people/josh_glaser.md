@@ -1,6 +1,6 @@
 ---
 name: Josh Glaser
-position: postdoc
+position: clinical
 avatar: josh_profile.jpg
 twitter:
 joined: 2012
