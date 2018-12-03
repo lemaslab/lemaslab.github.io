@@ -1,5 +1,5 @@
 ---
-title: Extensive writing guide by my friend Liz Moyer
+title: Technical writing guide by Liz Moyer
 categories: scientists
 ---
 
