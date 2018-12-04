@@ -1,7 +1,7 @@
 ---
 name: Dominick Lemas
 position: pi
-avatar: lemas_uf_headshot.jpg
+avatar: lemas_uf.jpg
 twitter: LemasLab
 ---
 
