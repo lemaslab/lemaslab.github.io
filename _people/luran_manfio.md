@@ -1,7 +1,7 @@
 ---
 name: Luran Manfio
 position: student
-avatar: steve.jpg
+avatar: Luran_uf_head.jpg
 twitter:
 joined: 2018
 ---
@@ -10,13 +10,13 @@ joined: 2018
 
 ### Contact
 
-Email: `santos@u.northwestern.edu`<br>
+Email: `manfiol@ufl.edu`<br>
 
 ### About
 
-I'm a graduate student in Northwestern's DPT/PhD program working with Konrad Kording and Keith Gordon. This unique program unites the disciplines of physical therapy and biomedical engineering to improve rehabilitation therapies and technologies for patients with movement disorders.
+I am an undergraduate studnet in the University of Florida and I am under the premedical track. For more information om me you can find all that on my website ""
 
 ### Current Projects
 
-- Characterizing stability during walking
-- Developing robust algorithms for activity recognition using mobile phones
+- creating stable enviorment pipelines to allow for reproducable data 
+- Assisting Dr.Lemas in different asspects of the Lab 
