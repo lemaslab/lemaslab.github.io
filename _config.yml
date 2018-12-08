@@ -9,7 +9,7 @@ description:        "this is a page for the Lemas Lab, we are molecular epidemio
 
 
 # URL
-url:                lemaslab.github.io
+url:                lemas-lab-group.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
