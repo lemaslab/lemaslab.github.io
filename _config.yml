@@ -34,6 +34,9 @@ nav:
     href:           "/blog"
   - name:           "resources"
     href:           "/resources"
+ # new page about current projects that the group is working on.
+ # - name:           "projects"
+ #   href:           "/projects"
 
 # Sass
 sass:
