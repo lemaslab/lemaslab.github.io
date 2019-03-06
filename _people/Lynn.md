@@ -10,7 +10,7 @@ joined:2018
 
 ### Contact
 
-Email: Lychen20@ufl.edu
+Email: `Lychen20@ufl.edu`<br>
 
 ### About
 
@@ -18,7 +18,7 @@ Hi, my name is Lynn! I am a Pre-Med student currently pursuing a Nutritional Sci
 
 ### Current Projects
 
-BEACH study, BEACH Interview Study
+-BEACH study, BEACH Interview Study
 
 ### Completed Projects 
 

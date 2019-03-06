@@ -3,7 +3,7 @@ name: Yasmin Garcia
 position: studnet
 avatar: Headshot Lemas Group.jpg
 twitter: <optional>
-joined:April 2018
+joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -12,7 +12,7 @@ joined:April 2018
 
 ### Contact
 
-yasming11@ufl.edu
+emial: `yasming11@ufl.edu` <br>
 
 ### About
 
@@ -20,6 +20,5 @@ Yasmin Garcia (2018-present)- mentored on data entry, phone screenings, lab work
 
 ### Current Projects
 
-Milk Metabolomics
-
-BEACH Interview Study and BEACH Study recruitment
+-Milk Metabolomics
+-BEACH Interview Study and BEACH Study recruitment
