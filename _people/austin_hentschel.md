@@ -3,7 +3,7 @@ name: Austen Hentschel
 position: student
 avatar: <HeadShot.jpg>
 twitter: <optional>
-joined:2018
+joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
@@ -15,7 +15,7 @@ Email: austenlhentschel@ufl.edu
 Major: Nutritional Sciences
 Minor: Health Education
 Junior
-Hi, my name is Austen Hentschel, I am from Jacksonville, FL. I have ambitions to become a physican when I enter the medical field.
+Hi, my name is Austen Hentschel, I am from Jacksonville, FL. I have ambitions to become a physician when I enter the medical field.
 In the future when I am a physician I hope to work closely with women’s health and family medicine. I also hope to have the opportunity
 to open an integrative clinic of my own. My research interests include maternal-fetal health and
 the role of nutrition in the prevention of disease. One of my favorite extracurricular activities on campus
@@ -26,4 +26,6 @@ small group training, nutrient and goal setting workshops. I think everyone has 
 I am Currently working on the BEACH interview study along side Dr. Dominick Lemas along with working on the BEACH study. 
 
 ### Completed Projects 
+
+USP scholar
 
