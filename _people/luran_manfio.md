@@ -14,7 +14,7 @@ Email: `manfiol@ufl.edu`<br>
 
 ### About
 
-I am an undergraduate studnet in the University of Florida and I am under the premedical track. For more information om me you can find all that on my website ""
+I am an undergraduate student in the University of Florida and I am under the premedical track. For more information om me you can find all that on my website ""
 
 ### Current Projects
 
