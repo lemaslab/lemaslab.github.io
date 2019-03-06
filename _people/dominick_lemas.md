@@ -12,8 +12,9 @@ twitter: LemasLab
 <i class="fa fa-envelope-o"></i> `djlemas@ufl.edu`
 
 **Office**<br>
-106 Hayden Hall, 240 S 33rd St,<br>
-Philadelphia, PA 19104
+2004 Mowry Road, Suite 2234 <br>
+PO Box 100177
+Gainesville, FL 32610
 
 [Konrad Kording](http://koerding.com/) runs the Kording lab at the University of Pennsylvania.
 Konrad is trying to foster an environment of creativity in which important problems get
