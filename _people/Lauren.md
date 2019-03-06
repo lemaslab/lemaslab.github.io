@@ -15,7 +15,7 @@ laurenwright42@ufl.edu
 
 ### About
 
-Hey my name is Lauren Wright, I’m a 4th year Pre-Med Health Science major hoping to one day become a Pediatrician. I’ve been assisting Dr. Lemas in his research since August of 2017 and have watched our research grow exponentially. From developing questionnaires and sample kits before the start of our clinical trial, to now coding and analyzing the data we collected, I’ve experienced the scientific method firsthand from start to finish.
+Hey my name is Lauren Wright, Iâ€™m a 4th year Pre-Med Health Science major hoping to one day become a Pediatrician. Iâ€™ve been assisting Dr. Lemas in his research since August of 2017 and have watched our research grow exponentially. From developing questionnaires and sample kits before the start of our clinical trial, to now coding and analyzing the data we collected, Iâ€™ve experienced the scientific method firsthand from start to finish.
 
  
 

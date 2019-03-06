@@ -16,7 +16,7 @@ Major: Nutritional Sciences
 Minor: Health Education
 Junior
 Hi, my name is Austen Hentschel, I am from Jacksonville, FL. I have ambitions to become a physican when I enter the medical field.
-In the future when I am a physician I hope to work closely with women’s health and family medicine. I also hope to have the opportunity
+In the future when I am a physician I hope to work closely with womenâ€™s health and family medicine. I also hope to have the opportunity
 to open an integrative clinic of my own. My research interests include maternal-fetal health and
 the role of nutrition in the prevention of disease. One of my favorite extracurricular activities on campus
 is my involvement with CHANGES, a program that helps students to develop healthy habits through
