@@ -70,3 +70,4 @@ collections:
     permalink: /people/:title/index.html
 
 theme: jekyll-theme-slate
+encoding: UTF-8
