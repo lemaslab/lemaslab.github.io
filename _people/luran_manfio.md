@@ -18,5 +18,5 @@ I am an undergraduate studnet in the University of Florida and I am under the pr
 
 ### Current Projects
 
-- creating stable enviorment pipelines to allow for reproducable data 
-- Assisting Dr.Lemas in different asspects of the Lab 
+- creating stable environment pipelines to allow for reproducible data 
+- Assisting Dr.Lemas in different aspects of the Lab 
