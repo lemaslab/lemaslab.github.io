@@ -1,7 +1,7 @@
 ---
 name: Magda Francois
 position: clinical
-avatar: josh_profile.jpg
+avatar: 
 twitter:
 joined: 2017
 ---

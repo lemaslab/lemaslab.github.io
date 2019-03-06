@@ -1,8 +1,8 @@
 ---
 name: Austen Hentschel
 position: student
-avatar: <HeadShot.jpg>
-twitter: <optional>
+avatar: 
+twitter: 
 joined: 2018
 ---
 
