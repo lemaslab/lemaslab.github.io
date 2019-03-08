@@ -1,6 +1,6 @@
 ---
 name: Yasmin Garcia
-position: studnet
+position: student
 avatar: Headshot Lemas Group.jpg
 twitter: <optional>
 joined: 2018

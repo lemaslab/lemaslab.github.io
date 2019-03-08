@@ -1,9 +1,9 @@
 ---
 name: Austen Hentschel
-position: studnet
+position: student 
 avatar: <HeadShot.jpg>
 twitter: <optional>
-joined:2018
+joined: 2018
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
