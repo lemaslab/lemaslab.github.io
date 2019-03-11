@@ -1,6 +1,6 @@
 ---
 name: Xinsong Du
-position: student
+position: gradStudent
 avatar: Xinsong_Du.JPG
 twitter: <optional>
 joined: 2019
@@ -12,7 +12,7 @@ joined: 2019
 
 ### Contact
 
-emial: `xinsongdu@ufl.edu` <br>
+email: `xinsongdu@ufl.edu` <br>
 
 ### About
 

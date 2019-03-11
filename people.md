@@ -4,17 +4,19 @@ permalink: /people/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|clinical|student|" | split: "|" %}
+{% assign people_array = "pi|clinical|gradStudent|student" | split: "|" %}
 
 {% for item in people_array %}
 
 <div class="pos_header">
-{% if item == 'clinical' %}
+{% if item == 'gradStudent' %}
+<h3>Graduate Students</h3>
+{% elsif item == 'clinical' %}
 <h3>Clinical Team</h3>
 {% elsif item == 'pi' %}
 <h3>Principal Investigator</h3>
 {% elsif item == 'student' %}
-<h3>Students</h3>
+<h3>Undergrad Students</h3>
 {% endif %}
 </div>
 
