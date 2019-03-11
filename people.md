@@ -44,3 +44,4 @@ permalink: /people/
 | Austen Hentschel | Undergradaute (2015-2018) | TBD |
 | Lynn | Undergradaute (2015-2018) | TBD |
 | Magda Francois | clincal (2015-2018) | TBD |
+| Xinsong Du | Ph.D. student (2017-present) | TBD |
