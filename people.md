@@ -11,10 +11,10 @@ permalink: /people/
 <div class="pos_header">
 {% if item == 'clinical' %}
 <h3>Clinical Team</h3>
- {% elsif item == 'pi' %}
+{% elsif item == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif item == 'student' %}
-<h3>Undergraduate Students</h3>
+{% elsif item == 'student' %}
+<h3>Students</h3>
 {% endif %}
 </div>
 

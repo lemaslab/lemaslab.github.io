@@ -1,7 +1,7 @@
 ---
 name: Xinsong Du
 position: student
-avatar: Xinsong_Du.jpg
+avatar: Xinsong_Du.JPG
 twitter: <optional>
 joined: 2019
 ---
