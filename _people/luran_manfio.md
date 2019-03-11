@@ -1,7 +1,7 @@
 ---
 name: Luran Manfio
 position: student
-avatar: Luran_uf_head.jpg
+avatar: Luran_uf_head.JPG
 twitter:
 joined: 2018
 ---
@@ -14,9 +14,9 @@ Email: `manfiol@ufl.edu`<br>
 
 ### About
 
-I am an undergraduate studnet in the University of Florida and I am under the premedical track. For more information om me you can find all that on my website ""
+I am an undergraduate student in the University of Florida and I am under the premedical track. For more information om me you can find all that on my website ""
 
 ### Current Projects
 
-- creating stable enviorment pipelines to allow for reproducable data 
-- Assisting Dr.Lemas in different asspects of the Lab 
+- creating stable environment pipelines to allow for reproducible data 
+- Assisting Dr.Lemas in different aspects of the Lab 

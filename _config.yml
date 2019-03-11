@@ -3,9 +3,9 @@
 # # # # # # # #
 
 # Basic
-name:               "Lemas Lab Group"
-title:              "as called as Lemas Lab Group"
-description:        "this is a page for the Lemas Lab Group, we are molecular epidemiology lab based in the Institute for Child Health Policy of the University of Florida"
+name:               "Lemas Lab"
+title:              "as called as Lemas Lab"
+description:        "this is a page for the Lemas Lab, we are molecular epidemiology lab based in the Institute for Child Health Policy of the University of Florida"
 
 
 # URL
@@ -70,3 +70,4 @@ collections:
     permalink: /people/:title/index.html
 
 theme: jekyll-theme-slate
+encoding: UTF-8

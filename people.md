@@ -11,10 +11,10 @@ permalink: /people/
 <div class="pos_header">
 {% if item == 'clinical' %}
 <h3>Clinical Team</h3>
- {% elsif item == 'pi' %}
+{% elsif item == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif item == 'student' %}
-<h3>Undergraduate Students</h3>
+{% elsif item == 'student' %}
+<h3>Students</h3>
 {% endif %}
 </div>
 
@@ -44,3 +44,4 @@ permalink: /people/
 | Austen Hentschel | Undergradaute (2015-2018) | TBD |
 | Lynn | Undergradaute (2015-2018) | TBD |
 | Magda Francois | clincal (2015-2018) | TBD |
+| Xinsong Du | Ph.D. student (2017-present) | TBD |
