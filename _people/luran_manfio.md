@@ -1,7 +1,7 @@
 ---
 name: Luran Manfio
 position: student
-avatar: Luran_uf_head.JPG
+avatar: Luran_uf_head.png
 twitter:
 joined: 2018
 ---
