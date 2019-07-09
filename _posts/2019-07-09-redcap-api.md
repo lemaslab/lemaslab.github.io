@@ -4,27 +4,17 @@ description: description on how to set up the redcap api
 categories: students
 ---
 
-Here, we provide some description on how can you add new profile to the page by editing on Github  [KordingLab/KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io). It's very simple.
-You can follow the instruction below. If you have any problem, feel free to ask any lab members.
+Here, we provide some instructions on setting up the redcap api using rstudio.  
+If you have any problem, feel free to ask any lab members.
 
-#### How to add yourself to lab page
+# [Download R and Rstudio](https://cran.r-project.org/bin/windows/base/)
 
-You can add yourself to the page in `_people` folder just create file name `<firstname>_<lastname>.md` in the folder. We require few line of header before you start writing your page. See the following
+# [Register for RedCap ](https://www.ctsi.ufl.edu/category/redcap/)
 
-```
----
-name: Eva Dyer
-position: postdoc
-avatar: eva.jpg
-twitter:
-joined: 2014
----
-```
+# Request a RedCap API token from the UF RedCap Admin for each project (i.e. BEACH, EHR, ect).
 
-If you don't have information, just leave it blank. The avatar will bring photo from images/people folder and display it on people page. You can also add photo in your own personal page the same way your add photo in blog post.
+# Set up your personal workstation with api token via [rstudio] (https://cran.r-project.org/web/packages/keyringr/vignettes/Avoiding_plain_text_passwords_in_R_with_keyringr.html)
 
-For position, you can choose position from 4 choices including `postdoc`, `gradstudent`, `visiting`, `others` (Honorary members). It will put you in section that you choose.
+# Download and register with [GitHub Desktop](https://desktop.github.com/) 
 
-#### How to add new publications
-
-All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+# Connect to Lemas Lab [repositories] (https://github.com/lemaslab)
