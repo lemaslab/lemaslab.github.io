@@ -13,8 +13,8 @@ If you have any problem, feel free to ask any lab members.
 
 Request a RedCap API token from the UF RedCap Admin for each project (i.e. BEACH, EHR, ect).
 
-Set up your personal workstation with api token via [rstudio] (https://cran.r-project.org/web/packages/keyringr/vignettes/Avoiding_plain_text_passwords_in_R_with_keyringr.html)
+Set up your personal workstation with api token via [rstudio](https://cran.r-project.org/web/packages/keyringr/vignettes/Avoiding_plain_text_passwords_in_R_with_keyringr.html)
 
 Download and register with [GitHub Desktop](https://desktop.github.com/) 
 
-Connect to Lemas Lab [repositories] (https://github.com/lemaslab)
+Connect to Lemas Lab [repositories](https://github.com/lemaslab)
