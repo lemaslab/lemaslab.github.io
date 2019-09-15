@@ -1,7 +1,5 @@
 # Lemas Lab Group 
 
-small change
-
 This is the repository for the [Lemas Lab Group](https://lemas-lab-group.github.io/). We use Jekyll to run our Github page. Feel free to fork and make your own page or submit a pull-request!
 
 ## Procedure to make change
@@ -72,7 +70,8 @@ My current project is about designing a spaceship to prevent alian attack.
 5. Follow `Procedure to make change` to update the webpage.
 
 
-**note: following sections are out dated and will be updated soon**
+## **note: following sections are out dated and will be updated soon**
+===
 
 
 ## Add posts
