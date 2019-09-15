@@ -1,6 +1,6 @@
 ---
 name: Lynn Chen 
-position: student
+position: underGradStudent
 avatar: Lynn_Headshot.jpg
 twitter: <optional>
 joined: 2018
