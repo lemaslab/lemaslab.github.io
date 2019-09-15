@@ -71,7 +71,8 @@ My current project is about designing a spaceship to prevent alian attack.
 
 
 ## **note: following sections are out dated and will be updated soon**
-===
+---
+---
 
 
 ## Add posts
