@@ -49,7 +49,7 @@ joined: 2014
 Detailed procedures to add yourself:
 1. Prepare your photo, crop it to W:H=1:1.618.
 2. Put your photo to `images/people/` folder and name it to `<your_firstname>_<your_lastname>.jpg`.
-3. Open file `_people/<your_firstname>_<your_lastname>.md`, change `name` to your name, `position` to your position (you can choose position from 4 classes including `pi`, `undergradStudent`, `gradStudent`, `researchCoordinator`. Position will put you into section that you choose.), `avatar` to `<your_firstname>_<your_lastname>.jpg`, `joined` to the year you joined the lab.
+3. Open file `_people/<your_firstname>_<your_lastname>.md`, change `name` to your name, `position` to your position (you can choose position from 4 classes including `pi`, `underGradStudent`, `gradStudent`, `researchCoordinator`. Position will put you into section that you choose.), `avatar` to `<your_firstname>_<your_lastname>.jpg`, `joined` to the year you joined the lab.
 4. If you have more to tell, you can modify the `{section_name}` and `(section_content)` showing in the template. An example would be:
 ```
 ---
