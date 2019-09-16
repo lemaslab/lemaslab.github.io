@@ -1,6 +1,6 @@
 ---
 name: Braeden Lewis
-position: gradstudent
+position: gradStudent
 avatar: 
 twitter:
 joined: 2019
