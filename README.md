@@ -54,7 +54,7 @@ Detailed procedures to add yourself:
 ```
 ---
 name: Eva Dyer
-position: undergradStudent
+position: underGradStudent
 avatar: Eva_Dyer.jpg
 twitter:
 joined: 2014
