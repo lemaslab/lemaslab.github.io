@@ -32,7 +32,7 @@ You can add yourself to the page in `_people` folder just create file name `<you
 ```
 ---
 name: Eva Dyer
-position: undergradStudent
+position: underGradStudent
 avatar: eva.jpg
 twitter:
 joined: 2014
