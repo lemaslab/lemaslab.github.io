@@ -14,15 +14,16 @@ Email: `manfiol@ufl.edu`<br>
 
 ### About
 
-I am an undergraduate student in the University of Florida within my sophmore year.
-I am currently working on pursuing my bachlors degree in biology and a minor in computor science with the goal to pursue a graduates degree.
-I am currently doing research with Dr.Lemas within the metabolomics portion of his research. 
-I was directed into Dr.Lemas's lab as a good bridge between several passions, medicene and technology.
-Working with Dr.Lemas on this has allowed me to develope more skills and experence in several areas such as coding,experemental design,patient contact and interactions, etc.
-I am working within the lab to develope skills and experence that will one day be translated into other lab work.
+Luran is a junor Undergraduate student in the Colleg of Agraculture and Life Science(CALS) as a biology major with a double minor in computer science and bioinformaitcs.
+He is pursuring a graduate degree in bioinformatics.
+He works closely with the informatics division of the lab which includes the metabolomics work in the BEACH study and working closely with our databaes creating comprehensive reports. 
+He works with R, Slurm, and CSS code within the lab in a variety of different projects.
+Within the lab he's skills as a programer and researcher have matured and is not coordinating a project under the BEACH study.
 
 
 ### Current Projects
 
-- creating stable environment pipelines to allow for reproducible data 
-- Assisting Dr.Lemas in different aspects of the Lab 
+- BEACH study 
+- Reproducable metabolomics pipeline
+- BEACH Interview study 
+- Recruitment analysis 
