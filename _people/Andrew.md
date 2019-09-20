@@ -1,6 +1,6 @@
 ---
 name: Andrew Schleffer
-position: student
+position: underGradStudent
 avatar: 
 twitter: <optional>
 joined: 2018
