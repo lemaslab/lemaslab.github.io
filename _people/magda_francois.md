@@ -1,6 +1,6 @@
 ---
 name: Magda Francois
-position: clinical
+position: researchCoordinator
 avatar: 
 twitter:
 joined: 2017

@@ -1,6 +1,6 @@
 ---
 name: Yasmin Garcia
-position: student
+position: underGradStudent
 avatar: Headshot Lemas Group.jpg
 twitter: <optional>
 joined: 2018
