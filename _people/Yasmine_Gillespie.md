@@ -1,6 +1,6 @@
 ---
 name: Yasmine Gillespie
-position: student
+position: underGradStudent
 avatar: Headshot Lemas Group.jpg
 twitter: <optional>
 joined: 2019
@@ -17,7 +17,7 @@ emial: `ygillespie@ufl.edu` <br>
 ### About
 Major: Industial engineering/ premed track 
 Sophmore
-Hi, my name is Yasmine Gillespie, 
+Hi, my name is Yasmine Gillespie, I have completed training for gitbash, WOOO
 
 
 ### Current Projects
