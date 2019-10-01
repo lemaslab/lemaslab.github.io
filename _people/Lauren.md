@@ -1,6 +1,6 @@
 ---
 name: Lauren Wright
-position: student
+position: underGradStudent
 avatar: Lauren_headshot.jpg
 twitter:
 joined: 2017
