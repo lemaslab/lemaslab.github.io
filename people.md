@@ -42,8 +42,16 @@ permalink: /people/
 
 | Who are they  | When were they here | Where they went |
 | :-------------- |:-------------| :-----------|
-| Luran Manfio | Undergradaute (2015-2018) | TBD |
-| Austen Hentschel | Undergradaute (2015-2018) | TBD |
-| Lynn | Undergradaute (2015-2018) | TBD |
-| Magda Francois | clincal (2015-2018) | TBD |
+| Luran Manfio | Undergradaute (2015-present) | TBD |
+| Andrew Schleffer | Undergradaute (2015-present) | TBD |
+| Emily Colgate | Undergradaute (2015-present) | TBD |
+| Joshua Breuwet | Undergradaute (2015-present) | TBD |
+| Lauren Wright | Undergradaute (2015-2019) | TBD |
+| Austen Hentschel | Undergradaute (2015-present) | TBD |
+| Lynn Chen | Undergradaute (2015-present) | TBD |
+| Yasmin Garcia | Undergradaute (2015-present) | TBD |
+| Yasmine Gillespie | Undergradaute (2015-2019) | TBD |
+| Magda Francois | Research Coordinator (2015-present) | TBD |
 | Xinsong Du | Ph.D. student (2017-present) | TBD |
+| Braeden Lewis | Master student (2019-present) | TBD |
+| Yangru Zhou | Master student (2019-present) | TBD |
