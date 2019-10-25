@@ -14,7 +14,7 @@ email: `yangru.zhou@ufl.edu` <br>
 
 ### About
 
-Yangru Zhou is a first-year Biomedical Informatics major master student under College of Medicine.
+Yangru Zhou is from Inner Mongolia, China. She is a first-year Biomedical Informatics major master student under College of Medicine. Her dream job is data scientist. During her spare time, she like swimming and drawing.
 
 ### current project 
 
