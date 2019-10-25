@@ -15,20 +15,16 @@ joined: 2017
 
 <hr>
 
-### Background
+### About
 
-* I recently finished my PhD in the Northwestern University Integrated Neuroscience (NUIN) program.
-* As an undergraduate, I majored in Physics and Math at the University of Illinois Urbana-Champaign.
+Magda Francois is from Miami, FL. She is a research coordinator at Department of Health Outcomes and Biomedical Informatics under College of Medicine. Her dream job is pediatrician. During her spare time, she likes travelling, water activities and watching movies. She is also a member of [missions.me](https://missions.me/)
 
 <hr>
 
 ### Current projects
 
-* Using machine learning techniques, including neural networks, for neural decoding<br>
-* Understanding movement planning and execution during natural behavior<br>
-  * Understanding FEF activity during eye movements in natural scenes (In collaboration with the [Segraves Lab](http://sites.northwestern.edu/segraves-lab/))<br>
-  * Understanding PMd and M1 activity during reaching movements in naturalistic experiments (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
-* Using motion tracking to understand how proprioceptive inputs are represented in the brain (In collaboration with the [Miller Lab](http://labs.feinberg.northwestern.edu/lee-miller/index.html))<br>
+- BEACH Study
+- BEACH Interview Study
 
 <hr>
 
