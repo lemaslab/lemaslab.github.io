@@ -55,3 +55,9 @@ permalink: /people/
 | Xinsong Du | Ph.D. student (2017-present) | TBD |
 | Braeden Lewis | Master student (2019-present) | TBD |
 | Yangru Zhou | Master student (2019-present) | TBD |
+| Samantha DePaul | Undergraduate student (2019-present) | TBD |
+| Hailey Ballard | Undergraduate student (2019-present) | TBD |
+| Sakina Johar | Undergraduate student (2019-present) | TBD |
+| Nisha Chachad | Undergraduate student (2019-present) | TBD |
+
+

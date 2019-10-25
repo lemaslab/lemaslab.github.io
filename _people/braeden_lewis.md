@@ -20,7 +20,7 @@ Braeden Lewis is a graduate student in the Department of Health Outcomes and Bio
 
 ### Current Projects
 
-
+- BEACH Study
 
 ### Publications
 * J. Roberts, **B. Lewis**, K. Jasso, J.C. McIntyre (2018) Loss of Cilia on Dopaminergic Neurons Reduces Amphetamine Induced Locomotor Activity. Society for the Advancement of Chicano/Hispanic and Native American Scientists (SACNAS) annual conference. San Antonio, TX. (Poster)

@@ -1,7 +1,7 @@
 ---
 name: Magda Francois
 position: researchCoordinator
-avatar: 
+avatar: avatar.jpg
 twitter:
 joined: 2017
 ---

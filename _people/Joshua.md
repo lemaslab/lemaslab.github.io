@@ -1,7 +1,7 @@
 ---
 name: Joshua Breuwet
 position: underGradStudent
-avatar: 
+avatar: avatar.jpg
 twitter: <optional>
 joined: 2018
 ---
