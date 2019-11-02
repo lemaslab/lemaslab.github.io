@@ -1,7 +1,7 @@
 ---
 name: Hailey Ballard
 position: underGradStudent
-avatar: avatar.jpg
+avatar: Hailey_Ballard.jpg
 twitter:
 joined: 2019
 ---
@@ -15,7 +15,7 @@ email: `hballard@ufl.edu` <br>
 
 ### About
 
-Hailey Ballard is from Sarasota, FL. She is a first year Microbiology and Cell Science major undergraduate student under CALS. Her dream job is Microbiology Research Director. She likes hiking, reading and music. She is also a member of Society for Viral Studies and UF Outdoor Adventure Recreation.
+Hailey Ballard is a second year undergraduate from Sarasota, Florida. She is currently pursuing a Bachelor's degree in Microbiology and Cell Science, with a minor in Medical Geography in Global Health.  She is currently on the BEACH project and has years of experience in women’s health clinical research. She became a Certified Clinical Research Coordinator (CCRC) in 2019, and has a background in participant recruitment, retention, services, and data entry.  She is a member of the Association for Clinical Research Professionals (ACRP) and has received training in protocol design and good clinical practice, among many others.
 
 
 ### Current Projects
