@@ -1,7 +1,7 @@
 ---
 name: Nisha Chachad
 position: underGradStudent
-avatar: avatar.jpg
+avatar: Nisha_Chachad.jpg
 twitter:
 joined: 2019
 ---
@@ -15,7 +15,7 @@ email: `nishachachad@ufl.edu` <br>
 
 ### About
 
-Nisha Chachad is from Lakeland, FL. She is a first year Biology major undergraduate student under College of Agricultural and Life Sciences. Her dream job is Physician. During her spare time, she likes art and music. She is also a member of Student Health Outreach Team and Undergraduate Research Scholars Program.
+Nisha Chachad is from Lakeland, Florida. She is a second year student and a Biology major under the College of Liberal Arts and Sciences. She also hopes to complete a minor in Health Disparities in Society. Her dream job is a Physician. During her spare time, she likes art and music. She is also a member of the Student Health Outreach Team and the Undergraduate Research Scholars Program.
 
 ### Current Projects
 

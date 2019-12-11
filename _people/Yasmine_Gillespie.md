@@ -1,7 +1,7 @@
 ---
 name: Yasmine Gillespie
 position: underGradStudent
-avatar: Yasmine Gillespie.jpg
+avatar: Yasmine_Gillespie.JPG
 twitter: <optional>
 joined: 2019
 ---
