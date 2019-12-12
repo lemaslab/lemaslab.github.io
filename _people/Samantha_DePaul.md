@@ -1,7 +1,7 @@
 ---
 name: Samantha DePaul
 position: underGradStudent
-avatar: avatar.jpg
+avatar: Samantha_DePaul.jpeg
 twitter:
 joined: 2019
 ---
