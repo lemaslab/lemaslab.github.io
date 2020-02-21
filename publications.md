@@ -9,23 +9,33 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-### 2018
+### 2019
 
-_Pediatric obesity in Florida using the OneFlorida Clinical Research Consortium_<br>
-**Lemas DJ**, Cardel M, Filipp SL, Hall J, Essner RZ, Smith SR, Nadglowski J, Donahoo WT, Cooper-DeHoff RM, Nelson DR, Hogan WR, Shenkman EA, Gurka MJ, Janicke DM <br>
-Obesity Research and Clinical Practice. 2018, PMID: 
+_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery_<br>
+**Lemas DJ**, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ<br>
+Plos One. 2019. PMID:
 
-_The gut microbiome in infants of obese mothers increases susceptibility to obesity and NAFLD in germ-free mice_<br>
-Soderborg TK, Clark SE, Mulligan CE, Janssen RC, Babcock L, **Lemas DJ**, Johnson LK, Weir T, Lenz LL, Frank DN, Hernandez TL, Kuhn KA, D’Alessandro A, Barbour LA, El Kasmi KC, Friedman JE <br>
-Nature Communications. 2018. PMID: 
+_Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Methods_<br>
+Du X, Min J, Shah C, Bishnoi R, Hogan WR, **Lemas DJ**<br>
+International Journal of Medical Informatics. 2019. PMID:
 
 _Initial microbial community of the neonatal stomach immediately after birth_<br>
-Bajorek S, Parker L, Li N, Winglee K, Weaver M, Johnson J, Sioda M, Gauthier J, **Lemas DJ**, Jobin C, Lorca G, Neu J, Fodor AA <br>
-Gut Microbes. 2018. PMID: 
+Bajorek S, Parker L, Li N, Winglee K, Weaver M, Johnson J, Sioda M, Gauthier J, **Lemas DJ**, Jobin C, Lorca G, Neu J, Fodor AA.<br>
+Gut Microbes. 2019. [PMID: 30404568](https://www.ncbi.nlm.nih.gov/pubmed/30404568)
 
 _Taq1a polymorphism (rs1800497) is associated with obesity-related outcomes and dietary intake in a multi-ethnic sample of children_<br>
 Cardel M, **Lemas DJ**, Lee A, Miller D, Huo T, Klimentidis Y, Fernandez J<br>
 Pediatric Obesity. 2018. [PMID: 30253082](https://www.ncbi.nlm.nih.gov/pubmed/30253082)
+
+_Objectively measured pediatric obesity prevalence using the OneFlorida Clinical Research Consortium_<br>
+**Lemas DJ**, Cardel M, Filipp SL, Hall J, Essner RZ, Smith SR, Nadglowski J, Donahoo WT, Cooper-DeHoff RM, Nelson DR, Hogan WR, Shenkman EA, Gurka MJ, Janicke DM <br>
+Obesity Research and Clinical Practice. 2019. [PMID: 30391132](https://www.ncbi.nlm.nih.gov/pubmed/30391132)
+
+### 2018
+
+_The gut microbiome in infants of obese mothers increases susceptibility to obesity and NAFLD in germ-free mice_<br>
+Soderborg TK, Clark SE, Mulligan CE, Janssen RC, Babcock L, **Lemas DJ**, Johnson LK, Weir T, Lenz LL, Frank DN, Hernandez TL, Kuhn KA, D’Alessandro A, Barbour LA, El Kasmi KC, Friedman JE <br>
+Nature Communications. 2018. [PMID: 30367045](https://www.ncbi.nlm.nih.gov/pubmed/30367045)
 
 _Characterization of Adult Obesity in Florida Using the OneFlorida Clinical Research Consortium_<br>
 Filipp SL, Cardel M, Hall J, Essner RZ, **Lemas DJ**, Janicke D, Smith SR, Nadglowski, Donahoo WT, Cooper-DeHoff RM, Nelson DR, Hogan WR, Shenkman EA, Gurka MJ <br>
