@@ -16,10 +16,5 @@ twitter: LemasLab
 PO Box 100177
 Gainesville, FL 32610
 
-[Konrad Kording](http://koerding.com/) runs the Kording lab at the University of Pennsylvania.
-Konrad is trying to foster an environment of creativity in which important problems get
-solved in interesting ways and unimportant problems get solved in fun ways.
-Konrad believes in the role of playful approaches towards science.
-He also believes that ultimately we need to solve important medical problems.
-His lab focuses on Big Data approaches to neuroscience and really anything. Massive amounts of data
-exist in neuroscience and work in the lab is focused on making sense out of such datasets (and obtaining such sets).
+[Dominick Lemas](https://hobi.med.ufl.edu/lemas-dominick/) runs the Lemas lab at the University of Florida. Dominick Lemas is an assistant professor in the Department of Health Outcomes & Biomedical Informatics at the University of Florida. Dr. Lemas received his bachelor’s degree in biology at the University of Vermont in 2006 and completed his doctorate in biochemistry & molecular biology at the University of Alaska Fairbanks in 2012. His research is devoted to understanding the fetal origins of pediatric obesity with a specific interest in the functional implications of gut microflora and the critical host-microbe interactions that regulate maternal-infant metabolism.
+
