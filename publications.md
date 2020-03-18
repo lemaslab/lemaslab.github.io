@@ -12,7 +12,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2020
 
 <div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
-<div class="tip" markdown="1">_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery._<br><strong>Lemas DJ</strong>, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ.<em>Plos One</em>. 2019.
+<div class="tip" markdown="1">_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery._<br><strong>Lemas DJ</strong>, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ.<br>Plos One. 2019.
 </div>
 <div class="col-sm-6">
     <img class="img-responsive" src="/images/publications/postnatal_19.PNG" alt="publication fig" style="max-height: 200px;">
