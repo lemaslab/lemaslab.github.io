@@ -9,11 +9,35 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-### 2019
+### 2020
 
-_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery_<br>
-**Lemas DJ**, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ<br>
-Plos One. 2019. PMID:
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery._<br><strong>Lemas DJ</strong>, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ.<em>Plos One</em>. 2019.
+</div>
+<div class="col-sm-6">
+    <img class="img-responsive" src="/images/publications/postnatal_19.PNG" alt="publication fig" style="max-height: 200px;">
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 32130278<a href="https://www.ncbi.nlm.nih.gov/pubmed/32130278" alt="pubmed link: "> </a></li>
+        
+        <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7055886/" alt="PDF">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+
+        <li><a href="https://ufhealth.org/research-study/breastfeeding-and-early-child-health-beach-study" alt="BEACH Study website">BEACH Study</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+### 2019
 
 _Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Methods_<br>
 Du X, Min J, Shah C, Bishnoi R, Hogan WR, **Lemas DJ**<br>
