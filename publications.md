@@ -15,7 +15,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <div class="tip" markdown="1">_Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models._<br>Du X, Min J, Shah CP, Bishnoi R, Hogan WR, <strong>Lemas DJ</strong>.<br>International Journal of Medical Informatics. 2020.
 </div>
 <div class="col-sm-6">
-    <img class="img-responsive" src="/images/publications/FN_20.PNG" alt="publication fig" style="max-height: 250px;">
+    <img class="img-responsive" src="/images/publications/FN_20.png" alt="publication fig" style="max-height: 250px;">
 </div>
 <ul class="col-sm-6">
         <br>
