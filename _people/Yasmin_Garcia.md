@@ -1,6 +1,6 @@
 ---
 name: Yasmin Garcia
-position: underGradStudent
+position: alumni
 avatar: Headshot Lemas Group.jpg
 twitter: <optional>
 joined: 2019
@@ -17,6 +17,6 @@ emial: `yasming11@ufl.edu` <br>
 ### About
 
 
-### Current Projects
+### Projects
 
 - Milk Metabolomics
