@@ -48,7 +48,7 @@ permalink: /people/
 | Andrew Schleffer | Undergradaute (2015-present) | TBD |
 | Emily Colgate | Undergradaute (2015-present) | TBD |
 | Joshua Breuwet | Undergradaute (2015-present) | TBD |
-| Lauren Wright | Undergradaute (2015-2019) | TBD |
+| Lauren Wright | Undergradaute (2015-2019) | Miller School of Medicine, University of Miami |
 | Austen Hentschel | Undergradaute (2015-present) | TBD |
 | Lynn Chen | Undergradaute (2015-present) | TBD |
 | Yasmin Garcia | Undergradaute (2015-present) | TBD |
