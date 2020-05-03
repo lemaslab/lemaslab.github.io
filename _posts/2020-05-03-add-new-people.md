@@ -26,9 +26,9 @@ joined: 2014
 BEACH Project.
 ```
 
-If you don't have information, just leave it blank. The avatar will bring photo from images/people folder and display it on people page. You can also add photo in your own personal page the same way your add photo in blog post. To make sure that your picture doesn't distort when upload to the webpage, the size requirement is length:width=1:1.618
+If you don't have information, just leave it blank. The avatar will bring photo from images/people folder and display it on people page. You can also add photo in your own personal page the same way your add photo in blog post. In order to make sure that your picture is not distorted when upload to the webpage, the size requirement is length:width=1:1.618
 
-For position, you can choose position from 4 choices including `gradstudent`, `underGradStudent`, `researchCoordinator`, or `alumni`. It will put you in section that you choose.
+For position, you can choose position from 4 choices including `gradstudent`, `underGradStudent`, `researchCoordinator`, or `pi`. It will put you in section that you choose. If you are an alumni, or editing the people page and notice lab members that have graduated, please change the position title to `alumni` and the "Where they went section." To check on this information, please search the person on LinkedIn or email them. 
 
 #### How to add new publications
 
