@@ -15,7 +15,7 @@ email: `hballard@ufl.edu` <br>
 
 ### About
 
-Hailey Ballard is a second year undergraduate from Sarasota, Florida. She is currently pursuing a Bachelor's degree in Microbiology and Cell Science, with a minor in Medical Geography in Global Health.  She is currently on the BEACH project and has years of experience in women’s health clinical research. She became a Certified Clinical Research Coordinator (CCRC) in 2019, and has a background in participant recruitment, retention, services, and data entry.  She is a member of the Association for Clinical Research Professionals (ACRP) and has received training in protocol design and good clinical practice, among many others.
+Hailey Ballard is a second year undergraduate from Sarasota, Florida. She is currently pursuing a Bachelor's degree in Microbiology and Cell Science, with a minor in Medical Geography in Global Health.  She is currently on the BEACH project and has years of experience in women’s health clinical research. She became a Certified Clinical Research Coordinator (CCRC) in 2019 and is currently working on developing skills such as Programming in Python and R as well as database management and inventory. 
 
 
 ### Current Projects

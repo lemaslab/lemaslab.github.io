@@ -12,7 +12,33 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 ### 2020
 
 <div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
-<div class="tip" markdown="1">_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery._<br><strong>Lemas DJ</strong>, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ.<br>Plos One. 2019.
+<div class="tip" markdown="1">_Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models._<br>Du X, Min J, Shah CP, Bishnoi R, Hogan WR, <strong>Lemas DJ</strong>.<br>International Journal of Medical Informatics. 2020.
+</div>
+<div class="col-sm-6">
+    <img class="img-responsive" src="/images/publications/FN_20.png" alt="publication fig" style="max-height: 250px;">
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 32325370<a href="https://pubmed.ncbi.nlm.nih.gov/32325370/" alt="pubmed link: "> </a></li>
+        
+        <li><a href="https://pubmed.ncbi.nlm.nih.gov/32325370/" alt="PDF">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+
+        <li><a href="https://github.com/XinsongDu/FN_Mortality" alt="Code website">Code</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Postnatal  pediatric  systemic  antibiotic  episodes  during  the  first three years of life are not associated with mode of delivery._<br><strong>Lemas DJ</strong>, Mack JA, Schoch JJ, Cacho N, Plasencia E, Rhoton-Vlasak AS, Neu J, Thompton L, Francois M, Patel K, Hogan WR, Lipori GP, Gurka MJ.<br>Plos One. 2020.
 </div>
 <div class="col-sm-6">
     <img class="img-responsive" src="/images/publications/postnatal_19.PNG" alt="publication fig" style="max-height: 250px;">
@@ -38,10 +64,6 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2019
-
-_Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Methods_<br>
-Du X, Min J, Shah C, Bishnoi R, Hogan WR, **Lemas DJ**<br>
-International Journal of Medical Informatics. 2019. PMID:
 
 _Initial microbial community of the neonatal stomach immediately after birth_<br>
 Bajorek S, Parker L, Li N, Winglee K, Weaver M, Johnson J, Sioda M, Gauthier J, **Lemas DJ**, Jobin C, Lorca G, Neu J, Fodor AA.<br>
