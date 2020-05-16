@@ -1,12 +1,11 @@
 ---
-title: How to add blog post on Jekyll
-description: simple way to add post on Jekyll for Kording lab's blog
+title: How to add blog post
+description: simple way to add a post on Lemas lab's blog
 categories: blog
 ---
 
-We use Jekyll to creat Kording lab blog. Not only us that use Jekyll as an organization blog, [Stack Overflow Blog](http://blog.stackoverflow.com/) also use Jekyll. They host all the blog on Github  [StackExchange/stack-blog](https://github.com/StackExchange/stack-blog) which has really nice instruction to add new posts.
-
-Using Jekyll, it's very easy to add post on `kordinglab.github.io`. All the posts are located in `_posts` folder located in [`KordingLab.github.io`](https://github.com/KordingLab/KordingLab.github.io). Post arrangement is based on date. Each posts can be written in markdown format (also in `html` too, like `<br>` means new line). File name of each post is in `year-month-date-post-name.md` format such as `2016-02-05-how-to-add-blog.md` or `2016-01-22-bayesian-theory.md`. On top of each post, you just have to state 3 main things in markdown before writing a post: `title`, `description` and `categories` as follows
+We use Jekyll to create Lemas lab blog. All of the blogs are hosted on Github [`LemasLab`](https://github.com/lemaslab/lemaslab.github.io).
+Using Jekyll is a very easy way to an add post on `lemaslab.github.io`. All the posts are located in `_posts` folder located in [`emaslab.github.io/_posts/`](https://github.com/lemaslab/lemaslab.github.io/tree/master/_posts). Post arrangement is based on date. Each post can be written in markdown format (also in `html` too, use `<br>` for entering a new line). File name of each post is in `year-month-date-post-name.md` format such as `2020-05-16-how-to-add-blog.md` or `2016-01-14-paper101.md`. On top of each post, you just have to state 3 main things in markdown before writing a post: `title`, `description` and `categories` as follows:
 
 ```
 ---
@@ -16,12 +15,18 @@ categories: scientists
 ---
 ```
 
-where `categories` can be only 4 choices: `scientists`, `students`, `discussion`, `blog`. It will automatically put that blog post on the page depending on categories you put. `description` will be shown when you share on social media like Facebook or Twitter.
+Where `categories` can be only 4 choices: `publication`, `people`, `resources`, and `blog`. It will automatically put that blog post on the page depending on categories you put. `description` will be shown when you share on social media like Facebook or Twitter.
 
 There are multiple ways for someone to add posts:
 
-- First way is going directly to [KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io) then go to `_post` folder and directly add markdown file. Github allows you to see preview of the markdown too so you can check before you submit any file.
-- Second way is to clone the repository and add post in your local computer then push to the repository. This way you can install `Jekyll` and test to see your post on local computer by running `jekyll serve` on terminal (after you follow [instruction](http://jekyllrb.com/)) and go to `localhost:4000`. For example, this post has `blog` categories, I can see preview of my blog on `localhost:4000/blog` before I push to [KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io).
+- (1) You can go directly to [LemasLab.github.io](https://github.com/lemaslab/lemaslab.github.io) then go to `_post` folder and directly add markdown file. Github allows you to see preview of the markdown too so you can check before you submit any file.
+- (2) You can clone forked repository to your local machine with the following command line (replace {your account} with your account name):
+
+```
+git clone https://github.com/{your account}/lemaslab.github.io.git
+```
+
+_This way you can install `Jekyll` and test to see your post on local computer by running `jekyll serve` on terminal (after you follow [instruction](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)). For example, this post has `blog` categories, I can see preview of my blog on `localhost:4000/blog` before I push to [LemasLab.github.io](https://github.com/LemasLab/LemasLab.github.io). Then, follow the rest on the instructions on the GitHub page to push your blog post and create a pull request. Remember: DO NOT MERGE WITHOUT PERMISSION.
 
 
 <hr>
