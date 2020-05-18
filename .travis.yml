@@ -3,7 +3,6 @@ os: linux
 language: ruby
 rvm:
  - 2.6.1
- - jruby
 install:
  - sudo apt-get install ruby-full build-essential zlib1g-dev
 before_script:
@@ -12,5 +11,6 @@ before_script:
  - echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
  - source ~/.bashrc
  - bundle install --jobs=3 --retry=3 
+ - bundle config deployment 'true'
 script:
  - bundle exec jekyll build
