@@ -11,6 +11,6 @@ before_script:
  - echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
  - echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
  - source ~/.bashrc
- - bundle install --jobs=3 --retry=3 --deployment
+ - bundle install --jobs=3 --retry=3 
 script:
  - bundle exec jekyll build
