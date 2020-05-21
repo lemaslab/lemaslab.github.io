@@ -21,5 +21,5 @@ Xinsong Du is from Beijing, China. He is a third-year Ph.D. student at the Depar
 ### Current Projects
 
 - BEACH Study
-- Construction of metabolomics data processing pipeline
+- RUMP
 - Febrile Neutropenia Mortality Analysis with Machine Learning Approach
