@@ -1,6 +1,8 @@
-|title                               |description                                        |categories|
-|------------------------------------|---------------------------------------------------|----------|
-|RUMP Personal Computer Documentation|Steps outlining running RUMP on a personal computer|blog      |
+---
+title: RUMP Personal Computer Documentation
+description: Steps outlining running RUMP on a personal computer
+categories: blog
+---
 
 Asciinema Tutorial for Running RUMP: https://asciinema.org/a/CqZ9KjtP42oqMoeAXYKAmMjv3
 
