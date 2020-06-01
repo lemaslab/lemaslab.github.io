@@ -5,15 +5,14 @@ permalink: /resources/
 
 
 
-
-{% assign reference_types = "scientists|students|discussion" | split: "|" %}
+{% assign reference_types = "scientists|students|discussion|author" | split: "|" %}
 
 {% for type in reference_types %}
 
 {% if type == 'scientists' %}
 ### **For scientists**
  {% elsif type == 'students' %}
-### **For students, lab members**
+### **For students, lab members, author**
  {% elsif type == 'discussion' %}
 ### **Random bits of discussion**
 {% endif %}
