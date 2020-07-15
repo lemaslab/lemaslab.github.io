@@ -1,7 +1,7 @@
 ---
 name: Ke Xu
 position: gradStudent
-avatar: Ke_Xu.JPG
+avatar: Ke_Xu.jpg
 twitter: <optional>
 joined: 2020
 ---
