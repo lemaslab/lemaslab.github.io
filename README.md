@@ -1,4 +1,6 @@
-# Lemas Lab Group 
+[![HitCount](http://hits.dwyl.com/lemaslab/lemaslab.github.io.svg)](http://hits.dwyl.com/lemaslab/lemaslab.github.io)
+
+# Lemas Lab
 
 This is the repository for the [Lemas Lab Group](https://lemas-lab-group.github.io/). We use Jekyll to run our Github page. Feel free to fork and make your own page or submit a pull-request!
 
