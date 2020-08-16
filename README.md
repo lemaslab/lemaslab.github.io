@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/lemaslab/lemaslab.github.io.svg)](http://hits.dwyl.com/lemaslab/lemaslab.github.io)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemaslab%2Flemaslab.github.io)](https://hits.seeyoufarm.com)
 
 # Lemas Lab
 
