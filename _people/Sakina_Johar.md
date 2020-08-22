@@ -1,7 +1,7 @@
 ---
 name: Sakina Johar
 position: underGradStudent
-avatar: avatar.jpg
+avatar: Sakina_Johar.JPG
 twitter:
 joined: 2019
 ---

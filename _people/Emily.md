@@ -1,7 +1,7 @@
 ---
 name: Emily Colgate
 position: underGradStudent
-avatar: avatar.jpg
+avatar: Emily_Colgate.jpg
 twitter: <optional>
 joined: 2018
 ---

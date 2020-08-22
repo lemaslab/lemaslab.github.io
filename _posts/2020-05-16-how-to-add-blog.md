@@ -9,9 +9,10 @@ Using Jekyll is a very easy way to an add post on `lemaslab.github.io`. All the 
 
 ```
 ---
-title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
-description: all links to CoSMo summer school in computational neuroscience materials
-categories: scientists
+Title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
+Description: All links to CoSMo summer school in computational neuroscience materials
+Categories: Scientists
+Author: Your name
 ---
 ```
 

@@ -1,4 +1,6 @@
-# Lemas Lab Group 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemaslab%2Flemaslab.github.io)](https://hits.seeyoufarm.com)
+
+# Lemas Lab
 
 This is the repository for the [Lemas Lab Group](https://lemas-lab-group.github.io/). We use Jekyll to run our Github page. Feel free to fork and make your own page or submit a pull-request!
 
