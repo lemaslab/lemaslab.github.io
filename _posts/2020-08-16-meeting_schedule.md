@@ -3,7 +3,7 @@ title: Informatics Team Meeting Schedule
 categories: scientists
 ---
 
-**Author:** Xinsong Du
+**Maintainer:** Xinsong Du
 
 **Github Repo:** https://github.com/lemaslab/Informatics_Team_Meeting_Schedule
 
@@ -11,4 +11,15 @@ categories: scientists
 
 | Date   | Presenter                       | Content                                                                                   | Materials |
 | ------- | ------------------------------- | ----------------------------------------------------------------------------------------- | --------- |
-| 8/17/20 | Yasmine S Gillespie; Xinsong Du | Docker Usage; Doing projects with the combination of local machine, Github and HiPerGator |           |
+| 8/17/20 | Yasmine S Gillespie; Xinsong Du | Docker Usage; Doing projects with the combination of local machine, Github and HiPerGator |[Yasmine's Slides](https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/blob/master/presentation/Docker_Yasmine.pptx); [Xinsong's Slides](https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/blob/master/presentation/Github_UFRC_Xinsong.pptx)           |
+
+### 2020 Fall
+
+| Date   | Presenter      | Content                                      | Materials |
+| ------- | -------------- | -------------------------------------------- | --------- |
+| 9/15/20 | Luran Manfio   | Shiny App                                    |           |
+| 9/22/20 | Hailey Ballard | Support Vector Machine for Metabolomics Data |           |
+| 9/29/20 | Nisha Chachad  | How to document a scientific software        |           |
+| 10/06/20| Ke Xu          | Volcano plot                                 |           |
+| 10/13/20| Xinsong Du     | RUMP                                         |           |
+| 10/13/20| Thu Kim        | Physical activity variables in BEACH Study   |           |
