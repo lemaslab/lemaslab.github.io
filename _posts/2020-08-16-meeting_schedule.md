@@ -21,5 +21,5 @@ categories: scientists
 | 9/22/20 | Hailey Ballard | Support Vector Machine for Metabolomics Data |           |
 | 9/29/20 | Nisha Chachad  | How to document a scientific software        |           |
 | 10/06/20| Ke Xu          | Volcano plot                                 |           |
-| 10/13/20| Xinsong Du     | RUMP                                         |           |
+| 10/13/20| Xinsong Du     | RUMP                                         |[Slides](https://bit.ly/34Pue09)|
 | 10/13/20| Thu Kim        | Physical activity variables in BEACH Study   |           |
