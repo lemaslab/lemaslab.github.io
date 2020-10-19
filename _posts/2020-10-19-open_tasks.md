@@ -16,7 +16,15 @@ categories: scientists
 -   Task description: Create a page under "resources" including target journals that we can submit papers to and their impact factor information. Some examples would be: http://bioinfolab.miamioh.edu/bioinfolab/journals.php
 -   Challenger(s): 
 
+3. Update People Page
+-   Task description: Add yourself to "People" page of our website by following "Add yourself" guideline on the [website GitHub](https://github.com/lemaslab/lemaslab.github.io). Ask Thu if there is any question.
+-   Challenger(s): Sabrina, Claire, Simon
+
 ### ShinyApp Tasks
+
+
+### BEACH Physical Activity Variables
+
 
 ### RUMP Tasks
 1. Data processing parameter tuning documentation
