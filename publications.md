@@ -11,6 +11,25 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2020
 
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">COVID‐19 Impacts Mental Health Outcomes and Ability/Desire to Participate in Research Among Current Research Participants._<br>Michelle I. Cardel, Stephanie Manasse, Rebecca A. Krukowski, Kathryn Ross, Rebecca Shakour, Darci R. Miller, Young‐Rock Hong <strong>Lemas DJ</strong>.<br>Obesity Society. 2020.
+</div>
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 32325370<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23016" alt="https://doi.org/10.1002/oby.23016 "> </a></li>
+        
+        <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23016" alt="PDF">Full Text</a></li>
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
 <div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
 <div class="tip" markdown="1">_Predicting In-hospital Mortality of Patients with Febrile Neutropenia Using Machine Learning Models._<br>Du X, Min J, Shah CP, Bishnoi R, Hogan WR, <strong>Lemas DJ</strong>.<br>International Journal of Medical Informatics. 2020.
 </div>
