@@ -17,7 +17,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 </div>
         <br>
         <strong>Access the paper</strong>
-        <li>PMID: 32325370<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23016" alt="https://doi.org/10.1002/oby.23016 "> </a></li>
+        <li>PMID: 32845582<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23016" alt="https://doi.org/10.1002/oby.23016 "> </a></li>
         
         <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/oby.23016" alt="PDF">Full Text</a></li>
         
