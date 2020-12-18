@@ -1,7 +1,7 @@
 ---
 name: Braeden Lewis
 position: gradStudent
-avatar: lewis_headshot.jpg
+avatar: lewis_b.jpg
 twitter:
 joined: 2019
 ---
