@@ -1,6 +1,7 @@
+---
 name: Joy Elensi
 position: underGradStudent
-avatar: avatar.jpg
+avatar: Joy.JPG
 twitter:
 joined: 2021
 ---
