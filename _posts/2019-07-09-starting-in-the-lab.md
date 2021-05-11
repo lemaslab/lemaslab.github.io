@@ -15,6 +15,8 @@ UF Informatics Institute
 
 ### Core Programming and Informatics Links 
 
+Good Python Coding Practices: [PEP 8 Coding Styles for Python](https://lemaslab.github.io/2019/07/09/starting-in-the-lab.html)
+
 Install base R: [Download R for windows](https://cran.r-project.org/bin/windows/base/)
 
 Install rstudio: [Download rstudio for windows](https://www.rstudio.com/products/rstudio/download/)

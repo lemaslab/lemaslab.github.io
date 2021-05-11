@@ -4,7 +4,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = (site.people | sort: 'joined' %}
-{% assign people_array = "pi|researchCoordinator|gradStudent|underGradStudent" | split: "|" %}
+{% assign people_array = "pi|researchCoordinator|gradStudent|underGradStudent|alumni" | split: "|" %}
 
 {% for item in people_array %}
 
@@ -17,6 +17,8 @@ permalink: /people/
 <h3>Principal Investigator</h3>
 {% elsif item == 'underGradStudent' %}
 <h3>Undergrad Students</h3>
+{% elsif item == 'alumni' %}
+<h3>Alumni</h3>
 {% endif %}
 </div>
 
@@ -46,7 +48,7 @@ permalink: /people/
 | Andrew Schleffer | Undergradaute (2015-present) | TBD |
 | Emily Colgate | Undergradaute (2015-present) | TBD |
 | Joshua Breuwet | Undergradaute (2015-present) | TBD |
-| Lauren Wright | Undergradaute (2015-2019) | TBD |
+| Lauren Wright | Undergradaute (2015-2019) | Miller School of Medicine, University of Miami |
 | Austen Hentschel | Undergradaute (2015-present) | TBD |
 | Lynn Chen | Undergradaute (2015-present) | TBD |
 | Yasmin Garcia | Undergradaute (2015-present) | TBD |

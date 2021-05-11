@@ -14,7 +14,7 @@ Email: `manfiol@ufl.edu`<br>
 
 ### About
 
-Luran is a junor Undergraduate student in the Colleg of Agraculture and Life Science(CALS) as a biology major with a double minor in computer science and bioinformaitcs.
+Luran is a junor Undergraduate student in the Colleg of Agraculture and Life Science(CALS) as a biology major with a double minor in Computer Science and Bioinformaitcs.
 He is pursuring a graduate degree in bioinformatics.
 He works closely with the informatics division of the lab which includes the metabolomics work in the BEACH study and working closely with our databaes creating comprehensive reports. 
 He works with R, Slurm, and CSS code within the lab in a variety of different projects.
