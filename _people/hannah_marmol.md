@@ -9,7 +9,7 @@ joined: 2021
 
 ### Contact
 
-email: 'marmolh@ufl.edu' <br>
+email: `marmolh@ufl.edu` <br>
 
 
 ### About
