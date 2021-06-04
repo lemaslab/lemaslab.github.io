@@ -1,7 +1,7 @@
 ---
 name: Lewis DeCicco
 position: underGradStudent
-avatar: XXX
+avatar: Lewis_DeCicco.jpeg
 joined: 2021
 ---
 
