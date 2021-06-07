@@ -1,7 +1,7 @@
 ---
 name: Farah Ulfat
 position: underGradStudent
-avatar: Farah 
+avatar: Farah_Ulfat.jpg 
 joined: 2021
 ---
 
