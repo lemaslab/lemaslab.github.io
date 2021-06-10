@@ -1,3 +1,4 @@
+---
 name: Michele Himadi
 position: underGradStudent
 avatar: Michele_Himadi.jpg
