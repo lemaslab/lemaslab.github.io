@@ -20,7 +20,7 @@ These websites are used frequently by our lab group to communicate and obtain da
 
 [Confluence Page](https://confluence.bmi.program.ufl.edu/dologin.action): Please email Dominick Lemas under the subect 'Requesting Confluence Access' with your name and UFID to get added to our Confluence Page and copy Magda Francois. Once you are granted access, please navigate to the confluence page and sign in with your gatorlink username and password.
 
-[Create RedCap account](https://login.ufl.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1)
+[Create RedCap account](https://redcap.ctsi.ufl.edu/redcap/index.php?action=myprojects)
 
 [Access UFIRB](https://my.irb.ufl.edu/uflirb/)
 
