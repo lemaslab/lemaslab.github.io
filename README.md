@@ -6,16 +6,27 @@ This is the repository for the [Lemas Lab Group](https://lemas-lab-group.github.
 
 ## Procedure to make change
 1. Login your [Github](https://github.com/) account.
-2. Fork this repository to your own account.
-3. If you are using Windows and have never installed or used Git, please go to [this website](https://git-scm.com/download/win) to install Git first. Otherwise, skip this step.
-4. Open command line, direct to the folder in which you want to save the source code of the website. 
-5. Clone forked repository to your local machine with the following command line (replace {your account} with your account name):
+2. If you are using Windows and have never installed or used Git, please go to [this website](https://git-scm.com/download/win) to install Git first. Otherwise, skip this step.
+3. Open command line, direct to the folder in which you want to save the source code of the website. 
+4. Clone repository to your local machine with the following command line:
 ```
-git clone https://github.com/{your account}/lemaslab.github.io.git
+git clone https://github.com/lemaslab/lemaslab.github.io.git
 ```
-6. Make appropriate changes to the cloned repository to update information to the webpage.
-7. Test if the updated repository can run appropriately on your local machine following the procedure: `Requirements -> Step2 -> Step4` on [this guideline](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll). 
-8. Type the following lines to update the repository:
+5. Change directories to the cloned repository.
+```
+cd lemaslab.github.io
+```
+6. Create your own branch. Skip this step if you already have your own branch.
+```
+git branch <create-branch>
+```
+7. Switch to the appropriate branch you are working on.
+```
+git checkout <branch-name>
+```
+8. Make appropriate changes to the cloned repository to update information to the webpage.
+9. Test if the updated repository can run appropriately on your local machine following the procedure: `Requirements -> Step2 -> Step4` on [this guideline](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll). 
+10. Type the following lines to update the repository:
 ```
 git add -A
 ```
@@ -25,7 +36,7 @@ git commit -m '{describe your change}'
 ```
 git push
 ```
-9. Go to the webpage of your forked repository, Make a pull request to the original repository and wait for approval by clicking `pull request` (note: this button is beside `compare` button, it is NOT `New pull request` button).
+11. Go to the webpage of your repository, Make a pull request to the original repository and wait for approval by clicking `pull request` (note: this button is beside `compare` button, it is NOT `New pull request` button).
 
 ## Add yourself
 
