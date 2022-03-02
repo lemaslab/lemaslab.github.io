@@ -8,9 +8,379 @@ For those interested in numbers, see Dominick's [google scholar citations profil
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to the NCBI where the publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
+### 2022
 
-### 2020
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_A Checklist for Reproducible Computational Analysis in Clinical Metabolomics Research._<br>Xinsong Du, Juan J Aristizabal-Henao, Timothy J Garrett, Mathias Brochhausen, William R Hogan, <strong>Lemas DJ</strong><br>Metabolites. 2022.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:  35050209<a href="https://pubmed.ncbi.nlm.nih.gov/35050209/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://www.mdpi.com/2218-1989/12/1/87" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
 
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Peripartum women’s perspectives on research study participation in the OneFlorida Clinical Research Consortium._<br>Ke Xu, Chu Hsiao, Hailey Ballard, Nisha Chachad, Thu Kim, Callie Reeder, Elizabeth A Shenkman, <strong>Lemas DJ</strong><br>American Journal of Obstetrics & Gynecology. 2022.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+   
+        
+        <li><a href="https://www.ajog.org/article/S0002-9378(21)02254-7/fulltext" alt="Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Maternal gut microbiome during the lactational period._<br>Adetola F Louis-Jacques, <strong>Lemas DJ</strong>, Ke Xu, Shaheda Urmi, Maureen Groer<br>American Journal of Obstetrics & Gynecology. 2022.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+    
+        <li><a href="https://www.ajog.org/article/S0002-9378(21)01264-3/fulltext" alt="Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Smoking during pregnancy, birth outcomes, and discordance between biomarker and self-reported smoking status._<br>Jaclyn M Hall, <strong>Lemas DJ</strong>, HeeDeok Cho, Mildred Maldonado-Molina, Tony S Wen, Elizabeth A Shenkman<br>American Journal of Obstetrics & Gynecology. 2022.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+     
+        <li><a href="https://www.ajog.org/article/S0002-9378(21)02066-4/fulltext" alt="Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Host-microbial interactions in the lactational period using antibiotic depleted specific pathogen free mice model._<br>Adetola F Louis-Jacques, Sarah Sniffen, Shaheda Urmi, Maureen Groer, <strong>Lemas DJ</strong><br>American Journal of Obstetrics & Gynecology. 2022.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+    
+        
+        <li><a href="https://www.ajog.org/article/S0002-9378(21)01715-4/fulltext" alt="Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+### 2021
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_County-level Analysis of Perinatal Health Indicators Within a Single Health System Catchment._<br><strong>Lemas DJ</strong>, Claire Layton, Hailey Ballard, Ke Xu, John C Smulian, Matthew Gurka, Matthew Shane Loop, Erica L Smith, Callie F Reeder, Adetola Louis-Jacques, Chu J Hsiao, Nicole Cacho, Jaclyn Hall<br>UFHPCA . 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        
+        
+        <li><a href="file:///C:/Users/emman/AppData/Local/Temp/64b72faf-fa7f-4c06-a998-cfe6f12392c4.pdf" alt="Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Urinary Metabolomic Analysis of Diverse Adolescent Girls with Overweight/Obesity._<br>Xinsong Du, Michelle Cardel, Darci Miller, Juan Aristizabal Henao, John Bowden, <strong>Lemas DJ</strong><br>OBESITY. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 33472584<a href="https://pubmed.ncbi.nlm.nih.gov/33472584/" alt="Pubmed link: "> </a></li>
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Perspectives of pregnant and breastfeeding women on longitudinal clinical studies that require non-invasive biospecimen collection–a qualitative study._<br><strong>Lemas DJ</strong>, Lauren Wright, Elizabeth Flood-Grady, Magda Francois, Lynn Chen, Austen Hentschel, Xinsong Du, Chu J Hsiao, Huan Chen, Josef Neu, Ryan P Theis, Elizabeth Shenkman, Janice Krieger<br>BMC pregnancy and childbirth. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 33472584<a href="https://pubmed.ncbi.nlm.nih.gov/33472584/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://link.springer.com/article/10.1186/s12884-021-03541-x" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Using machine learning analysis to assist in differentiating between necrotizing enterocolitis and spontaneous intestinal perforation: a novel predictive analytic tool._<br>Allison C Lure, Xinsong Du, Erik W Black, Raechel Irons, <strong>Lemas DJ</strong>, Janice A Taylor, Orlyn Lavilla, Diomel de la Cruz, Josef Neu<br>Journal of Pediatric Surgery. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 33342603<a href="https://pubmed.ncbi.nlm.nih.gov/33342603/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S002234682030837X" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Metabolomic Profiling of Biological Reference Materials using a Multiplatform High-Resolution Mass Spectrometric Approach._<br>Juan J Aristizabal-Henao, <strong>Lemas DJ</strong>, Emily K Griffin, Kaylie Anne Costa, Camden Camacho, John A Bowden<br>Journal of the American Society for Mass Spectrometry. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:  34388338<a href="https://pubmed.ncbi.nlm.nih.gov/34388338/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://pubs.acs.org/doi/abs/10.1021/jasms.1c00194" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Association between atopic dermatitis and race from infancy to early childhood: a retrospective cohort study._<br>Reesa L Monir, Jennifer J Schoch, Cynthia W Garvan, Josef Neu, <strong>Lemas DJ</strong><br>International Journal of Dermatology. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:   34378189<a href="https://pubmed.ncbi.nlm.nih.gov/34378189/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ijd.15805" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Acceptability of Research and Health Care Visits During the COVID-19 Pandemic: Cross-sectional Survey Study._<br>Kathryn M Ross, Young-Rock Hong, Rebecca A Krukowski, Darci R Miller, <strong>Lemas DJ</strong>, Michelle I Cardel<br>JMIR formative research. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:   34033577<a href="https://pubmed.ncbi.nlm.nih.gov/34033577/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://formative.jmir.org/2021/6/e27185/" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Implications of the vaginal microbiome and potential restorative strategies on maternal health: a narrative review._<br>Olivia Moumne, Mary E Hampe, Diana Montoya-Williams, Tiffany L Carson, Josef Neu, Magda Francois, Alice Rhoton-Vlasak, <strong>Lemas DJ</strong><br>Journal of Perinatal Medicine. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:  33385644<a href="https://pubmed.ncbi.nlm.nih.gov/33554571/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://www.degruyter.com/document/doi/10.1515/jpm-2020-0367/html?lang=de" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Estimating drug consumption during a college sporting event from wastewater using liquid chromatography mass spectrometry._<br><strong>Lemas DJ</strong>, Mathew Shane Loop, Michelle Duong, Andrew Schleffer, Clark Collins, John Alfred Bowden, Xinsong Du, Keval Patel, Austin L Ciesielski, Zach Ridge, Jarrad Wagner, Bikram Subedi, Chris Delcher<br>Science of the total environment. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:  33385644<a href="https://pubmed.ncbi.nlm.nih.gov/33385644/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969720374945" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Perspectives of Pregnant and Breastfeeding Women on Participating in Longitudinal Mother-Baby Studies Involving Electronic Health Records: Qualitative Study._<br>Austen Hentschel, Chu J Hsiao, Lynn Y Chen, Lauren Wright, Jennifer Shaw, Xinsong Du, Elizabeth Flood-Grady, Christopher A Harle, Callie F Reeder, Magda Francois, Adetola Louis-Jacques, Elizabeth Shenkman, Janice L Krieger, <strong>Lemas DJ</strong><br>JMIR Pediatrics and Parenting. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID:  33666558<a href="https://pubmed.ncbi.nlm.nih.gov/33431421/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://pediatrics.jmir.org/2021/1/e23842" alt="Alternative Link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Degree of Cardiometabolic Risk Factor Normalization in Individuals Receiving Bariatric Surgery: Evidence from NHANES 2015-2018._<br>Young-Rock Hong, Aaron S Kelly, Crystal Johnson-Mann, <strong>Lemas DJ</strong>, Michelle I Cardel<br>Diabetes care. 2021.
+</div>
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 33431421<a href="https://pubmed.ncbi.nlm.nih.gov/33431421/" alt="Pubmed link: "> </a></li>
+        
+        <li><a href="https://diabetesjournals.org/care/article/44/3/e57/138701" alt="Alternative link">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_Duration of neonatal intensive care unit exposure associated with decreased risk of atopic dermatitis._<br>Jeniffer J Schoch, Nicole Miranda, Cynthia W Garvan, Reesa L Monir, Josef Neu, <strong>Lemas DJ</strong><br>Pediatric Dermatology. 2021.
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 33063877<a href="https://pubmed.ncbi.nlm.nih.gov/33063877/"> </a></li>
+     
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
+
+## 2020
+
+<div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
+<div class="tip" markdown="1">_A Qualitative Study of Pregnant Women's Perspectives on Antibiotic Use for Mom and Child: Implications for Developing Tailored Health Education Interventions._<br>Lynn Y Chen, Elizabeth Flood-Grady, Austen Hentschel, Lauren Wright, Rahma Mkuu, Alyson Young, Magda Francois, Josef Neu, Leslie A Parker, Elizabeth Shenkman, Janice L Krieger, <strong>Lemas DJ</strong><br>Antibiotics. 2020.
+<ul class="col-sm-6">
+        <br>
+        <strong>Access the paper</strong>
+        <li>PMID: 33076539<a href="https://pubmed.ncbi.nlm.nih.gov/33076539/" alt="pubmed link: "> </a></li>
+        
+        <li><a href="https://www.mdpi.com/2079-6382/9/10/704/pdf" alt="PDF">Full Text</a></li>
+        
+        
+        
+        <strong>Additional Links</strong>
+        
+        <li><a href="https://hobi.med.ufl.edu/" alt="Department website">UF HOBI</a></li>
+        
+</ul>
+</div>
+<br>
+<hr>
 
 <div class="row" style="padding-top: 60px; padding-left: 15px; padding-right: 15px; margin-top: -60px;" id="">
 <div class="tip" markdown="1">COVID‐19 Impacts Mental Health Outcomes and Ability/Desire to Participate in Research Among Current Research Participants._<br>Michelle I. Cardel, Stephanie Manasse, Rebecca A. Krukowski, Kathryn Ross, Rebecca Shakour, Darci R. Miller, Young‐Rock Hong <strong>Lemas DJ</strong>.<br>Obesity Society. 2020.
