@@ -14,5 +14,5 @@ joined: 2022
 <I am a 3rd year APK major on the pre-health track. I enjoy playing soccer, cooking, and going to the gym on my free time.>
 
 ### Current Projects
-<your current projects>
+<BEACH Project>
 - <other current projects, start line with a - character>
