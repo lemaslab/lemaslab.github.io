@@ -3,7 +3,7 @@ name: Caroline Pujol
 position: underGradStudentavatar: <your file name here.extention>
 joined: 2022
 ---
-<img width="300”src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+img width="300”src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom"
 
 ### Contactemail: `cpujol@ufl.edu` <br>
 
