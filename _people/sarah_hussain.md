@@ -1,6 +1,6 @@
 ---
 name: Sarah Hussain
-position: underGradStudentavatar: <your file name here.extention>
+position: underGradStudentavatar: sarah_hussain headshot
 joined: 2022
 ---
 <img width="300”src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
