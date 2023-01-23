@@ -1,11 +1,12 @@
 ---
-name: <Bryanna Mirabal>
-position: underGradStudentavatar: <bryannamirabal.extension>
-joined: <2022>
+name: Bryanna Mirabal
+position: underGradStudent
+avatar: bry mirabal head shot.jpg
+joined: 2022
 ---
 <img width="300”src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
-### Contactemail: Bryannamirabal@ufl.edu
+### Contactemail: Bryannamirabal@ufl.edu <br>
 
 
 ### About
