@@ -1,6 +1,7 @@
 ---
 name: Caroline Pujol
-position: underGradStudentavatar: <your file name here.extention>
+position: underGradStudent
+avatar: A36C07B3-B3CB-469E-8F10-52CE9C1DAA06_1_201_a.jpeg
 joined: 2022
 ---
 img width="300”src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom"
