@@ -1,7 +1,7 @@
 ---
-name: Bryanna Mirabal
+name: <Bryanna Mirabal>
 position: underGradStudentavatar: <bryannamirabal.extension>
-joined: 2022
+joined: <2022>
 ---
 <img width="300”src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
