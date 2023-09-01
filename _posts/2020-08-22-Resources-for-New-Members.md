@@ -16,7 +16,7 @@ Welcome to the Lemas Lab! This page contains all of the resources you will need 
 
 
 ### Important Links
-These websites are used frequently by our lab group to communicate and obtain data access. Please reach out to Dominick Lemas (djlemas@ufl.edu) or Magda Francois (magdafrancois@ufl.edu) for authorization if needed. These links also include the ones needed for completing IRB training.
+These websites are used frequently by our lab group to communicate and obtain data access. Please reach out to Dominick Lemas (djlemas@ufl.edu) for authorization if needed. These links also include the ones needed for completing IRB training.
 
 [Confluence Page](https://confluence.bmi.program.ufl.edu/dologin.action): Please email Dominick Lemas under the subect 'Requesting Confluence Access' with your name and UFID to get added to our Confluence Page and copy Magda Francois. Once you are granted access, please navigate to the confluence page and sign in with your gatorlink username and password.
 
