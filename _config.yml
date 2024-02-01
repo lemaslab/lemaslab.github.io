@@ -1,0 +1,73 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "Lemas Lab"
+title:              "as called as Lemas Lab"
+description:        "this is a page for the Lemas Lab, we are molecular epidemiology lab based in the Institute for Child Health Policy of the University of Florida"
+
+
+# URL
+url:                lemas-lab-group.github.io
+baseurl:
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "blog"
+    href:           "/blog"
+  - name:           "resources"
+    href:           "/resources"
+ # new page about current projects that the group is working on.
+ # - name:           "projects"
+ #   href:           "/projects"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
+
+theme: jekyll-theme-slate
+encoding: UTF-8

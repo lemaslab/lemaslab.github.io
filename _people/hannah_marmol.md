@@ -1,0 +1,25 @@
+---
+name: Hannah Marmol
+position: underGradStudent
+avatar: XXX
+joined: 2021
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+### Contact
+
+email: `marmolh@ufl.edu` <br>
+
+
+### About
+
+Hannah is currently a junior at the University of Florida majoring in health sciences and on the pre-medical track. 
+She is also a TA for microbiology lab, a director of the Health Outreach and Education Committee of UF AMSA, and treasurer of Puppy Club. 
+In Hannah's free time, she enjoys playing with her goldendoodle, Teddy!
+
+
+### Current Projects
+
+- BEACH Study
+- EHR 

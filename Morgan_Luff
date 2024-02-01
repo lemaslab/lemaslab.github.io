@@ -1,0 +1,23 @@
+---
+name: Morgan Luff
+position: underGradStudent
+avatar: Morgan_Luff.jpg
+joined: 2023
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+### Contact
+
+email: `luffmorgan@ufl.edu` <br>
+
+
+### About 
+
+Morgan Luff is a second-year undergraduate student majoring in Nursing and minoring in Medical Geography in Global Health. Morgan is from St. Petersburg, Florida and enjoys reading, emboidering, and spending time with friends and family in her free time.
+
+
+### Current Projects
+
+- BEACH Study
+- EHR 
