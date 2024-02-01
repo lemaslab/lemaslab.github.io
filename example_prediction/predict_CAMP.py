@@ -70,7 +70,7 @@ def boost_mask_BCE_loss(input_mask,flag):
 batch_size = int(opts.b) 
 pad_pep_len = int(opts.l) 
 pad_seq_len = int(opts.p)
-gpu_frac = int(opts.f)
+gpu_frac = float(opts.f)
 model_mode = int(opts.m)
 
 set_session(get_session(gpu_frac))
