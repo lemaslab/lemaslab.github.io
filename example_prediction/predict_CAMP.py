@@ -1,6 +1,6 @@
 from keras.layers import *
 from keras.models import *
-from keras.optimizers import rmsprop
+from tensorflow.keras.optimizers import RMSprop
 import tensorflow as tf
 from keras.backend.tensorflow_backend import set_session
 from  Self_Attention import *
