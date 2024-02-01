@@ -59,7 +59,7 @@ def split_data(setting, clu_thre, n_fold, X_pep_seq, X_prot_seq): # X_pep_seq & 
     prot_id_list = X_prot_seq.tolist()
     n_sample = len(pep_id_list)
     train_idx_list, valid_idx_list, test_idx_list = [], [], []
-    print 'setting:', setting
+    print ('setting:', setting)
 
     if setting == 'new_protein':
         pair_train_clusters, pair_test_clusters, peprot_train_clusters, peprot_test_clusters, prot_train_clusters, prot_test_clusters, Pep_cluster_dict, Prot_cluster_dict \
@@ -79,7 +79,7 @@ def split_data(setting, clu_thre, n_fold, X_pep_seq, X_prot_seq): # X_pep_seq & 
             valid_idx = np.random.choice(train_idx, int(len(train_idx)/10), replace=False)
             valid_idx_list.append(valid_idx)
             test_idx_list.append(test_idx)
-            print 'fold', fold, 'train ',len(train_idx),'test ',len(test_idx),'valid ',len(valid_idx)
+            print ('fold', fold, 'train ',len(train_idx),'test ',len(test_idx),'valid ',len(valid_idx))
 
     elif setting == 'new_peptide':
         pair_train_clusters, pair_test_clusters, peprot_train_clusters, peprot_test_clusters, prot_train_clusters, prot_test_clusters, Pep_cluster_dict, Prot_cluster_dict \
@@ -99,7 +99,7 @@ def split_data(setting, clu_thre, n_fold, X_pep_seq, X_prot_seq): # X_pep_seq & 
             valid_idx = np.random.choice(train_idx, int(len(train_idx)/10), replace=False)
             valid_idx_list.append(valid_idx)
             test_idx_list.append(test_idx)
-            print 'fold', fold, 'train ',len(train_idx),'test ',len(test_idx),'valid ',len(valid_idx)
+            print ('fold', fold, 'train ',len(train_idx),'test ',len(test_idx),'valid ',len(valid_idx))
 
     elif setting == 'both_new':
         assert n_fold ** 0.5 == int(n_fold ** 0.5)
