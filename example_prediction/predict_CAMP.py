@@ -31,7 +31,7 @@ def binding_vec_pos(bs_str,N):
 	if bs_str == '-99999':
 		bs_vec = np.zeros(N)
 		bs_vec.fill(-99999)
-                return bs_vec
+		return bs_vec
 	else:
 		bs_list = [int(x) for x in bs_str.split(',')]
 		bs_list = [x for x in bs_list if x<N]
@@ -63,7 +63,7 @@ def get_mask(protein_seq,pad_seq_len):
 # flag is an indicator for checking whether this record has binding sites information
 def boost_mask_BCE_loss(input_mask,flag):
 	def conditional_BCE(y_true, y_pred):
-                loss = flag * K.binary_crossentropy(y_true, y_pred) * input_mask
+		loss = flag * K.binary_crossentropy(y_true, y_pred) * input_mask
 		return K.sum(loss) / K.sum(input_mask)
 	return conditional_BCE
 
