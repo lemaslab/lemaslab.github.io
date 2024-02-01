@@ -78,21 +78,21 @@ set_session(get_session(gpu_frac))
 def load_example(model_mode):
 	print('loading features:') 
 	
-	with open('./example_data_feature/protein_feature_dict') as f: 
+	with open('./example_data_feature/protein_feature_dict', 'rb') as f: 
 		protein_feature_dict = pickle.load(f)
-	with open('./example_data_feature/peptide_feature_dict') as f:
+	with open('./example_data_feature/peptide_feature_dict', 'rb') as f:
 		peptide_feature_dict = pickle.load(f)
-	with open('./example_data_feature/protein_ss_feature_dict') as f: 
+	with open('./example_data_feature/protein_ss_feature_dict', 'rb') as f: 
 		protein_ss_feature_dict = pickle.load(f)
-	with open('./example_data_feature/peptide_ss_feature_dict') as f:
+	with open('./example_data_feature/peptide_ss_feature_dict', 'rb') as f:
 		peptide_ss_feature_dict = pickle.load(f)
-	with open('./example_data_feature/protein_2_feature_dict') as f: 
+	with open('./example_data_feature/protein_2_feature_dict', 'rb') as f: 
 		protein_2_feature_dict = pickle.load(f)
-	with open('./example_data_feature/peptide_2_feature_dict') as f:
+	with open('./example_data_feature/peptide_2_feature_dict', 'rb') as f:
 		peptide_2_feature_dict = pickle.load(f)
-	with open('./example_data_feature/protein_dense_feature_dict') as f: 
+	with open('./example_data_feature/protein_dense_feature_dict', 'rb') as f: 
 		protein_dense_feature_dict = pickle.load(f)
-	with open('./example_data_feature/peptide_dense_feature_dict') as f:
+	with open('./example_data_feature/peptide_dense_feature_dict', 'rb') as f:
 		peptide_dense_feature_dict = pickle.load(f)
 
 
