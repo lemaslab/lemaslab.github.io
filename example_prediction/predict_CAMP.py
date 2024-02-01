@@ -2,13 +2,13 @@ from keras.layers import *
 from keras.models import *
 from tensorflow.keras.optimizers import RMSprop
 import tensorflow as tf
-from keras.backend.tensorflow_backend import set_session
-from  Self_Attention import *
+from tensorflow.compat.v1.keras.backend import set_session
+from Self_Attention import *
 import math, sys, sklearn, pickle
 import numpy as np
 from optparse import OptionParser
 import argparse as ap
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 from camp_utils import *
 
 parser = OptionParser()
