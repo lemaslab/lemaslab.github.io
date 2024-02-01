@@ -123,5 +123,5 @@ def split_data(setting, clu_thre, n_fold, X_pep_seq, X_prot_seq): # X_pep_seq & 
                 valid_idx = np.random.choice(train_idx, int(len(train_idx)/10), replace=False)
                 valid_idx_list.append(valid_idx)
                 test_idx_list.append(test_idx)
-                print 'fold', fold_x*int(n_fold ** 0.5)+fold_y, 'train ',len(train_idx),'test ',len(test_idx),'valid ',len(valid_idx)
+                print ('fold', fold_x*int(n_fold ** 0.5)+fold_y, 'train ',len(train_idx),'test ',len(test_idx),'valid ',len(valid_idx))
     return train_idx_list, valid_idx_list, test_idx_list
