@@ -19,7 +19,7 @@ PDB_seq_len_lst = [len(x) for x in PDB_seq_lst]
 df_fasta_raw =pd.DataFrame(list(zip(PDB_type_lst, PDB_seq_len_lst,PDB_seq_lst,PDB_id_lst,PDB_chain_lst)),\
                        columns=['PDB_type','PDB_seq_len','PDB_seq','PDB_id','chain'])
 df_fasta = df_fasta_raw[(df_fasta_raw.PDB_seq_len<=50)&(df_fasta_raw.PDB_type=='protein')]
-df_fasta_raw.to_csv('pdbid_all_fasta', encoding='utf-8', index=False, sep = '\t')
-df_fasta.to_csv('pdb_pep_chain', encoding='utf-8', index=False, sep = '\t')
+df_fasta_raw.to_csv(r'C:\Users\danmo\Downloads\pdbid_all_fasta.tsv', encoding='utf-8', index=False, sep = '\t')
+df_fasta.to_csv(r'C:\Users\danmo\Downloads\pdb_pep_chain.tsv', encoding='utf-8', index=False, sep = '\t')
 
 print('Step 0 is finished by generating two files : pdb_pep_chain & pdbid_all_fasta!')
