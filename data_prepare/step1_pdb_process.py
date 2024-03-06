@@ -43,7 +43,7 @@ def load(pdb_pep_dataset,plip_result_filename): #pdb_pep_chain	 #plip_predict_re
 		#result_file_name = './peptide_result/'+pdb_id + '_'+chain+'_result.txt'
 		result_file_name = r"C:\Users\danmo\DanielMonzon\data_prepare\peptide_result\A.txt"
 		#1a0m_A_result.txt
-		#print(result_file_name)
+		print(result_file_name)
 		try:
 			for line in open(result_file_name):
 				if line.startswith('Interacting chain(s):'):
