@@ -25,11 +25,10 @@ def lower_chain(input_str):
 	output_str = ''.join(output_list)
 	return output_str
 
-
+"""
 # Step 0: parse the fasta file downloaded from the RCSB PDB
 # INPUT : pdb_seqres.txt
 # OUTPUT: pdb_pep_chain, pdbid_all_fasta
-"""
 raw_str = ''
 with open(r'C:\Users\danmo\Downloads\pdb_seqres.txt\pdb_seqres.txt', 'r') as f:
     for line in f.readlines():
