@@ -72,7 +72,7 @@ def load(pdb_pep_dataset,plip_result_filename): #pdb_pep_chain	 #plip_predict_re
 				}).assign(**{lst_col:np.concatenate(df_predict[lst_col].values)})[df_predict.columns.tolist()]
 	df_predict = df1
 	# save organized data formatted like (pdb,pep_chain,predicted_prot_chain)
-	file_name = plip_result_filename
+	file_name = r"C:\Users\danmo\Downloads\" + plip_result_filename
 	df_predict.to_csv(file_name, encoding='utf-8', index=False, sep='\t')
 	print('finish exploding comma-seperated predicted chain, successfully saved records:',df_predict.shape[0])
 
