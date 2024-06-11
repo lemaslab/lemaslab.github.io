@@ -2,7 +2,7 @@
 name: Zara Haruna
 position: underGradStudent
 avatar: Zara_Haruna.jpg
-joined: YEAR HERE
+joined: 2023
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
