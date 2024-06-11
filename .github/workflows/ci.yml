@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main  # Change this to your default branch if it's not 'main'
+  pull_request:
+    branches:
+      - main  # Optional: to run the workflow on pull requests as well
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 2.7 # Specify the Ruby version Jekyll needs
+
+    - name: Install Bundler
+      run: gem install bundler:2.2.31
+
+    - name: Install dependencies
+      run: |
+        bundle install
+        bundle update --bundler
+
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
