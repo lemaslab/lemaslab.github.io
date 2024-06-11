@@ -23,7 +23,7 @@ permalink: /people/
 </div>
 
 <div class="content list people">
-  {% for profile in people_sorted %}
+  {% for profile in sorted_people %}
     {% if profile.position contains item %}
     <div class="list-item-people">
       <p class="list-post-title">
