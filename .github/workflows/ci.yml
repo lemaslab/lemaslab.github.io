@@ -3,11 +3,11 @@ name: CI
 on:
   push:
     branches:
-      - main  # Change this to your default branch if it's not 'main'
+      - master  
   pull_request:
     branches:
-      - main  # Optional: to run the workflow on pull requests as well
-
+      - master
+      
 jobs:
   build:
     runs-on: ubuntu-latest
