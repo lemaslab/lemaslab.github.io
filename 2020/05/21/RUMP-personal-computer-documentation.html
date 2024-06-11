@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<!--
+
+// \\          // \\  // \\          // \\  // \\          // \\  // \\
+\\   \\      // | :,\\': | \\      // | :,\\': | \\      // | :,\\': | \\
+ \\  | |\\  //  | | // \\  | |\\  //  | |//  \\  | \\  // | | //  \\ | |
+  \\ | :,\\': | //      \\ | :,\\': | //      \\ | :,\\': | //      \\ |
+    \\ //  \\ //          \\ //  \\ //          \\ //  \\ //          \\
+            ^'
+
+  _                                _           _     
+ | |                              | |         | |    
+ | |     ___ _ __ ___   __ _ ___  | |     __ _| |__  
+ | |    / _ \ '_ ` _ \ / _` / __| | |    / _` | '_ \ 
+ | |___|  __/ | | | | | (_| \__ \ | |___| (_| | |_) |
+ |______\___|_| |_| |_|\__,_|___/ |______\__,_|_.__/ 
+
+
+
+// \\          // \\  // \\          // \\  // \\          // \\  // \\
+\\   \\      // | :,\\': | \\      // | :,\\': | \\      // | :,\\': | \\
+ \\  | |\\  //  | | // \\  | |\\  //  | |//  \\  | \\  // | | //  \\ | |
+  \\ | :,\\': | //      \\ | :,\\': | //      \\ | :,\\': | //      \\ |
+    \\ //  \\ //          \\ //  \\ //          \\ //  \\ //          \\
+            ^'
+
+-->
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RUMP Personal Computer Documentation</title>
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,400italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
+  <link href="lemas-lab-group.github.io/css/zoom.css" rel="stylesheet">
+  <script src="lemas-lab-group.github.io/js/zoom.js"></script>
+  <script src="lemas-lab-group.github.io/js/transition.js"></script>
+
+  <link rel="stylesheet" href="/style.css">
+  <!-- favicon -->
+  <link rel="shortcut icon" href="lemas-lab-group.github.io/favicon.ico">
+  <link rel="shortcut icon" href="lemas-lab-group.github.io/favicon.png">
+  <link rel="apple-touch-icon-precomposed" href="lemas-lab-group.github.io/images/logo/apple-touch-icon-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="lemas-lab-group.github.io/images/logo/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="lemas-lab-group.github.io/images/logo/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="lemas-lab-group.github.io/images/logo/apple-touch-icon-144x144-precomposed.png">
+
+  <!-- open graph -->
+
+  
+  
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="lemas-lab-group.github.io/2020/05/21/RUMP-personal-computer-documentation.html">
+  <meta property="og:title" content="RUMP Personal Computer Documentation">
+  <meta property="og:site_name" content="as called as Lemas Lab">
+  <meta property="og:description" content="Steps outlining running RUMP on a personal computer" />
+  <meta property="og:image" content="lemas-lab-group.github.io/images/logo/logo_square.jpg">
+
+</head>
+
+<script>
+/**
+* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//lemaslab.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<body id="page-top" style="padding-top: 7em;">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class='navbar-brand page-scroll' href='/'>
+              <span style='font-family:"Open Sans" font-weight:300'>Lemas Lab</span>
+              </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <ul class="nav navbar-nav navbar-right">
+                      
+                      <li><a class='name' href="/">home</a></li>
+                      
+                      <li><a class='name' href="/about">about</a></li>
+                      
+                      <li><a class='name' href="/publication">publications</a></li>
+                      
+                      <li><a class='name' href="/people">people</a></li>
+                      
+                      <li><a class='name' href="/blog">blog</a></li>
+                      
+                      <li><a class='name' href="/resources">resources</a></li>
+                      
+                    </ul>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+</nav>
+
+    <div class="container content post">
+  <h3><strong>RUMP Personal Computer Documentation</strong><br/>
+  <small>posted on May 21, 2020</small></h3>
+  <hr>
+  <p>Asciinema Tutorial for Running RUMP: https://asciinema.org/a/CqZ9KjtP42oqMoeAXYKAmMjv3</p>
+
+<p>It may take around 8 hours to run. You can copy this command for step 14.</p>
+
+<ol>
+  <li>
+    <p><a href="https://ubuntu.com/download/desktop">Install Ubuntu desktop.</a></p>
+  </li>
+  <li>
+    <p><a href="https://www.virtualbox.org/">Install VirtualBox.</a></p>
+  </li>
+  <li>
+    <p><a href="https://linuxhint.com/install_ubuntu_18-04_virtualbox/">Install Ubuntu inside the VirtualBox.</a>
+When selecting memory size, choose 7000 MB. When selecting file size, choose at least 40 GB.
+Move into settings, select System, and then Processor. Allocate 4 CPUs. If your computer is running extremely slowly in the VirtualBox, change to 2 CPUs.
+When you close the VirtualBox, always select “Power off the machine”.</p>
+  </li>
+  <li>
+    <p>Start Ubuntu. Open terminal with ctrl + alt + T.</p>
+  </li>
+  <li>Clone RUMP repository.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git clone https://github.com/lemaslab/RUMP.git
+</code></pre></div>    </div>
+  </li>
+  <li>Move into RUMP repository.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cd RUMP
+</code></pre></div>    </div>
+  </li>
+  <li>Install curl command.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install curl
+</code></pre></div>    </div>
+  </li>
+  <li>Install git command.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install git-all
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p><a href="https://docs.docker.com/engine/install/ubuntu/">Install Docker.</a></p>
+  </li>
+  <li>Install Java.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get update
+$ sudo apt-get install default-jre
+</code></pre></div>    </div>
+  </li>
+  <li>
+    <p><a href="https://www.nextflow.io/">Install Nextflow.</a></p>
+  </li>
+  <li>Download MZmine-2.53 into the repository.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>wget https://github.com/mzmine/mzmine2/releases/download/v2.53/MZmine-2.53-Linux.zip &amp;&amp; unzip MZmine-2.53-Linux.zip &amp;&amp; rm MZmine-2.53-Linux.zip
+</code></pre></div>    </div>
+  </li>
+  <li>Access “nextflow.config”. Hover over “7GB”, type “r”, and “4”. This will change “7GB” to “4GB” for memory storage. Repeat for the other “7GB”. Hit esc upon completion. Type “:wq” to save changes and exit the file.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vi nextflow.config
+</code></pre></div>    </div>
+  </li>
+  <li>Test RUMP with sample data provided.
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./nextflow main.nf --input_dir_pos functional_test/sample_data/POS/ --input_dir_neg functional_test/sample_data/NEG --POS_design_path functional_test/sample_data/pos_design.csv --NEG_design_path functional_test/sample_data/neg_design.csv -with-docker xinsongdu/lemaslab_rump:v0.0.0
+</code></pre></div>    </div>
+  </li>
+</ol>
+
+
+  <ul class="share-buttons">
+  <a style="color:#3b5998;" href="https://www.facebook.com/sharer/sharer.php?u=lemas-lab-group.github.io/2020/05/21/RUMP-personal-computer-documentation.html" title="Share on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+  <a style="color:#0084b4;" href="https://twitter.com/intent/tweet?text=lemas-lab-group.github.io/2020/05/21/RUMP-personal-computer-documentation.html" title="Share on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>
+</ul>
+
+  <div id="disqus_thread"></div>
+</div>
+
+
+    <script id="dsq-count-scr" src="//lemaslab.disqus.com/count.js" async></script>
+    <script src="http://code.jquery.com/jquery-2.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-28658104-2");
+    pageTracker._trackPageview();
+    </script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-28658104-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-28658104-2');
+    </script>
+
+</body>
+</html>

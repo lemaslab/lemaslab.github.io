@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Lemas Lab</title>
+		<link>lemas-lab-group.github.io</link>
+		<atom:link href="lemas-lab-group.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Poster print guideline</title>
+        <description>&lt;h1 id=&quot;poster-print-guideline&quot;&gt;Poster print guideline&lt;/h1&gt;
+
+&lt;p&gt;Here is the poster print instructions.&lt;/p&gt;
+
+&lt;p&gt;Location: A poster plotter is located on Marston’s 1st floor. Visit the UFIT Help Desk next to the water fountain first for instructions on how to print.
+Links for more details: https://marston.uflib.ufl.edu/services/print-and-scan/; https://print.at.ufl.edu/
+Slides: &lt;a href=&quot;https://github.com/lemaslab/lemaslab.github.io/files/8674872/Poster_Printing_Guide.pptx&quot;&gt;Poster_Printing_Guide.pptx&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2022/05/11/poster-print-guideline.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2022/05/11/poster-print-guideline.html</guid>
+			</item>
+		
+			<item>
+				<title>Open Tasks</title>
+        <description>&lt;p&gt;&lt;strong&gt;Maintainer:&lt;/strong&gt; Xinsong Du&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Github Repo:&lt;/strong&gt; https://github.com/lemaslab/Informatics_Team_Meeting_Schedule&lt;/p&gt;
+
+&lt;h3 id=&quot;web-tasks&quot;&gt;Web Tasks&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Update Publication Page
+    &lt;ul&gt;
+      &lt;li&gt;Task description: There are several new publications from our lab, please update this information by modifying &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;publications.md&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;Challenger(s): Sabrina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Page Regarding Target Journals
+    &lt;ul&gt;
+      &lt;li&gt;Task description: Create a page under “resources” including target journals that we can submit papers to and their impact factor information. Some examples would be: http://bioinfolab.miamioh.edu/bioinfolab/journals.php&lt;/li&gt;
+      &lt;li&gt;Challenger(s):&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Update People Page
+    &lt;ul&gt;
+      &lt;li&gt;Task description: Add yourself to “People” page of our website by following “Add yourself” guideline on the &lt;a href=&quot;https://github.com/lemaslab/lemaslab.github.io&quot;&gt;website GitHub&lt;/a&gt;. Ask Thu if there is any question.&lt;/li&gt;
+      &lt;li&gt;Challenger(s): Sabrina, Claire, Simon&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;shinyapp-tasks&quot;&gt;ShinyApp Tasks&lt;/h3&gt;
+
+&lt;h3 id=&quot;beach-physical-activity-variables&quot;&gt;BEACH Physical Activity Variables&lt;/h3&gt;
+
+&lt;h3 id=&quot;rump-tasks&quot;&gt;RUMP Tasks&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Data processing parameter tuning documentation
+    &lt;ul&gt;
+      &lt;li&gt;Task description: See if a potential user can modify parameters for “chromatogram deconvolution” step based on &lt;a href=&quot;https://github.com/lemaslab/RUMP/wiki/8.-Data-processing-parameters-modification&quot;&gt;this guideline&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Detailed steps: 1) Modify &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;rump/batchfile_generator_pos_253.py&lt;/code&gt; based on the guideline; 2) run RUMP and see if succeed; 3) make a video tutorial&lt;/li&gt;
+      &lt;li&gt;Challenger(s): Hailey, Nisha, Sabrina, Luran&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+				<pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/10/19/open_tasks.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/10/19/open_tasks.html</guid>
+			</item>
+		
+			<item>
+				<title>Resources for New Members</title>
+        <description>&lt;p&gt;Welcome to the Lemas Lab! This page contains all of the resources you will need to get started.&lt;/p&gt;
+
+&lt;h3 id=&quot;resources-for-irb-approval&quot;&gt;Resources for IRB Approval&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSDdiuWSkUhJGDeWoeAJHMJDeJ9jl7igj2BWthT6bPAkzCg3kq9q8belHp1T6UurlXdgz9-dnuM0Hfd/pub&quot;&gt;Volunteer Packet Instructions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/1c2dVuDJ_YpPMqxroyESLpIssUM9En5VA/view?usp=sharing&quot;&gt;Volunteer Packet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vRFcuiaBvXYLLiVWXdaGkNWGUyXP6_DomjaRg2d0yuxBRZDZO6dTEKJlfaQ_A0HzyLXhvcHbNAx62Kp/pub&quot;&gt;Guide to IRB Training Courses&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;important-links&quot;&gt;Important Links&lt;/h3&gt;
+&lt;p&gt;These websites are used frequently by our lab group to communicate and obtain data access. Please reach out to Dominick Lemas (djlemas@ufl.edu) for authorization if needed. These links also include the ones needed for completing IRB training.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://confluence.bmi.program.ufl.edu/dologin.action&quot;&gt;Confluence Page&lt;/a&gt;: Please email Dominick Lemas under the subect ‘Requesting Confluence Access’ with your name and UFID to get added to our Confluence Page and copy Magda Francois. Once you are granted access, please navigate to the confluence page and sign in with your gatorlink username and password.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://redcap.ctsi.ufl.edu/redcap/index.php?action=myprojects&quot;&gt;Create RedCap account&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://my.irb.ufl.edu/uflirb/&quot;&gt;Access UFIRB&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://my.ufl.edu/ps/signon.html&quot;&gt;Access MyUFL Learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://privacy.ufl.edu/uf-health-privacy/confidentiality-statement/registration/&quot;&gt;Complete Health Info Confidentiality Statement&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/11uvrwMgrFYOzjACx6vgv6MOM67mZAK3ucTAse_EUV_c/edit?usp=sharing&quot;&gt;Getting Started on Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://it.ufl.edu/ict/documentation/network-infrastructure/vpn/&quot;&gt;UF VPN&lt;/a&gt;: This page provides more information and instructions to install the UF VPN to your personal computer. The VPN is needed to access many sites including the UF IRB website and the SHARE Drive. Remember, you need to Duo Push in order to connect to the VPN.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vpn.ufhealth.org/dana-na/auth/url_20/welcome.cgi&quot;&gt;SHARE Drive&lt;/a&gt;: This website provides remote access to the Lemas Lab SHARE Drive through UF Health. Note: You must be granted access in order to log in.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/document/d/1qPFGAD8OteKotf5sVB7qgTXyxsN1fKrAfsFxrtXb_DQ/edit?usp=sharing&quot;&gt;SHARE Drive Instructions&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/08/22/Resources-for-New-Members.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/08/22/Resources-for-New-Members.html</guid>
+			</item>
+		
+			<item>
+				<title>Share Drive Access Authorization</title>
+        <description>&lt;h3 id=&quot;2020-summer&quot;&gt;2020 Summer&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Read/Write All&lt;/th&gt;
+      &lt;th&gt;Read/Write Except Consent Forms&lt;/th&gt;
+      &lt;th&gt;Read Only&lt;/th&gt;
+      &lt;th&gt;Time Period&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dominick Lemas&lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;08/06/2020 -&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Magda Francois&lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;08/06/2020 -&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Xinsong Du&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;08/06/2020 -&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nisha Chachad&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;X&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt;08/06/2020 -&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+				<pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/08/16/share_drive_access.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/08/16/share_drive_access.html</guid>
+			</item>
+		
+			<item>
+				<title>Informatics Team Meeting Schedule</title>
+        <description>&lt;p&gt;&lt;strong&gt;Maintainer:&lt;/strong&gt; Xinsong Du&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Github Repo:&lt;/strong&gt; https://github.com/lemaslab/Informatics_Team_Meeting_Schedule&lt;/p&gt;
+
+&lt;h3 id=&quot;2020-summer&quot;&gt;2020 Summer&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Date&lt;/th&gt;
+      &lt;th&gt;Presenter&lt;/th&gt;
+      &lt;th&gt;Content&lt;/th&gt;
+      &lt;th&gt;Materials&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;8/17/20&lt;/td&gt;
+      &lt;td&gt;Yasmine S Gillespie; Xinsong Du&lt;/td&gt;
+      &lt;td&gt;Docker Usage; Doing projects with the combination of local machine, Github and HiPerGator&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/blob/master/presentation/Docker_Yasmine.pptx&quot;&gt;Yasmine’s Slides&lt;/a&gt;; &lt;a href=&quot;https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/blob/master/presentation/Github_UFRC_Xinsong.pptx&quot;&gt;Xinsong’s Slides&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;2020-fall&quot;&gt;2020 Fall&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Date&lt;/th&gt;
+      &lt;th&gt;Presenter&lt;/th&gt;
+      &lt;th&gt;Content&lt;/th&gt;
+      &lt;th&gt;Materials&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9/15/20&lt;/td&gt;
+      &lt;td&gt;Luran Manfio&lt;/td&gt;
+      &lt;td&gt;Shiny App&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9/22/20&lt;/td&gt;
+      &lt;td&gt;Hailey Ballard&lt;/td&gt;
+      &lt;td&gt;Support Vector Machine for Metabolomics Data&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9/29/20&lt;/td&gt;
+      &lt;td&gt;Sabrina Shams; Nisha Chachad&lt;/td&gt;
+      &lt;td&gt;BEACH Study; How to document a scientific software&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/06/20&lt;/td&gt;
+      &lt;td&gt;Ke Xu&lt;/td&gt;
+      &lt;td&gt;Volcano plot&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/13/20&lt;/td&gt;
+      &lt;td&gt;Xinsong Du&lt;/td&gt;
+      &lt;td&gt;RUMP&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://bit.ly/34Pue09&quot;&gt;Slides&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/20/20&lt;/td&gt;
+      &lt;td&gt;Thu Kim&lt;/td&gt;
+      &lt;td&gt;Physical activity variables in BEACH Study&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;10/27/20&lt;/td&gt;
+      &lt;td&gt;Yasmine S Gillespie&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11/03/20&lt;/td&gt;
+      &lt;td&gt;Luran Manfio&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11/10/20&lt;/td&gt;
+      &lt;td&gt;Hailey Ballard&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11/17/20&lt;/td&gt;
+      &lt;td&gt;Sabrina Shams&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;11/24/20&lt;/td&gt;
+      &lt;td&gt;Nisha Chachad&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12/01/20&lt;/td&gt;
+      &lt;td&gt;Ke Xu&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;12/08/20&lt;/td&gt;
+      &lt;td&gt;Xisong Du&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+				<pubDate>Sun, 16 Aug 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/08/16/meeting_schedule.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/08/16/meeting_schedule.html</guid>
+			</item>
+		
+			<item>
+				<title>Things I wish I knew about R programming (https://www.r-project.org)</title>
+        <description>&lt;p&gt;&lt;strong&gt;Author: &lt;a href=&quot;https://lemaslab.github.io/people/dominick_lemas/index.html&quot;&gt;Dominick Lemas&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;1-what-is-r-httpswwwr-projectorgabouthtml&quot;&gt;1. What is R (https://www.r-project.org/about.html)?&lt;/h5&gt;
+
+&lt;h5 id=&quot;2-what-is-rtools-httpscranr-projectorgbinwindowsrtools&quot;&gt;2. What is Rtools (https://cran.r-project.org/bin/windows/Rtools/)?&lt;/h5&gt;
+
+&lt;h5 id=&quot;3-what-are-r-startup-procedures-httpsrstatswtfr-startuphtml&quot;&gt;3. What are R startup procedures? (https://rstats.wtf/r-startup.html)&lt;/h5&gt;
+
+&lt;h5 id=&quot;4-what-are-api-systems-and-why-do-we-need-them-for-r-programming-httpsmediumcomswlhan-introduction-to-apis-for-r-users-223597a5ce0d&quot;&gt;4. What are API systems and why do we need them for R programming? (https://medium.com/swlh/an-introduction-to-apis-for-r-users-223597a5ce0d)&lt;/h5&gt;
+</description>
+				<pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/07/22/rcode-tips.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/07/22/rcode-tips.html</guid>
+			</item>
+		
+			<item>
+				<title>FAQ for UFRC (https://www.rc.ufl.edu/) users</title>
+        <description>&lt;p&gt;&lt;strong&gt;Author: &lt;a href=&quot;https://lemaslab.github.io/people/Xinsong_Du/index.html&quot;&gt;Xinsong Du&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;1-why-are-some-commenly-used-python-packages-eg-numpy-pandas-are-missing&quot;&gt;1. Why are some commenly used python packages (e.g., &lt;a href=&quot;https://numpy.org/&quot;&gt;numpy&lt;/a&gt;, &lt;a href=&quot;https://pandas.pydata.org/&quot;&gt;pandas&lt;/a&gt;) are missing?&lt;/h5&gt;
+
+&lt;p&gt;Commonly used packages have already been installed in UFRC, see https://help.rc.ufl.edu/doc/Python. However, python need to be loaded before using:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ml python
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;2-how-to-submit-a-job&quot;&gt;2. How to submit a job?&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a file named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run.sh&lt;/code&gt; (or whatever you want but the extension should be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.sh&lt;/code&gt;) including the following content. You can use a tool like &lt;a href=&quot;https://www.youtube.com/watch?v=FLCCqzwHB5s&quot;&gt;vi&lt;/a&gt; for file creation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#!/bin/bash
+#SBATCH --job-name=nf_samples # You can change nf_samples to whatever name you want
+#SBATCH --mail-type=ALL # Use ALL or NONE
+#SBATCH --mail-user=xinsongdu@ufl.edu # Change this to your own email address
+#SBATCH --ntasks=20 # Number of CPUs you allocate to your task
+#SBATCH --mem=200gb # Number of memory you allocate to your task
+#SBATCH --account=djlemas # UFRC account name
+#SBATCH --qos=djlemas-b # Which quota of the account you want to use
+#SBATCH --time=20:00:00 # Maximum running time of the task
+#SBATCH --output=nf_samples%j.log # Log file of the task, you can change nf_samples to whatever name you want
+pwd; hostname; date
+
+# load modules (use ml command to load modules you need)
+
+# code (shell code you want to execute)
+
+date
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Run your code (replace &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run.sh&lt;/code&gt; with your own sbatch file name if the name is incorrect)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sbatch run.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h5 id=&quot;3-how-to-submit-a-job-with-software-container-such-as-docker-and-singularity&quot;&gt;3. How to submit a job with software container such as &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; and &lt;a href=&quot;https://singularity.lbl.gov/&quot;&gt;Singularity&lt;/a&gt;?&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/get-started/part2/&quot;&gt;Create a Dockerfile&lt;/a&gt;, &lt;a href=&quot;https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75&quot;&gt;build and push&lt;/a&gt; it to &lt;a href=&quot;https://hub.docker.com/&quot;&gt;Dockerhub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://singularity.lbl.gov/docs-pull&quot;&gt;Pull your needed singualarity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Go through FAQ #2, load &lt;a href=&quot;https://help.rc.ufl.edu/doc/Singularity&quot;&gt;singularity module&lt;/a&gt; with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ml singularity&lt;/code&gt; and use &lt;a href=&quot;https://singularity.lbl.gov/docs-run&quot;&gt;singularity run&lt;/a&gt; as your code.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/05/25/UFRC_FAQ.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/05/25/UFRC_FAQ.html</guid>
+			</item>
+		
+			<item>
+				<title>RUMP Personal Computer Documentation</title>
+        <description>&lt;p&gt;Asciinema Tutorial for Running RUMP: https://asciinema.org/a/CqZ9KjtP42oqMoeAXYKAmMjv3&lt;/p&gt;
+
+&lt;p&gt;It may take around 8 hours to run. You can copy this command for step 14.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://ubuntu.com/download/desktop&quot;&gt;Install Ubuntu desktop.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.virtualbox.org/&quot;&gt;Install VirtualBox.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://linuxhint.com/install_ubuntu_18-04_virtualbox/&quot;&gt;Install Ubuntu inside the VirtualBox.&lt;/a&gt;
+When selecting memory size, choose 7000 MB. When selecting file size, choose at least 40 GB.
+Move into settings, select System, and then Processor. Allocate 4 CPUs. If your computer is running extremely slowly in the VirtualBox, change to 2 CPUs.
+When you close the VirtualBox, always select “Power off the machine”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Start Ubuntu. Open terminal with ctrl + alt + T.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Clone RUMP repository.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git clone https://github.com/lemaslab/RUMP.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Move into RUMP repository.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd RUMP
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Install curl command.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install curl
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Install git command.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt install git-all
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://docs.docker.com/engine/install/ubuntu/&quot;&gt;Install Docker.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Install Java.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get update
+$ sudo apt-get install default-jre
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nextflow.io/&quot;&gt;Install Nextflow.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Download MZmine-2.53 into the repository.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;wget https://github.com/mzmine/mzmine2/releases/download/v2.53/MZmine-2.53-Linux.zip &amp;amp;&amp;amp; unzip MZmine-2.53-Linux.zip &amp;amp;&amp;amp; rm MZmine-2.53-Linux.zip
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Access “nextflow.config”. Hover over “7GB”, type “r”, and “4”. This will change “7GB” to “4GB” for memory storage. Repeat for the other “7GB”. Hit esc upon completion. Type “:wq” to save changes and exit the file.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vi nextflow.config
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Test RUMP with sample data provided.
+    &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;./nextflow main.nf --input_dir_pos functional_test/sample_data/POS/ --input_dir_neg functional_test/sample_data/NEG --POS_design_path functional_test/sample_data/pos_design.csv --NEG_design_path functional_test/sample_data/neg_design.csv -with-docker xinsongdu/lemaslab_rump:v0.0.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+				<pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/05/21/RUMP-personal-computer-documentation.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/05/21/RUMP-personal-computer-documentation.html</guid>
+			</item>
+		
+			<item>
+				<title>How to add blog post</title>
+        <description>&lt;p&gt;We use Jekyll to create Lemas lab blog. All of the blogs are hosted on Github &lt;a href=&quot;https://github.com/lemaslab/lemaslab.github.io&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LemasLab&lt;/code&gt;&lt;/a&gt;.
+Using Jekyll is a very easy way to an add post on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lemaslab.github.io&lt;/code&gt;. All the posts are located in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder located in &lt;a href=&quot;https://github.com/lemaslab/lemaslab.github.io/tree/master/_posts&quot;&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;emaslab.github.io/_posts/&lt;/code&gt;&lt;/a&gt;. Post arrangement is based on date. Each post can be written in markdown format (also in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;html&lt;/code&gt; too, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt; for entering a new line). File name of each post is in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;year-month-date-post-name.md&lt;/code&gt; format such as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2020-05-16-how-to-add-blog.md&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2016-01-14-paper101.md&lt;/code&gt;. On top of each post, you just have to state 3 main things in markdown before writing a post: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;description&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;categories&lt;/code&gt; as follows:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+Title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
+Description: All links to CoSMo summer school in computational neuroscience materials
+Categories: Scientists
+Author: Your name
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;categories&lt;/code&gt; can be only 4 choices: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;publication&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;people&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;resources&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;blog&lt;/code&gt;. It will automatically put that blog post on the page depending on categories you put. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;description&lt;/code&gt; will be shown when you share on social media like Facebook or Twitter.&lt;/p&gt;
+
+&lt;p&gt;There are multiple ways for someone to add posts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;(1) You can go directly to &lt;a href=&quot;https://github.com/lemaslab/lemaslab.github.io&quot;&gt;LemasLab.github.io&lt;/a&gt; then go to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_post&lt;/code&gt; folder and directly add markdown file. Github allows you to see preview of the markdown too so you can check before you submit any file.&lt;/li&gt;
+  &lt;li&gt;(2) You can clone forked repository to your local machine with the following command line (replace {your account} with your account name):&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/{your account}/lemaslab.github.io.git
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;_This way you can install &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; and test to see your post on local computer by running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; on terminal (after you follow &lt;a href=&quot;https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll&quot;&gt;instruction&lt;/a&gt;). For example, this post has &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;blog&lt;/code&gt; categories, I can see preview of my blog on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000/blog&lt;/code&gt; before I push to &lt;a href=&quot;https://github.com/LemasLab/LemasLab.github.io&quot;&gt;LemasLab.github.io&lt;/a&gt;. Then, follow the rest on the instructions on the GitHub page to push your blog post and create a pull request. Remember: DO NOT MERGE WITHOUT PERMISSION.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;add-math-equation&quot;&gt;Add math equation&lt;/h4&gt;
+
+&lt;p&gt;No problem, Jekyll allows you to add math equation!&lt;/p&gt;
+
+&lt;p&gt;To add inline math, we don’t use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$&lt;/code&gt; like in LaTeX since it can be conflicted with a lot of actual dollar sign so we have to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\\(&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\\)&lt;/code&gt; as opening and closing bracket instead i.e. &lt;br /&gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\\(\mathbf{y} = A \mathbf{x}\\)&lt;/code&gt; will render as \(\mathbf{y} = A \mathbf{x}\)&lt;/p&gt;
+
+&lt;p&gt;For one-line equation, we can use the same as LaTeX that is &lt;br /&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;$$\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partial q}$$&lt;/code&gt;. It will render as&lt;/p&gt;
+
+\[\cfrac{d}{dt}\cfrac{\partial L}{\partial \dot{q}} = \cfrac{\partial L}{\partial q}\]
+
+&lt;h4 id=&quot;add-code-snippet&quot;&gt;Add code snippet&lt;/h4&gt;
+
+&lt;p&gt;For inline code, it’s the same format as simple markdown format. Use back tick (symbol below tilde) to highlight inline code. If you want to add multiple line of codes, see &lt;a href=&quot;http://jekyllrb.com/docs/templates/&quot;&gt;jekyllrb.com/docs/templates/&lt;/a&gt; for more information. Basically we will use liquid tag &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;highlight &amp;lt;programming language&amp;gt;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;endhighlight&lt;/code&gt; as beginning and end tag for code snippet. Or you can simple use triple back tick same as when you write &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt; on Github repository.&lt;/p&gt;
+
+&lt;h4 id=&quot;add-images-link-or-youtube-video&quot;&gt;Add images link or Youtube video&lt;/h4&gt;
+
+&lt;p&gt;For images link, we can add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;html&lt;/code&gt; as follows&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;figure&amp;gt;&amp;lt;center&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;300&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://explainxkcd.com/wiki/images/4/4d/git.png&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;/&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/center&amp;gt;&amp;lt;/figure&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;figure&gt;&lt;center&gt;
+  &lt;img width=&quot;300&quot; src=&quot;http://explainxkcd.com/wiki/images/4/4d/git.png&quot; /&gt;
+&lt;/center&gt;&lt;/figure&gt;
+
+&lt;p&gt;For Youtube, you can just copy embed link from Youtube (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;share&lt;/code&gt; &amp;gt; &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;embed&lt;/code&gt;). For example,&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;center&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;420&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;315&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/pF5xBtaL3YI&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/center&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pF5xBtaL3YI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;again-why-jekyll&quot;&gt;Again, why Jekyll?&lt;/h4&gt;
+
+&lt;p&gt;First, Jekyll allows very easy way to transform and render plain markdown file (lingua franca of open-source community) to html which is our blog. It’s free hosting on with Github pages which just updating to Jekyll 3.0 which is much faster. See more at &lt;a href=&quot;https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0&quot;&gt;GitHub Pages now faster and simpler with Jekyll 3.0&lt;/a&gt; blog. It uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;kramdown&lt;/code&gt; markdown which is very intuitive way to write.&lt;/p&gt;
+</description>
+				<pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/05/16/how-to-add-blog.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/05/16/how-to-add-blog.html</guid>
+			</item>
+		
+			<item>
+				<title>The GitHub Project Manifesto</title>
+        <description>&lt;h4 id=&quot;why-do-we-need-a-project-management-manifesto&quot;&gt;Why do we need a Project Management Manifesto?&lt;/h4&gt;
+&lt;p&gt;We use GitHub to organize LemasLab projects. If you are new to LemasLab, please familiarize yourself with GitHub [github resources post page]. Below are “best practices” for managment and organization of LemasLab informatics projects.
+This is a work in progress and will be updated regularly.&lt;/p&gt;
+
+&lt;h5 id=&quot;what-problems-are-we-trying-to-solve&quot;&gt;What problems are we trying to solve?&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Inconsistent file and variable names&lt;/strong&gt;: Returning to a project a few days or even weeks later reveals the difficulty in remembering which files to work with. Additionally, there is often differences between variables and data frames with vague names such as df, df_new, df_new_final and (the dreaded) df_new_final2.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Inconsistent folder structure&lt;/strong&gt;: Projects often have common components such as a data folder, datasets with vague names in different stages between raw and clean.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wasted Time&lt;/strong&gt;: Poorly organized and named files increases time to re-running older scripts in order clean my code before moving onto the next step.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;What’s worse&lt;/strong&gt;, all of these problems were compounded when I worked with other people with different file naming conventions and ideas about how to organize a project.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/05/11/github-project-manifesto.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/05/11/github-project-manifesto.html</guid>
+			</item>
+		
+			<item>
+				<title>How to add yourself and publication to lab page</title>
+        <description>&lt;p&gt;Here, we provide some description on how can you add new profile to the page by editing on Github  &lt;a href=&quot;https://lemaslab.github.io/&quot;&gt;LemasLab/LemasLab.github.io&lt;/a&gt;. It’s very simple.
+You can follow the instruction below. If you have any problem, feel free to ask any lab members.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-add-yourself-to-lab-page&quot;&gt;How to add yourself to lab page&lt;/h4&gt;
+
+&lt;p&gt;You can add yourself to the page in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_people&lt;/code&gt; folder just create file name &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;firstname&amp;gt;_&amp;lt;lastname&amp;gt;.md&lt;/code&gt; in the folder. We require few line of header before you start writing your page. See the following&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+name: Eva Dyer
+position: gradStudent
+avatar: Eva_Dryer.jpg
+email:
+joined: 2014
+---
+
+&amp;lt;img width=&quot;300&quot; src=&quot;/images/people/&quot; data-action=&quot;zoom&quot;&amp;gt;
+
+### Current Project
+BEACH Project.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t have information, just leave it blank. The avatar will bring photo from images/people folder and display it on people page. You can also add photo in your own personal page the same way your add photo in blog post. In order to make sure that your picture is not distorted when upload to the webpage, the size requirement is length:width=1:1.618&lt;/p&gt;
+
+&lt;p&gt;For position, you can choose position from 4 choices including &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gradstudent&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;underGradStudent&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;researchCoordinator&lt;/code&gt;, or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pi&lt;/code&gt;. It will put you in section that you choose. If you are an alumni, or editing the people page and notice lab members that have graduated, please change the position title to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;alumni&lt;/code&gt; and the “Where they went section.” To check on this information, please search the person on LinkedIn or email them.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-to-add-new-publications&quot;&gt;How to add new publications&lt;/h4&gt;
+
+&lt;p&gt;All publications from the lab are located in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;publications.md&lt;/code&gt;. Please upload new publication on your own!&lt;/p&gt;
+</description>
+				<pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/05/03/add-new-people.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/05/03/add-new-people.html</guid>
+			</item>
+		
+			<item>
+				<title>getting started with Travis CI and continous integration</title>
+        <description>&lt;p&gt;Author: &lt;a href=&quot;lemaslab.github.io/_people/luran_manfio.md&quot;&gt;Luran Manfio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Travis CI is a tool used for continuous integration(CI) which is commonly known as the process of merger of developer code often and against known tests. This prevents the problem with developer code that causes errors or problems with the master code. This is more important when working on code collaboratively to prevent code from changing “underneath” your code(when base code changes that you were not editing or relying on). Travis CI will run the code on each commit and test the code against known tests to verify the commits and mergers. This creates an easy method for finding the problem when the code Inevitably breaks.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;title: Geeting started and set up
+description: setting up your travis CI 
+—&lt;/p&gt;
+
+&lt;p&gt;The process of adding Travis to your git repositories is straight forward. You’ll first need to create a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.travis.yml&lt;/code&gt; file within your repository which will be the configuration file for Travis. You’ll then create an account on &lt;a href=&quot;http://travis-ci.org&quot;&gt;Travis website&lt;/a&gt; that will be linked to your GitHub. Once you’ve done this you can access your repositories on the &lt;a href=&quot;http://travis-ci.org&quot;&gt;Travis website&lt;/a&gt;. Find the repository that you added the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.travis.yml&lt;/code&gt; file under the repository tab on the Travis website. You’ll then turn Travis on by flicking the switch beside your repository. You can confirm that you did the process right by going to your setting on the GitHub repository and checking the webhooks. There you should see a hyperlink to the Travis website.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve made the connection you’ll need to now configure the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.travis.yml&lt;/code&gt; file to preform the automated testing and deployment. To do this you’ll need to know some syntax for travis, the first being the Language setting which specifies the language the code is being constructed on. An example is using travis to test python code:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;language: python&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Next you’ll need to specify the version or versions of that language that you want to run. The syntax is depended on the language that your writing in so following the example it would be:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;`language: python`
+`Python:`
+`- “3.5”`
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You can also specify multiple versions by adding consecutive &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;– “version ”&lt;/code&gt;. Following this you’ll have the freedom from choosing from several hooks to test the build of the code. These hooks are you specifying when in the code you want Travis to be preforming any tests. These hooks are:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;`before_install:`
+`install:`
+`before_script:`
+`script:`
+`after_success:`
+`after_failure:`
+`after_script:`
+`before_deploy:`
+`deploy:`
+`after_deploy:`
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You DO NOT need to use or declare all of these hook. You can declare the hooks that are relevant to you and your code. One of the most commonly used hooks are the install,script,after success/failure, deploy. An example of before_install would be adding packages to allow for your code to run properly:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;`language: python`
+`python:`
+`- “3.5”`
+`before_install:`
+`- “pandas==0.25.3”`
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The script hook is where you’ll be telling the code to run/build. This could be calling the code on the repository with the required inputs. Deploy is used if you’d like Travis to deploy the script. If this is something you’ll want you can read more about it in the &lt;a href=&quot;https://docs.travis-ci.com/user/deployment&quot;&gt;deployment documentation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Now that you have a completed &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.travis.yml&lt;/code&gt; file you can commit it to your repository and Travis should run the file on your commit. You can check this on the Travis website along with the build log for your code. Now you can prevent entering merger hell and save yourself hours of decoding!&lt;/p&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+</description>
+				<pubDate>Sat, 04 Apr 2020 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2020/04/04/TravisCI.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2020/04/04/TravisCI.html</guid>
+			</item>
+		
+			<item>
+				<title>Informatics Team Orientation</title>
+        <description>&lt;p&gt;Welcome to the Lemas Lab! Below you will find orientation materials for new team members related to Informatics. This is also a resource for informatics training and documentation.&lt;/p&gt;
+
+&lt;h3 id=&quot;relevant-informatics-resources&quot;&gt;Relevant Informatics Resources&lt;/h3&gt;
+
+&lt;p&gt;UF Informatics Institute&lt;/p&gt;
+
+&lt;h3 id=&quot;core-programming-and-informatics-links&quot;&gt;Core Programming and Informatics Links&lt;/h3&gt;
+
+&lt;p&gt;Good Python Coding Practices: &lt;a href=&quot;https://lemaslab.github.io/2019/07/09/starting-in-the-lab.html&quot;&gt;PEP 8 Coding Styles for Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Install base R: &lt;a href=&quot;https://cran.r-project.org/bin/windows/base/&quot;&gt;Download R for windows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Install rstudio: &lt;a href=&quot;https://www.rstudio.com/products/rstudio/download/&quot;&gt;Download rstudio for windows&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Request Project &lt;a href=&quot;https://github.com/nutterb/redcapAPI/wiki/Finding-Your-REDCap-API-Token&quot;&gt;RedCap API token&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Link RedCap api token &lt;a href=&quot;https://cran.r-project.org/web/packages/keyringr/vignettes/Avoiding_plain_text_passwords_in_R_with_keyringr.html&quot;&gt;rstudio&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Download and register with &lt;a href=&quot;https://desktop.github.com/&quot;&gt;GitHub Desktop&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Connect to Lemas Lab &lt;a href=&quot;https://github.com/lemaslab&quot;&gt;repositories&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Request UFRC &lt;a href=&quot;https://www.rc.ufl.edu/access/account-request/&quot;&gt;account&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2019/07/09/starting-in-the-lab.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2019/07/09/starting-in-the-lab.html</guid>
+			</item>
+		
+			<item>
+				<title>Upcoming lab teachings</title>
+        <description>&lt;h1 id=&quot;upcoming-lab-teachings&quot;&gt;Upcoming lab teachings&lt;/h1&gt;
+
+&lt;p&gt;Every Friday, we get together (over pizza, sometimes) for lab teachings. 
+On a rotating basis, each member of the lab speaks and teaches about something they know. 
+Anything, really. Relevant and interesting topics, good skills to know, nice Python packages,
+neuroscientific princples, new findings and literature reviews… whatever!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fall 2018 topics&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Date&lt;/th&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Topic&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sept. 14:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sept. 21:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Sept. 28:&lt;/td&gt;
+      &lt;td&gt;Ilenna&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct. 5:&lt;/td&gt;
+      &lt;td&gt;Ari&lt;/td&gt;
+      &lt;td&gt;T.B.D.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct. 12:&lt;/td&gt;
+      &lt;td&gt;Ben&lt;/td&gt;
+      &lt;td&gt;TBD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct. 19:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Oct. 26:&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nov. 2&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nov. 9&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Nov. 16&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Requests and suggestions&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Recent progress in NLP&lt;/li&gt;
+  &lt;li&gt;1.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Recently taught topics&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;For inspiration. Add ones you’ve done!!&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Generalization in neural networks (Ari)&lt;/li&gt;
+  &lt;li&gt;Synaptic learning rules (Ari)&lt;/li&gt;
+  &lt;li&gt;How to science (debugging strategies etc.) (Konrad)&lt;/li&gt;
+  &lt;li&gt;Reinforcement learning and causal inference (Ben)&lt;/li&gt;
+  &lt;li&gt;DAGs and causal inference (Ben)&lt;/li&gt;
+  &lt;li&gt;Neuron firing dynamics and bifurcations (Ilenna)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://kordinglab.com/lab_teaching_2016/&quot;&gt;2016 topics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/KordingLab/lab_teaching_2015&quot;&gt;2015 topics&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2018/08/29/upcoming-lab-teaching.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2018/08/29/upcoming-lab-teaching.html</guid>
+			</item>
+		
+			<item>
+				<title>Lab Retreat 2019</title>
+        <description>&lt;p&gt;We typically have lab retreat each year at the lab. This year, we went to Lake Waulberg and went on their new ropes course. We also did other bonding exercises and overall had a great time.&lt;/p&gt;
+
+&lt;figure&gt;&lt;center&gt;
+  &lt;sup&gt;Group photo&lt;/sup&gt;
+  &lt;img width=&quot;500&quot; src=&quot;/images/post/lab_retreat_2016/RetreatPic5.jpg&quot; data-action=&quot;zoom&quot; /&gt;
+&lt;/center&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;center&gt;
+  &lt;sup&gt;The ropes course was massive&lt;/sup&gt;
+  &lt;img width=&quot;500&quot; src=&quot;/images/post/lab_retreat_2016/RetreatPic3.jpg&quot; data-action=&quot;zoom&quot; /&gt;
+&lt;/center&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;center&gt;
+  &lt;sup&gt;Lab members getting ready for the next activity&lt;/sup&gt;
+  &lt;img width=&quot;500&quot; src=&quot;/images/post/lab_retreat_2016/RetreatPic4.jpg&quot; data-action=&quot;zoom&quot; /&gt;
+&lt;/center&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;center&gt;
+  &lt;sup&gt;Setting up for lunch&lt;/sup&gt;
+  &lt;img width=&quot;500&quot; src=&quot;/images/post/lab_retreat_2016/thumbnail_IMG_7646.jpg&quot; data-action=&quot;zoom&quot; /&gt;
+&lt;/center&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;center&gt;
+  &lt;sup&gt;Everyone hanging out and getting to know eachother&lt;/sup&gt;
+  &lt;img width=&quot;500&quot; src=&quot;/images/post/lab_retreat_2016/RetreatPic2.jpg&quot; data-action=&quot;zoom&quot; /&gt;
+&lt;/center&gt;&lt;/figure&gt;
+</description>
+				<pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2017/02/03/lab-retreat-2016.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2017/02/03/lab-retreat-2016.html</guid>
+			</item>
+		
+			<item>
+				<title>Being productive in the lab</title>
+        <description>&lt;p&gt;&lt;strong&gt;How to be productive in the Bayesian Behavior lab&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Konrad just got the idea that I should write what kind of behaviors are useful to be productive. This is work in progress. Send me suggestions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;Be motivated.&lt;/strong&gt; Work on the topics that excite you (sometimes there is stuff that needs to be done but there is a lot of flexibility).&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Train.&lt;/strong&gt; When you join the lab write a paper or two quickly, just for the training. Then write something truly important.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Work hard.&lt;/strong&gt; Time put into science has a highly superlinear effect on science output. This is because there are many baseline time expenses such as reading papers, reading email. Doing new employee orientation etc.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Fail rapidly.&lt;/strong&gt; When trying a scientific idea, start by doing it quickly (no problem cutting corners). Then once you are convinced of the idea do it well.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Collaborate.&lt;/strong&gt; When starting a new project, think collaborators first. Who could help you do it better? Faster? Has more experience writing papers.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Be proactive.&lt;/strong&gt; Come see Konrad. Tell him what you think. Ask questions. Make sure your projects are on the top of his pile.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Network.&lt;/strong&gt; By the end of your training you need to know all the important people in your field. Plan this foremost for conferences. Plan conferences with the main objective of getting to know the right people.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Be a nice person.&lt;/strong&gt; Socialize with the lab. Arrange lunch.&lt;/li&gt;
+    &lt;li&gt;See Konrad and explain how I could improve this list.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Should you be in the lab in the first place? Read &lt;a href=&quot;http://www.nature.com/nrm/journal/v9/n5/full/nrm2389.html&quot;&gt;this&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2016/01/23/productive-in-the-lab.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2016/01/23/productive-in-the-lab.html</guid>
+			</item>
+		
+			<item>
+				<title>Networking</title>
+        <description>&lt;p&gt;Networking is one of the most important aspects of successfully doing science. Here are concrete steps:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;When you do anything, &lt;strong&gt;ask yourself if there could be a collaborator that brings in useful skills and improves the project.&lt;/strong&gt; Contact them. Most will say yes because they like us or the topic.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The people you know is of crucial importance to your career.&lt;/strong&gt; Make networking a priority. Yes, it is more important to personally get to know someone good in your field than to see the talk.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Be prepared.&lt;/strong&gt; When going to a conference, make a list of the top 10 people you would like to meet. Email them before the conference to try to set up a meeting. Go see their posters. Meet them at talks.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Be bold.&lt;/strong&gt; Feel free to ask the interesting people to have lunch/dinner/breakfast/Karaoke. Yes it is fine to sit at the table of the big shots.&lt;/li&gt;
+    &lt;li&gt;Socialize within the group. In Chicago.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+</description>
+				<pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2016/01/22/networking.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2016/01/22/networking.html</guid>
+			</item>
+		
+			<item>
+				<title>Conferences policies</title>
+        <description>&lt;p&gt;&lt;strong&gt;Attending conferences&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As the lab has been growing in size it seems useful to describe the standard conference policies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;Attending conferences is an important career investment.&lt;/strong&gt; Lab members are highly encouraged to attend 1-2 conferences a year. Significantly more gets to be a drain on time and resources. Significantly less jeopardizes networking which is crucial for academic success.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Conferences are most useful when presenting there.&lt;/strong&gt; As such, unless there are exceptional circumstances, lab members are expected to present at conferences that they attend.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Conferences are a way of getting feedback on a project.&lt;/strong&gt; As such, each project should be presented by one person (generally the lead author) at one conference. If a lot of progress has been made since the last conference then the new version of a project can be presented at a new conference. Still by and large there should be a one project, one person, one presentation correspondance.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Conferences are a way of socializing with other people/labs/ideas.&lt;/strong&gt; As such, lab members should not socialize with one another at conferences.&lt;/li&gt;
+    &lt;li&gt;Please discuss any exceptions you require.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+</description>
+				<pubDate>Thu, 21 Jan 2016 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2016/01/21/conference-policies.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2016/01/21/conference-policies.html</guid>
+			</item>
+		
+			<item>
+				<title>Undergraduate Research Assistants</title>
+        <description>
+</description>
+				<pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2016/01/15/hiring.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2016/01/15/hiring.html</guid>
+			</item>
+		
+			<item>
+				<title>Technical writing guide by Liz Moyer</title>
+        <description>&lt;p&gt;by Elisabeth Moyer, Dept. of the Geophysical Sciences, University of Chicago, 3/24/2014&lt;/p&gt;
+
+&lt;h3 id=&quot;steps-in-writing-a-paper&quot;&gt;Steps in writing a paper&lt;/h3&gt;
+
+&lt;p&gt;Below is a standard protocol for paper writing, that should ease the process of getting a
+manuscript ready for submission (or of preparing a proposal). You will check in with
+relevant people in the group at every stage. (It is perfectly reasonable to also present a
+draft figure list or outline in group meeting). After each milestone is completed, you’ll
+update your paper status in the spreadsheet. Some part of the below is just good writing
+advice, some is workflow management. Writing is an unavoidable part of science, one of
+the few fields in which the practitioners must also communicate what they have done.
+It’s something you absolutely have to do well (and efficiently) to advance your career.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Define the boundaries of your paper&lt;/strong&gt; – what subjects will you cover, what will
+you leave out? What is your conclusion? Who are your co-authors? Make sure
+each co-author knows that you are starting work. Identify who would be your
+main helper in writing the paper and get that person’s agreement to help (and
+enter them on the spreadsheet). Most co-authors will generally provide only
+individual analyses or figures and a quick read over once you have a draft. If you
+want someone to be involved as a helper during the whole process, you need to
+explicitly ask them to play a more significant role.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Choose an outside reader for your paper.&lt;/strong&gt; This policy is a new experiment for
+the group, to help the writing process. Pick someone in the lab or climate groups
+who is NOT a co-author (or pick a generous friend). That person agrees to read
+various iterations of your paper draft and provide a reality check on whether it is
+understandable / convincing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Do a literature search.&lt;/strong&gt; You need to read all the background papers to
+understand how/whether your work contributes something new, to gather
+references you’ll use in the paper, and to figure out what kind of paper you want
+to write. Make sure the save the references that you’ll cite in EndNote or directly
+into a LaTeX.bib file. You probably want to download pdfs of each relevant paper
+you’ll be citing as well, and set up a directory where you can share those papers
+with co-authors (possibly in Dropbox).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Choose a target journal&lt;/strong&gt; – identify the publication you’d like to submit to. Your
+literature search should help you decide what is the most appropriate journal.
+Once you have picked a journal, review the manuscript submission guidelines
+(usually in a web page called something like “For authors”). Identify the page
+limits and other restrictions (e.g. do they allow footnotes?), and figure out a
+reasonable number of figures. On the spreadsheet, enter the journal and your
+proposed &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n_figures&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;n_pages&lt;/code&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Set up an svn archive&lt;/strong&gt; – a shared directory - for your paper. This will allow all
+co-authors to get all updates, and to make their own updates (editing the
+document, adding figures and references, etc.). Most journals will have a LaTeX
+template for manuscript preparation. Download this and place it in the archive. If
+there is no standard template, make one that fits the journal guidelines for
+submitted manuscripts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Make a figure list and figures.&lt;/strong&gt; Decide what figures convey information and tell
+a story, and then prune your list to match your target number. (All the others that
+may be relevant to some readers can go in Supplementary Online Material). If
+you can’t tell your story in the target number of figures, you have to back up a
+step and pick another target journal that allows longer papers. (But remember,
+shorter papers usually have higher impact). Make the figures – often you learn
+new complications when making figures, so it is worth making them well in
+advance of the writing. You probably want to write a draft figure caption for each
+figure at this time; it will only become harder and harder to remember what
+you’ve done as time goes on. (See Figure section for discussion of figure
+captions). Add your figures to the archive and insert them in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.tex&lt;/code&gt; file.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Write an outline.&lt;/strong&gt; That means identifying the series of points you want to make,
+and assigning each of these points to a separate paragraph. (Then check the
+length – is the number of paragraphs consistent with your target paper length? If
+not, iterate). To ensure that your paper is a logical argument that flows naturally,
+every paragraph should have its own distinct point that is part of that argument.
+Check the flow of argument by stringing together all of your points: does it read
+like an abstract that tells a story? If not, reorganize until it does. Put your outline
+in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.tex&lt;/code&gt; file.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Start filling in the outline.&lt;/strong&gt; You should not start with complete sentences.
+Almost all people find the writing process easiest if they simply concentrate on
+getting ideas and information down in the correct order rather than worrying
+about wording. That process actually helps generate short, clear, and informative
+sentences in the end rather than vague and wordy ones written before you’re
+sure what you’re actually trying to say. Note that as you continue filling in
+information, you may realize you need to change your outline – another reason
+not to obsess over perfect sentences at the beginning. Your “helper” should be
+reading the document as you work through this step.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Smooth your filled-in outline into a readable draft&lt;/strong&gt;, in preparation for having
+others read it. If your structure is good, you should find linking ideas and
+information relatively easy at this point. Obviously put in all the references and
+results that you can, but it is OK to be missing the abstract at this point and to
+have a few blank spots or even a missing paragraph in your draft when you get
+your first readthrough. (I usually use XX’s for those: e.g. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;\cite{XX}&lt;/code&gt; means that I
+need a citation here, but haven’t found the right paper yet, or you may have &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;XX’s&lt;/code&gt;
+for error bars at this stage, or a whole paragraph with just a lead-in sentence and
+then &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“XX … need to fill in detail about the calibration here XX”.&lt;/code&gt;) Use a consistent
+flag for missing information so that you can easily search for those places in the
+paper. Your co-authors would flag comments with the same symbol. It’s OK to
+give people a draft that is too long – generally your first effort will exceed the
+target page number – but estimate your required “compression factor” at this
+point. I.e. if you have a hard 10-page limit and your draft is 15 pages, then you
+need to compress by ~ 30%. Usually a 30% compression is fairly easy and
+actually makes the paper better. If you exceed your limit by a factor of 2 you may
+have to consider switching journals.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Check the “Common Errors” listed below&lt;/strong&gt; and eliminate all you find.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Do a structure check:&lt;/strong&gt; take the first sentence of each paragraph, and string
+them together into a single meta-paragraph. Is that meta-paragraph
+comprehensible? Does it flow well, and read like an abstract? If it does, the
+structure of the paper is good. If it doesn’t read well, you may have serious
+structure problems. Sometimes the problem is mostly solved by reordering.
+Sometimes it is requires deeper cuts and changing. If you can’t identify what
+point a paragraph is making, try eliminating the paragraph and see if nothing in it
+was actually necessary to your argument. If you find that something is now
+missing, then that something must have been the point of the paragraph. It can
+help to write a separate sentence explaining what are you trying to convey.
+Sometimes you will find that that sentence should be the first line of the
+paragraph. Identify and fix issues til you can pass the structure check.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Begin iterating&lt;/strong&gt; – get your outside reader or readers to comment. When your
+reader is done reading the draft, ask what the main point is, and what advance
+you made on the previous state of the field. Assess: did they understand what
+you meant to say? Iterate til everyone agrees the paper is readable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Compress.&lt;/strong&gt; Even if you are within the page limits, take a pass through your
+paper to compress it. Remove repetitions. Identify any personal tics or
+idiosyncrasies you have and fix all instances. (Most people have at least one
+word that they overuse). Delete unnecessary sections. Finally, go through
+sentence by sentence and prune unnecessary words. Your outside reader can
+be invaluable in helping you cut and compress the paper. Usually the author gets
+attached to his or her words and believes each word is vital to the paper, but
+compressing usually improves the paper.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Write your acknowledgments.&lt;/strong&gt; You want to acknowledge anyone who is not a
+co-author who gave you significant help on the analysis or the writing (including
+your reader). Acknowledge the projects or people who helped provide data.
+Acknowledge your funding sources (often giving the grant numbers).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Pass the paper up to me (or Michael Stein) at this point.&lt;/strong&gt; It’s definitely OK to
+get input from me earlier, and I’ll always check the outline and figures to make
+sure you’re on the right track. If all has gone well and the paper is in reasonable
+shape, the final stage won’t involve major reorganization or rewrites but will be
+more a polish with some minor additions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Review the journal submission guidelines&lt;/strong&gt; again. Identify suggested
+reviewers. (Most journals let you recommend a few people, and often let you also
+recommend that certain people NOT be reviewers). Write a draft cover letter to
+the editor. (Ask other students for examples). The cover letter briefly synthesizes
+the paper and tells the editor why the manuscript is important to your field and is
+relevant to this particular journal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Once you get the go-ahead, start the submission process.&lt;/strong&gt; Even if you’re not
+the corresponding author (generally the group leader is the corresponding
+author), you’ll log in as such for the purpose of submission. Some journals have
+easy submissions, but for others the total time to complete the forms can take
+several hours. Many journals want you to submit not a pdf but a .tex file and all
+the component files that go into building the pdf, including figures, .bib and .sty
+files, and have particular rules about naming of figure files.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;steps-and-components-of-proposals&quot;&gt;Steps and components of proposals&lt;/h3&gt;
+
+&lt;p&gt;The steps above are for papers; note that proposals have a &lt;strong&gt;lot&lt;/strong&gt; of other pieces that need
+to be managed and completed: budgets, budget justifications, biosketches, current and
+pending statements, conflict of interest forms, work agreements from outside
+collaborators, internal documents needed for subawards to outside institutions,
+postdoctoral mentoring plans, broader impact statements, outreach components, etc.
+The actual science proposal in a proposal is usually 15 or 20 pages but the total
+package submitted can be 75+ pages.&lt;/p&gt;
+
+&lt;p&gt;Proposal submission generally involves two separate offices at the University of
+Chicago, the Physical Science Division (PSD) Local Business Center (LBC) and the
+University Research Administration (URA), as well as two computer systems, U.
+Chicago’s internal system (aura.uchicago.edu) and the system of whatever agency
+you’re applying to (many are now consolidated in research.gov). If the grant application
+is to a private foundation, there is also a separate U. Chicago Foundations Office.&lt;/p&gt;
+
+&lt;p&gt;Proposals that are in response to a particular agency Request for Proposals (RFP) will
+have an inviolable due date. Miss the due date, and it’s as though the proposal was
+never submitted. URA usually wants a proposal finished a full week before its due date.
+If pressed, they will reluctantly do a “contingent submission” after that time, which
+means that they transmit the proposal to the agency but do not guarantee that you
+actually followed the rules to make the proposal acceptable. Getting a font or margin or
+page limit wrong can result in a proposal being returned without review, so URA is not
+wrong to be worried.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;structure&quot;&gt;Structure&lt;/h3&gt;
+
+&lt;p&gt;Getting the structure right is the single most important part of writing a paper. Both
+papers and proposals have a kind of canonical structure. Begin with convincing the
+reader why he/she should care about your work, before you start talking about what you
+did. Because your abstract is a kind of shorthand version of the entire paper, that
+structure is reflected in the abstract as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Paper abstract structure&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;A is an important scientific problem that needs to be solved&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;It hasn’t been solved before because of B&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We now had the ability to solve it because of C&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We did D, E, and F to solve it.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We conclude the solution is G&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The solution has these important broader implications for science&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For proposals there is only a slight modification, because the work has not yet been
+done.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Proposal abstract structure&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;A is an important scientific problem that needs to be solved&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;It hasn’t been solved before because of B&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We now have the ability to solve it because of C&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We propose to do D, E, and F to solve it.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;We may find either solution G or H, either of which is interesting&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The solution will have these important broader implications for science&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Even an instrument paper can follow this structure to some extent. The reader should
+know, for example, what scientific problems your instrument is intended to solve (1), and
+what allows you to advance measurement ability (2,3).&lt;/p&gt;
+
+&lt;p&gt;In the actual paper, points 1 and 2 and possibly 3 are part of your introduction. The
+introduction must also serve the purpose of describing the state of scientific knowledge
+in the field and reviewing previous work. (That review is part of both 1 and 2).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;overarching-principles&quot;&gt;Overarching principles&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Define a science question that you are addressing.&lt;/strong&gt; You should be trying to answer a
+question that can be clearly articulated (and that ends in a question mark). You have to
+explain why your work is important if you want readers to invest time reading your
+paper. Even if your results are only suggestive, not definitive, still start with the question
+you’re trying to answer. (And even in instrument papers, you need to articulate the kind
+of questions that your instrument is designed to address.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Write for your reader and respect your reader.&lt;/strong&gt; You aren’t writing the paper for
+yourself. A paper is not a monument to yourself or a record of all your labors. It is a
+story written for other people. The only way to be a good writer is to put yourself in the
+position of those readers, so you can see how to give them the information they want in
+the order that it’s needed. You need to imagine your readers and see the paper through
+their eyes, to understand how someone not familiar with the details of your work would
+react to what you’re writing. You will almost certainly need to consciously practice this
+kind of identification. Initially, ask (beg) someone else to be an outside reader of your
+material, and then quiz them to see what they have understood. The results can be
+sobering.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Most science papers are badly written.&lt;/strong&gt; Do not model your writing on the average
+science paper, since the average paper is bad. Model your writing on a paper that is
+especially clear and compelling to you. Often you will notice that the people who write
+clear and compelling papers seem to be the ones who rise to prestigious positions in
+science. That is not a coincidence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do not rest until you can explain something clearly.&lt;/strong&gt; If you can’t explain an idea
+clearly, probably you don’t understand it fully, and that means your science is not
+complete. If you don’t understand it, your reader won’t either. Often the unclearness is a
+scientific signal, that something is wrong with your mental framework. Scientific
+advances often come from worrying over a point of confusion until you find an
+underlying fallacy or misplaced assumption.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Your paper should be intelligible if someone reads only the abstract, the figure
+captions, and the conclusion.&lt;/strong&gt; In reality most of your readers may not get much further
+than that. The abstract needs to tell the reader what science question you’re
+addressing, why it’s an important question, and what your answer is. (See Structure
+section above). The figure captions need to contain all the information needed to
+understand each figure. (See Figures section below). And the conclusions need to tell
+the reader what the wider implications of your research are, and what next steps would
+likely follow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Write the minimal amount needed to tell your story.&lt;/strong&gt; People have limited time to
+read; don’t waste it. For each detail you include, ask yourself – would the reader’s
+comprehension suffer if this detail were not included? If not, delete it. Is the detail
+relevant only to a subset of your readers? If so, put it in Supplementary Online Material
+(SOM). You need to at least identify all the analysis methods you used, and document
+every relevant assumption you made, but most readers are not going to want to go
+through your methods exhaustively. The few that do should be OK about reading it in
+SOM. (Or some journals have separate methods sections). On the micro-level, use
+simple sentence structure and choose short rather than long words where possible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Be thorough on your literature search.&lt;/strong&gt; You need to show both readers and reviewers
+that you totally understand the field and how your work fits into it. Be generous with
+citations. Unless you are really hemmed in by a page limit, there’s no reason to try to
+limit your bibliography. Remember that your reviewers will be looking to see if their
+papers are cited…I’d estimate that 50% of all problems during review come from not
+having read the literature as thoroughly as is needed. Even an initial literature search
+can take weeks. If the literature is too deep to cite everything, make sure you are citing
+the earliest paper that finds a given result, or that you’re citing a review paper and
+clearly marking it as review paper (“e.g. Smith et al 2007 and references therein.”).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Show why your conclusion is valid.&lt;/strong&gt; Show how your results allow discriminating
+between competing hypotheses. (If you can’t discriminate between hypotheses, you
+probably shouldn’t be writing a paper.) It’s not enough to say “the model results look like
+observations”. You have to answer, how closely do your results resemble observations,
+and what does that similarity tell us? For an instrument paper or proposal, show what
+level of measurement precision and accuracy you would need to make a scientific
+finding, and then demonstrate that you can achieve that precision and accuracy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No surprises.&lt;/strong&gt; Don’t try to lead your reader through the same intellectual steps that you
+went through hoping that he / she will independently have an “aha” moment and reach
+the same conclusion that you did. Instead, deliver your message multiple times: in the
+abstract, probably at the end of the introduction, again in the body of your work, and
+expand on it in the discussion. Repetition is OK.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Make sure the paper flows.&lt;/strong&gt; Examine how you are ordering ideas on all levels. The
+structure check helps you ensure flow from paragraph to paragraph, but check lower as
+well. If the paper seems to stumble, consider how you’re structuring individual
+sentences. When in doubt, start a sentence by echoing the previous sentence, and then
+proceed to something new: “A major scientific question is whether spacetime is curved
+or flat. Flat spacetime would be implied by g &amp;gt; 1.” Use parallel construction whenever
+possible – that is, if you’re introducing a second variant of an idea, use the same
+sentence construction that you did in when introducing the first variant. (“The first theory
+would predict X. …. The second theory would predict Y”)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Listen to your readers.&lt;/strong&gt; Your reader may complain about something in your paper and
+suggest a change that you don’t like. You may feel that the reader didn’t understand,
+and want to disregard their specific suggestion. That’s OK, but even if you don’t accept
+the suggestion, you need to accept that there was a problem. If the reader had trouble
+understanding what you meant, that’s a problem that requires a solution. So work on
+finding a solution that satisfies both of you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use consistent terminology.&lt;/strong&gt; It’s tempting to try to avoid repetition by changing up the
+words you use to describe the same phenomenon/approach/technique, but changes
+only confuse the reader. Minimize any changes that can produce confusion.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;figures&quot;&gt;Figures&lt;/h3&gt;
+
+&lt;p&gt;It’s important to sort out what information belongs in a figure or table caption and what
+information belongs in the text. In general&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;The combined figure caption and legend should contain ALL information needed
+to understand what is in the figure: what the data is, how it’s been manipulated,
+what the units are, what each line or symbol means. Don’t make the reader hunt
+through the text for information. (If however you state e.g. the units in the axis
+labels, you don’t need to repeat them in the figure caption.)&lt;/li&gt;
+    &lt;li&gt;The text should contain NO statements that would be meaningless without
+looking at the figure. That is, if a piece of information is only useful to the reader
+while he/she looks at the figure, it belongs in the figure caption and not in the text
+(“The blue line shows…”).&lt;/li&gt;
+    &lt;li&gt;If information is already in the figure caption, it need not be repeated in the text.
+In some cases you may want to repeat a little, but overlap isn’t necessary.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Those rules push a lot of information into the captions and out of the text. Can you get
+away with such minimal discussion of your figures in the text? Yes, and you want to
+organize the paper that way. As a general principle, you want to be writing about your
+science, not about your figures. Make the text of your paper about the actual science,
+and only refer to figures as supportive of your findings. For example, it’s bad to start a
+sentence saying &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“Figure 5 top panel, blue line, shows two months of measurements of
+g…”&lt;/code&gt;, as the reader will most likely confront that sentence without having seen Figure 5.
+It’s better to just talk about your science: “We find that g &amp;gt; 1 in 90% of our experiments,
+suggesting that existing theories are incorrect (Figure 5)”. Very occasionally you’ll find
+that you have to discuss a figure explicitly in the text, but generally you don’t need to.&lt;/p&gt;
+
+&lt;p&gt;On the graphics themselves: good graphics are extremely important to reader
+understanding and so worth spending time on. Try to use minimal “data-ink” to make
+your point: no clutter. The books of Edward Tufte (in the Liberatory) have good advice
+about graphics. Keep enough whitespace that your figure is not confusing. (If making a
+graphic elegant is difficult in your plotting language, you can make a pdf and then
+modify the graph further in Adobe Illustrator.) The best font size for readability is always
+much larger than you think it would be – keep increasing the font size til it’s definitely too
+big, and then back off just a little. Use bright color and clearly differentiable symbols,
+and filled instead of open symbols wherever possible. Try to make lines/symbol
+groupings that help the reader intuitively classify the data that you’re showing. For
+example, if you’re comparing a large number of different experimental and modeling
+predictions, you could use red lines for all experimental data, with different dashes for
+the different experiments, and black lines for all modeling results. Or you could use solid
+lines for model results and dashed for experimental results, with different color codes for
+individual studies. No reader wants to keep referring back to a legend with 30 different
+elements… try to provide a simple code so that the reader can intuitively understand
+what you’re presenting.&lt;/p&gt;
+
+&lt;h3 id=&quot;classic-mistakes-to-check-for&quot;&gt;Classic mistakes to check for:&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Writing issues&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Sentences with no subjects: passive tense.&lt;/strong&gt; Sentences should have subjects
+(e.g. say “We adjusted the laser” instead of “The laser was adjusted”). Generally
+one can avoid passive tense altogether. If you find that you’re writing too many
+sentences beginning with “We” then find a different way of stating these ideas
+rather than removing yourself from the sentence. Or, consider whether the
+overuse of “we” is a clue that you are spending too many sentences describing
+your experimental procedure.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Sentences with “This” or “That” as a subject.&lt;/strong&gt; Don’t make the reader have to
+guess what your subject is. (e.g. “This suggests that existing theories are
+incorrect”. Better to use a subject: “Our measurement of g &amp;gt; 1 suggests that
+existing theories are incorrect.”) If you feel that adding in a subject would make
+your writing repetitive, the problem may be that you’ve broken an idea that really
+belongs in one sentence into two sentences, that should be consolidated.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Overuse of adverbs.&lt;/strong&gt; If a word ends in “ly”, be wary. Look at your sentence and
+ask: how would the sentence read without that word? Is the adverb adding
+meaning, or is it just decorative? Or worse, is the adverb substituting for a
+persuasive argument? It’s easier to pump up your sentence and claim a result is
+“hugely significant” than to demonstrate to the reader that the result is in fact
+hugely significant. Claims made with a dramatic word are not proof, and the
+reader will know it, and will be suspicious.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Lists instead of persuasive arguments.&lt;/strong&gt; A list may seem efficient, but usually
+doesn’t communicate much to the reader.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Undefined acronyms.&lt;/strong&gt; The first time you use an acronym in a paper, it should be
+defined, even if you are pretty sure your readers would understand it. (“The fourth
+Intergovernmental Panel on Climate Change (IPCC) report (AR4)…”). Remember
+that even when people think that know an acronym, they may still be confused.
+SOA means secondary organic aerosol to some. To others it means “state of the
+art”.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Undefined terms.&lt;/strong&gt; If you’re going to use a symbol, you have to define it.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Unnecessary jargon or detail.&lt;/strong&gt; Don’t try to impress the reader by using
+technical jargon that he/she is not likely to understand. The point of the paper is
+not to assert that you’re smart, it’s to convey information and insight. (This rule
+holds for proposals as well). Include equations only if they are necessary to the
+argument, and only include them if you’re going to meaningfully refer to them
+again in the paper. Your default should be to write as simply and clearly as
+possible. Only use long technical words if they are absolutely necessary (and
+even then you may want to define those technical terms with some more
+evocative and intuitive explanation.) The more jargon-y your paper is, the smaller
+your potential readership, and the less compelling the paper even to those who
+understand it.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Sentences beginning with “Figure X shows….”&lt;/strong&gt; See Figures section above.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;mistakes-on-order-and-location-of-information&quot;&gt;Mistakes on order and location of information&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;The abstract (and paper) begin with detail on the subject of the investigation
+rather than on the science question&lt;/strong&gt; that your investigation is trying to answer. Don’t
+launch into detail before you have shown the reader why he should care about that
+detail. For example, opening a paper in a climate journal with “Histonoma is a rare type
+of slime mold that reproduces only when temperatures exceed 30 C for a two-week
+duration” leaves the reader is unsure why he should care or read further. If however you
+begin with than “The exact sensitivity of the climate to radiative forcing remains an open
+question. Recently several investigators have theorized that the behavior of slime molds
+contains fundamental clues to climate sensitivity”, then he knows why he should care.&lt;/p&gt;
+
+&lt;p&gt;Another example, drawn from real student writing, as the first sentence of an abstract:
+&lt;em&gt;“The bulk properties of cirrus clouds, including radiative impact, are determined by the
+microphysical processes (heterogeneous nucleation, homogeneous nucleation, growth,
+evaporation, sedimentation and aggregation) that occur during cloud formation and
+evolution.”&lt;/em&gt; A better first sentence would be something like “Possible changes in the
+distribution of cirrus clouds and their radiative properties are one of the largest sources
+of uncertainty in climate forecasts. Both the distribution and radiative properties are
+affected strongly by the microphysics of growing ice particles” (The example also stands
+as an example of one of the writing issues, substituting lists for explanations.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The work is not motivated by a science question.&lt;/strong&gt; Frequently I read proposals (and
+increasingly also papers) in which the sole justification for the work is that “it will
+improve parameterizations in models”. In other words, the authors did some technical
+work that they expect/hope will eventually be used by someone else to do some
+science, but they can’t articulate what that science is. Why would you trust that the
+author knows what an “improvement” is, if he/she doesn’t know what it would used for?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chronological writing.&lt;/strong&gt; “First we did X, then we did Y, then we did Z”. The reader
+doesn’t care what order you did things in. The reader cares about why your problem is
+important, and what you learned, and wants to see just enough procedure to be
+confident that you didn’t mess up the analysis. Think of how to tell the story of what you
+learned, not the story of what you did.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2016/01/14/writing-guide.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2016/01/14/writing-guide.html</guid>
+			</item>
+		
+			<item>
+				<title>Paper Writing 101</title>
+        <description>&lt;p&gt;This document is meant to give a simple check list for paper writing (journal articles) in cognitive science and neuroscience, originally put together for the Kording lab. It includes a range of insights I adapted from the (highly recommendable) and more general list by &lt;a href=&quot;http://www.dansimons.com/resources/writing_tips.html&quot;&gt;Dan Simons&lt;/a&gt;. Also added some ideas from Tony Zador. Comments are welcome. Keep in mind that these rules (under rare circumstances) may be broken.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;paper-writing-101&quot;&gt;&lt;strong&gt;Paper Writing 101&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Global:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make the central ideas be sticky. As the book “Made to stick” by Chip Heath and Dan Heath argues, there are certain factors that make an idea sticky: Simple, Unexpected, Concrete, Credible, Emotional, Story. Try and maximize this stickiness for the central aspect of the paper.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Any journal paper should be either about one idea or about one method. Papers with more than one topic usually dilute the main message and are hard to read. If other points need to be made (e.g. understanding DNA incidentally allows understanding how it is replicating) then it should be made in one peripheral paragraph.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;A paper should have a well defined target audience, e.g. scientists (e.g. send it to nature), neuroscientists (e.g. neuron), neuroscientists who work on movement (e.g. experimental brain research), neuroscientists who work on feedback mechanisms in the context of movement (e.g. Journal of Motor Behavior)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Do not claim “first.” Many inexperienced authors strongly emphasize that they are a first to do something. This is strategically bad. (a) I find that the majority of claimed “firsts” are actually wrong. Stating “first” just makes the referee search hard for prior art and “first” often requires very clear definitions to be true. (b) In some sense claiming “first” implies that it is not blatantly obvious that you are first because your lab’s work is so cutting edge :)&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;One of the important issues is to realize that the issues that you spent a lot of time on are often quite peripheral to the message of the paper. The reader will have a much harder time understanding the stuff than you think. After all you spent many months of your life thinking about the issue. For each project you will in some sense be the best specialist on this planet. Even famous people have large trouble understanding other scientist’s studies.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Parallel ideas should go with parallel language. For example, if your data has two interpretations, you might want to write a paragraph about each. These paragraphs should have a structure that is as similar as possible. Similarly, if you have several sentences describing different possibilities, they should have the same grammar. And if your thesis has chapters on related topics, structure the chapters in the same way.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;The triple C way of thinking:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The paper, along with each section and each paragraph, should start with something about context; continue with stuff we already know; present a logical progression of argument; and then summarize with something like a conclusion. This way of writing is called triple-C “Context, Content, Conclusion”.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every paragraph must be about one topic and one topic only. The first sentence should introduce the topic. The last sentence should summarize the answer about the topic. The sentences in between should define a clear logical link between the Context and the Conclusion.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Triple C is particularly useful as psychological studies show that beginnings and ends of lists are particularly well remembered. Your reader will remember the central idea as opposed to peripheral information.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;For further info see: &lt;a href=&quot;https://preciseedit.wordpress.com/2012/04/03/the-3-cs-of-effective-paragraphs/&quot;&gt;The 3 Cs of Effective Paragraphs&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;No duplication, Zig-zag or excessive links&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Minimize zig-zag; find a logical way of ordering your ideas.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;An idea should generally be presented at one (and only one) place in the paper. If an idea is particularly important, it might have to be revisited to keep it in the readers mind.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The one big exception is the central idea of the paper which is exposed in the intro, motivates the methods, is supported in the results, and the implications of which and problems with get discussed in the discussion.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Minimize the use of links that readers are not actually going to follow: “see methods”, “as discussed above”, “see page 3” etc. The reader will not interrupt their flow and it just wastes space.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Paragraphs:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Each paragraph is about on&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Each sentence in the paragraph contributes to that idea.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Any paragraph should be at least 4 lines long (shorter feels like it is some stray sentences). In rare exceptions 3 liners can be necessary (e.g. to describe what a chapter is about). A paragraph should generally not be longer than 12 lines as it then is hard to follow.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every sentence is necessary to support the idea of the paragraph.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Sentences:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do not use brackets that contain more than 6 words.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Use parallel structure across sentences whenever possible.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Use active voice whenever possible.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Do not try to make the language sound scientific. Say things simply.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Use short sentences. No sentence should be longer than 3 lines.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Explain why something is important or interesting instead of saying that it is.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Words:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Do not try to use scientific words, use simple words.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Do not use “rather”, “very”, “little”, or “pretty” unless you are making a joke, grading an exam, mean the opposite of large, or are talking about beauty.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Do not use acronyms if you can avoid it. If you need to use them, use only as few as possible.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Avoid jargon. This will make the paper more readable despite being less precise. Jargony words can essentially cause readers to skip entire sentences or paragraphs, and this can cause them to miss important points. So it’s best to use as simple of language as possible throughout the paper, and to ease into precision both within a paragraph and within the paper. Introductory sentences/paragraphs should be easy to digest and paragraphs/paper should only then dive into more detail. You may want to ease out of precision back into readability at the end of paragraphs/papers as well.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;workflow&quot;&gt;&lt;strong&gt;Workflow:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Spend a lot of time thinking about the idea and fine tuning it before starting a paper.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Write the abstract before starting any data collection. We first need to be sure the idea is worth writing a paper about and, given good data, makes an important and clean message.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Start with a complete outline before writing the text.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Print the paper and read through it before submitting it.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Have others read the paper before submission. Bribe them if necessary.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;when-in-doubt-unpack-ideas&quot;&gt;&lt;strong&gt;When in doubt, unpack ideas&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Your audience is from a different field. They will thus not have the intuition behind an idea. Whenever something is potentially unclear it should be unpacked.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;You are making a claim that wouldn’t be universally accepted. Unpacking here might consist of a few sentences that provide some justification for that claim.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;You introduce a new-ish idea in the paper. Unpack early (i.e., in the introduction).&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;In general, you want to unpack ideas if your mom would not understand it the way you wrote it.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;the-anatomy-of-the-paper&quot;&gt;&lt;strong&gt;The anatomy of the paper:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Today’s journal articles in cognitive science, molecular biology, neuroscience and many other disciplines all have almost identical structure. This makes it far easier for experienced readers (those reviewing papers) to read the papers, fact check them, check if they are complete and check for novelty. Sticking to the structure makes publication success dramatically more likely.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Written for a very general audience. No jargon. Write for your grandmother. Must take the reader by the hand.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;First sentence is about the big field.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Introduce big open question.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Explain basic experiment/analysis idea&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Explain methods to be used.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Explain results&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Last sentence is about how this changes progress in the&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Intro:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Start with the most general aspect, e.g. one of the central questions in neuroscience is how the interactions between neurons allows animals to learn.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every paragraph starts with a sentence describing what generally follows. Usually the first sentence is an implied question but without a question mark. E.g. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“A central objective in neuroscience is to understand learning”.&lt;/code&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every paragraph ends with a sentence that says “therefore the study you are about to read is important.” Stuff that does not scream – this is why the central idea of the paper is important! – or does not flow well is better off in the discussion.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;However, first and last sentence must be at the same level as the paragraph. So if the paragraph is about neuroscience and learning the last sentence must be about the wide field. If the paragraph is about the lack of tools to probe how priors are acquired then it needs to end with a statement that such tools promise to improve the interpretation of previous experiments that measure priors.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Progress towards more specific topics, e.g. motor adaptation as a way to study learning. Go progressively more specific&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The last paragraph of the intro is special. It starts with a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“Here we”&lt;/code&gt;, explains the methods to be used and the results obtained. It does not go into any details and does not discuss the results.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Intro should never be shorter than about a page. Aim for 1.5 pages. But neither should it be longer than say a quarter of the paper.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Do not summarize the literature you know. Summarize the literature that sets the stage for your paper. Bring across why your research matters.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Methods:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Everything should be reproducible based on the methods&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every paragraph should still give an intro on why this is important or necessary. For example it might be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“We need a method to quantify if people rely on feedback and to do so we use ...”&lt;/code&gt;&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The methods section usually does not have a figure of its own, sometimes the section is at the end of the paper. It is fine if the methods refers to a figure that comes later in the text. This main methods figure (usually fig 1) is usually then really cited first in the first paragraph of the results.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;In our lab I want to share data and models. Keep that in mind when working on the paper. All data analysis scripts and model scripts must be of high enough quality to be made available to others.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Methods should be sufficient to replicate but should not contain too much unnecessary information. It might be important to say we use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“Matlab”&lt;/code&gt; but no need to say &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“custom made scripts”&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“Pentium 4 running at 2.3Ghz”&lt;/code&gt;, etc. Only stuff that would be relevant for replicating.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;When human subjects are used it needs to say that informed consent was obtained and the study was performed according to institutional and national standards for the protection of human subjects.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First paragraph summarizes the central question and the methods to be used.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;The paragraphs in the results section should start with essentially a characterization of the raw data and progressively evolve to a quantification for single subjects and then the group of the central hypothesis. If necessary, the end paragraph may even analyze some implications of the central idea.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;When referring to figures do not use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;“Figure xxx plots x vs y and shows z”&lt;/code&gt; as this doubles the figure and figure legends and is wordy and hard to read. Rather refer to figures as in “Using our experimental paradigm we find that uncertainty increases learning speed (Fig 3b).&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every paragraph starts with a question, again usually not in question form. It ends with a statement that has larger meaning. E.g. “We wanted to test if uncertainty affects learning speed” and “Uncertainty thus clearly affects learning speed”&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Roughly the results section should have 1 paragraph per panel – unless a range of panels have a common message in which case they should all go into one paragraph. However, if the resulting paragraph would be more than 12 lines it is better to not merge the discussion of the graphs.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Discussion:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First paragraph summarizes results at a level slightly more abstract than the last sentences in results.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Then there are a couple of paragraphs that deal with a range of things.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(a) Fundamental problems of the study.&lt;br /&gt; Discusses the problems and why the study did not do better at dealing with them. Highlight how future research could deal with those problems. Be aware that reviewers might ask for those things to actually be done in the study. In particular for high level journals.&lt;br /&gt;
+(b) Discuss relevant other literature. Highlight how it asks the same questions but from a different angle. Or how it extends previous studies.&lt;br /&gt;
+(c) Discuss how the given study requires a rethinking of past research.
+(d) Discuss how this opens new avenues in other areas for the scientific study of the problem at hand. In all cases – emphasize how the given study does make definable progress.&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Be dismissive neither of the to-be-published story nor the stuff of others.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Discussion should generally not be less than 2/3 of a page. It should not generally be longer than 1/4 of the paper.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Make sure that relevant fields are cited and usually each field deserves an intro or a discussion paragraph but usually not both. If you completely miss on one field people will assume bad scholarship.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;It is usually not wrong if the most likely referees are cited.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Make sure to cite people and studies who may disagree with the results of the study at hand. Explain why there is a disagreement. Do not declare the disagreement finally solved by the study.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;A typical study should have more than 20 but less than 50 citations. Unless it is very short (nature allows 30) or very long, say a long review article may have 300 citations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Figures and Captions:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Each figure deserves to look good. So make figures in Matlab/Poser/whatever. Then load them into illustrator to make stuff look good. Spend a few hours on each figure. It is well worth it.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;First figure should explain the experiment/methods used.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Use insets and graphics to explain experimental ideas whenever possible. A figure is almost always preferable to text.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Figures are usually viewed in a small form. So use large fonts.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;It is often a good idea if the caption of the figure allows understanding the conclusion from the figure.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Ideally, the figures allow understanding the entire paper without reading.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Even although journals generally say that the figures should be submitted at the end of the text, most reviewers agree that putting them into the pdf of the main text makes reading easier. A good number of editors agree informally.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Use the same font across all figures and at most 3 sizes.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Typical papers will have at least 3 or 4 figures and no more than 8. A figure should not have more than 8 panels and usually at least 2.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;responding-to-reviews&quot;&gt;&lt;strong&gt;Responding to reviews:&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Workflow: Start with reading all the reviews in detail. Then write a complete answer to all of them. Only then do additional experiments/analysis.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Understand that reviewers usually actually are trying to do their best (but they are often under heavy time constraints).&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;In the letter to the editor emphasize and detail how the reviewers comments have allowed you to improve the paper. This is particularly important if they have not.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;In the response to each reviewer start with about 4 lines of text that states that you want to thank the reviewers for their constructive criticism/ deep insights. Give a very short high level intro to the big revisions&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Answer each of the reviewers points. If the reviewer produces long text feel free to summarize the text. Often verbose reviews are quite repetitive and summarizing makes them more manageable&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;You really want to demonstrate that you put a lot of work into the revision. Show additional figures. Detail how you did additional analysis.&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Every comment deserves a response. If the comment is stupid it still should be taken constructively. A stupid comment usually just means that the reviewer couldn’t understand the paper because it was too hard to read. If the comment seems stupid do rework the portions of the paper the reviewer criticized. Accept culpability in the response for writing in a confusing way, and state that this was corrected in the new revision and that you are sure it is much better for the readers now.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+This ends the paper writing check-list. I hope it will be useful for the papers you all write. By the time a paper ends up on my desk none of the rules above should be violated. Apart from those that really need to be violated :)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+				<link>lemas-lab-group.github.io/2016/01/14/paper101.html</link>
+				<guid isPermaLink="true">lemas-lab-group.github.io/2016/01/14/paper101.html</guid>
+			</item>
+		
+	</channel>
+</rss>
