@@ -1,6 +1,7 @@
+---
 name: Alejandra Iglesias
 position: underGradStudent
-avatar: Alejandra Iglesias jpg
+avatar: Alejandra_Iglesias jpg.jpg
 joined: 2023
 ---
 
