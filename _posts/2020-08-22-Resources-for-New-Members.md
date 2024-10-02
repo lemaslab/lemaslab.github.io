@@ -8,7 +8,7 @@ Welcome to the Lemas Lab! This page contains all of the resources you will need 
 
 ### Resources for IRB Approval
 
-[Volunteer Packet Instructions](https://docs.google.com/document/d/e/2PACX-1vSDdiuWSkUhJGDeWoeAJHMJDeJ9jl7igj2BWthT6bPAkzCg3kq9q8belHp1T6UurlXdgz9-dnuM0Hfd/pub)
+[Volunteer Packet Instructions](https://docs.google.com/document/d/e/2PACX-1vSDdiuWSkUhJGDeWoeAJHMJDeJ9jl7igj2BWthT6bPAkzCg3kq9q8belHp1T6UurlXdgz9-dnuM0Hfd/pub) Follow these step-by-step instructions to complete your volunteer packet.
 
 [Volunteer Packet](https://drive.google.com/file/d/1c2dVuDJ_YpPMqxroyESLpIssUM9En5VA/view?usp=sharing)
 
@@ -18,7 +18,7 @@ Welcome to the Lemas Lab! This page contains all of the resources you will need 
 ### Important Links
 These websites are used frequently by our lab group to communicate and obtain data access. Please reach out to Dominick Lemas (djlemas@ufl.edu) for authorization if needed. These links also include the ones needed for completing IRB training.
 
-[Confluence Page](https://confluence.bmi.program.ufl.edu/dologin.action): Please email Dominick Lemas under the subect 'Requesting Confluence Access' with your name and UFID to get added to our Confluence Page and copy Magda Francois. Once you are granted access, please navigate to the confluence page and sign in with your gatorlink username and password.
+[Confluence Page](https://confluence.bmi.program.ufl.edu/dologin.action): Please email Dominick Lemas under the subect 'Requesting Confluence Access' with your name and UFID to get added to our Confluence Page. Once you are granted access, please navigate to the confluence page and sign in with your gatorlink username and password.
 
 [Create RedCap account](https://redcap.ctsi.ufl.edu/redcap/index.php?action=myprojects)
 
