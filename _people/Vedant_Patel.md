@@ -1,6 +1,7 @@
 ---
 name: Vedant Patel
-position: underGradStudentavatar: Vedant_headshot.JPG
+position: underGradStudentavatar
+avatar: Vedant_headshot.JPG
 joined: 2025
 ---
 
@@ -10,8 +11,7 @@ joined: 2025
 
 ### About
 
-Vedant Patel is a 4th year biotechnology major from Tallahassee who watches hours of college football on the weekend and enjoys playing basketball the rest of my free time.
-
+Vedant Patel is a 4th year biotechnology major from Tallahassee, FL. He is on the Pre-Health track currently on the Beach team study.
 ### Current Projects
 
 - Beach Study
