@@ -44,22 +44,22 @@ permalink: /people/
 
 | Who are they  | When were they here | Where they went |
 | :-------------- |:-------------| :-----------|
-| Luran Manfio | Undergradaute (2015-present) | TBD |
-| Andrew Schleffer | Undergradaute (2015-present) | TBD |
-| Emily Colgate | Undergradaute (2015-present) | TBD |
-| Joshua Breuwet | Undergradaute (2015-present) | TBD |
+| Luran Manfio | Undergradaute (2015-2019) | TBD |
+| Andrew Schleffer | Undergradaute (2015-2019) | TBD |
+| Emily Colgate | Undergradaute (2015-2019) | TBD |
+| Joshua Breuwet | Undergradaute (2015-2019) | TBD |
 | Lauren Wright | Undergradaute (2015-2019) | Miller School of Medicine, University of Miami |
-| Austen Hentschel | Undergradaute (2015-present) | TBD |
-| Lynn Chen | Undergradaute (2015-present) | TBD |
-| Yasmin Garcia | Undergradaute (2015-present) | TBD |
-| Yasmine Gillespie | Undergradaute (2015-2019) | TBD |
-| Magda Francois | Research Coordinator (2015-present) | TBD |
-| Xinsong Du | Ph.D. student (2017-present) | TBD |
-| Braeden Lewis | Master student (2019-present) | TBD |
-| Yangru Zhou | Master student (2019-present) | TBD |
-| Samantha DePaul | Undergraduate student (2019-present) | TBD |
-| Hailey Ballard | Undergraduate student (2019-present) | TBD |
-| Sakina Johar | Undergraduate student (2019-present) | TBD |
-| Nisha Chachad | Undergraduate student (2019-present) | TBD |
+| Austen Hentschel | Undergradaute (2015-2019) | TBD |
+| Lynn Chen | Undergradaute (2015-2019) | TBD |
+| Yasmin Garcia | Undergradaute (2015-2019) | TBD |
+| Yasmine Gillespie | Undergradaute (2015-2019) | University of Florida College of Medicine |
+| Magda Francois | Research Coordinator (2015-2022) | TBD |
+| Xinsong Du | Ph.D. student (2017-2023) | Postdoctoral Researcher at Harvard |
+| Braeden Lewis | Master student (2019-2020) | TBD |
+| Yangru Zhou | Master student (2019-2020) | TBD |
+| Samantha DePaul | Undergraduate student (2019-2020) | TBD |
+| Hailey Ballard | Undergraduate student (2019-2021) | University of Wisconsin-Madison |
+| Sakina Johar | Undergraduate student (2019-2021) | TBD |
+| Nisha Chachad | Undergraduate student (2019-2022) | TBD |
 
 
